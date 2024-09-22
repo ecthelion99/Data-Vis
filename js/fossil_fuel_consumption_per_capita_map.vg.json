@@ -45,7 +45,7 @@
       {
         "field": "fossil_energy_per_capita_adjusted",
         "type": "quantitative",
-        "title": "Fossil Share of Electricity",
+        "title": "Fossil Fuel Energy Per Capita",
         "format": ".2f"
       }
     ]
