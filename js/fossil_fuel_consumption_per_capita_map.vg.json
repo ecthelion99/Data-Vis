@@ -13,8 +13,8 @@
       "lookup": "properties.ISO_A3",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/owid-energy-data-2020.csv"
-        },
+          "url": "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/data/owid-energy-data-2020.csv"
+	},
         "key": "iso_code",
         "fields": ["fossil_energy_per_capita"]
       }
