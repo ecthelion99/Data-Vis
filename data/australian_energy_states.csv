@@ -1,4 +1,4 @@
-Year,State,Energy Source,Value,Renewable
+Year,State,Energy_Source,Value,Renewable
 2008-09,New South Wales,Black coal,67650.3,False
 2009-10,New South Wales,Black coal,64398.6,False
 2010-11,New South Wales,Black coal,60732.2,False
