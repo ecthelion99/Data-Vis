@@ -59,21 +59,21 @@ Year,State,Energy_Source,Value,Renewable
 2020-21,New South Wales,Oil products,340.577,False
 2021-22,New South Wales,Oil products,458.081,False
 2022-23,New South Wales,Oil products,389.558,False
-2008-09,New South Wales,Other a,0.0,False
-2009-10,New South Wales,Other a,0.0,False
-2010-11,New South Wales,Other a,0.0,False
-2011-12,New South Wales,Other a,0.0,False
-2012-13,New South Wales,Other a,0.0,False
-2013-14,New South Wales,Other a,0.0,False
-2014-15,New South Wales,Other a,0.0,False
-2015-16,New South Wales,Other a,0.0,False
-2016-17,New South Wales,Other a,0.0,False
-2017-18,New South Wales,Other a,0.0,False
-2018-19,New South Wales,Other a,0.0,False
-2019-20,New South Wales,Other a,0.0,False
-2020-21,New South Wales,Other a,0.0,False
-2021-22,New South Wales,Other a,0.0,False
-2022-23,New South Wales,Other a,0.0,False
+2008-09,New South Wales,Other,0.0,False
+2009-10,New South Wales,Other,0.0,False
+2010-11,New South Wales,Other,0.0,False
+2011-12,New South Wales,Other,0.0,False
+2012-13,New South Wales,Other,0.0,False
+2013-14,New South Wales,Other,0.0,False
+2014-15,New South Wales,Other,0.0,False
+2015-16,New South Wales,Other,0.0,False
+2016-17,New South Wales,Other,0.0,False
+2017-18,New South Wales,Other,0.0,False
+2018-19,New South Wales,Other,0.0,False
+2019-20,New South Wales,Other,0.0,False
+2020-21,New South Wales,Other,0.0,False
+2021-22,New South Wales,Other,0.0,False
+2022-23,New South Wales,Other,0.0,False
 2008-09,New South Wales,"Bagasse, wood",291.3,True
 2009-10,New South Wales,"Bagasse, wood",295.3,True
 2010-11,New South Wales,"Bagasse, wood",253.3,True
@@ -179,21 +179,21 @@ Year,State,Energy_Source,Value,Renewable
 2020-21,New South Wales,Geothermal,0.0,True
 2021-22,New South Wales,Geothermal,0.0,True
 2022-23,New South Wales,Geothermal,0.0,True
-2008-09,Victoria,Black coal a,0.0,False
-2009-10,Victoria,Black coal a,0.0,False
-2010-11,Victoria,Black coal a,0.0,False
-2011-12,Victoria,Black coal a,0.0,False
-2012-13,Victoria,Black coal a,0.0,False
-2013-14,Victoria,Black coal a,0.0,False
-2014-15,Victoria,Black coal a,0.0,False
-2015-16,Victoria,Black coal a,0.0,False
-2016-17,Victoria,Black coal a,0.0,False
-2017-18,Victoria,Black coal a,0.0,False
-2018-19,Victoria,Black coal a,0.0,False
-2019-20,Victoria,Black coal a,0.0,False
-2020-21,Victoria,Black coal a,0.0,False
-2021-22,Victoria,Black coal a,0.0,False
-2022-23,Victoria,Black coal a,0.0,False
+2008-09,Victoria,Black coal,0.0,False
+2009-10,Victoria,Black coal,0.0,False
+2010-11,Victoria,Black coal,0.0,False
+2011-12,Victoria,Black coal,0.0,False
+2012-13,Victoria,Black coal,0.0,False
+2013-14,Victoria,Black coal,0.0,False
+2014-15,Victoria,Black coal,0.0,False
+2015-16,Victoria,Black coal,0.0,False
+2016-17,Victoria,Black coal,0.0,False
+2017-18,Victoria,Black coal,0.0,False
+2018-19,Victoria,Black coal,0.0,False
+2019-20,Victoria,Black coal,0.0,False
+2020-21,Victoria,Black coal,0.0,False
+2021-22,Victoria,Black coal,0.0,False
+2022-23,Victoria,Black coal,0.0,False
 2008-09,Victoria,Brown coal,52094.0,False
 2009-10,Victoria,Brown coal,51541.7,False
 2010-11,Victoria,Brown coal,51066.5,False
@@ -239,36 +239,36 @@ Year,State,Energy_Source,Value,Renewable
 2020-21,Victoria,Oil products,179.068,False
 2021-22,Victoria,Oil products,219.429,False
 2022-23,Victoria,Oil products,259.086,False
-2008-09,Victoria,Other b,0.0,False
-2009-10,Victoria,Other b,0.0,False
-2010-11,Victoria,Other b,0.0,False
-2011-12,Victoria,Other b,0.0,False
-2012-13,Victoria,Other b,0.0,False
-2013-14,Victoria,Other b,0.0,False
-2014-15,Victoria,Other b,0.0,False
-2015-16,Victoria,Other b,0.0,False
-2016-17,Victoria,Other b,0.0,False
-2017-18,Victoria,Other b,0.0,False
-2018-19,Victoria,Other b,0.0,False
-2019-20,Victoria,Other b,0.0,False
-2020-21,Victoria,Other b,0.0,False
-2021-22,Victoria,Other b,0.0,False
-2022-23,Victoria,Other b,0.0,False
-2008-09,Victoria,"Bagasse, wood c",0.0,True
-2009-10,Victoria,"Bagasse, wood c",0.0,True
-2010-11,Victoria,"Bagasse, wood c",0.0,True
-2011-12,Victoria,"Bagasse, wood c",187.106,True
-2012-13,Victoria,"Bagasse, wood c",171.14,True
-2013-14,Victoria,"Bagasse, wood c",188.787,True
-2014-15,Victoria,"Bagasse, wood c",251.976,True
-2015-16,Victoria,"Bagasse, wood c",235.392,True
-2016-17,Victoria,"Bagasse, wood c",263.355,True
-2017-18,Victoria,"Bagasse, wood c",241.012,True
-2018-19,Victoria,"Bagasse, wood c",235.469,True
-2019-20,Victoria,"Bagasse, wood c",243.797,True
-2020-21,Victoria,"Bagasse, wood c",229.67,True
-2021-22,Victoria,"Bagasse, wood c",258.839,True
-2022-23,Victoria,"Bagasse, wood c",192.908,True
+2008-09,Victoria,Other,0.0,False
+2009-10,Victoria,Other,0.0,False
+2010-11,Victoria,Other,0.0,False
+2011-12,Victoria,Other,0.0,False
+2012-13,Victoria,Other,0.0,False
+2013-14,Victoria,Other,0.0,False
+2014-15,Victoria,Other,0.0,False
+2015-16,Victoria,Other,0.0,False
+2016-17,Victoria,Other,0.0,False
+2017-18,Victoria,Other,0.0,False
+2018-19,Victoria,Other,0.0,False
+2019-20,Victoria,Other,0.0,False
+2020-21,Victoria,Other,0.0,False
+2021-22,Victoria,Other,0.0,False
+2022-23,Victoria,Other,0.0,False
+2008-09,Victoria,"Bagasse, wood",0.0,True
+2009-10,Victoria,"Bagasse, wood",0.0,True
+2010-11,Victoria,"Bagasse, wood",0.0,True
+2011-12,Victoria,"Bagasse, wood",187.106,True
+2012-13,Victoria,"Bagasse, wood",171.14,True
+2013-14,Victoria,"Bagasse, wood",188.787,True
+2014-15,Victoria,"Bagasse, wood",251.976,True
+2015-16,Victoria,"Bagasse, wood",235.392,True
+2016-17,Victoria,"Bagasse, wood",263.355,True
+2017-18,Victoria,"Bagasse, wood",241.012,True
+2018-19,Victoria,"Bagasse, wood",235.469,True
+2019-20,Victoria,"Bagasse, wood",243.797,True
+2020-21,Victoria,"Bagasse, wood",229.67,True
+2021-22,Victoria,"Bagasse, wood",258.839,True
+2022-23,Victoria,"Bagasse, wood",192.908,True
 2008-09,Victoria,Biogas,292.0,True
 2009-10,Victoria,Biogas,303.4,True
 2010-11,Victoria,Biogas,339.6,True
@@ -419,21 +419,21 @@ Year,State,Energy_Source,Value,Renewable
 2020-21,Queensland,Oil products,1034.932,False
 2021-22,Queensland,Oil products,1098.305,False
 2022-23,Queensland,Oil products,1235.302,False
-2008-09,Queensland,Other a,0.0,False
-2009-10,Queensland,Other a,0.0,False
-2010-11,Queensland,Other a,0.0,False
-2011-12,Queensland,Other a,0.0,False
-2012-13,Queensland,Other a,0.0,False
-2013-14,Queensland,Other a,0.0,False
-2014-15,Queensland,Other a,0.0,False
-2015-16,Queensland,Other a,0.0,False
-2016-17,Queensland,Other a,0.0,False
-2017-18,Queensland,Other a,0.0,False
-2018-19,Queensland,Other a,0.0,False
-2019-20,Queensland,Other a,0.0,False
-2020-21,Queensland,Other a,0.0,False
-2021-22,Queensland,Other a,0.0,False
-2022-23,Queensland,Other a,0.0,False
+2008-09,Queensland,Other,0.0,False
+2009-10,Queensland,Other,0.0,False
+2010-11,Queensland,Other,0.0,False
+2011-12,Queensland,Other,0.0,False
+2012-13,Queensland,Other,0.0,False
+2013-14,Queensland,Other,0.0,False
+2014-15,Queensland,Other,0.0,False
+2015-16,Queensland,Other,0.0,False
+2016-17,Queensland,Other,0.0,False
+2017-18,Queensland,Other,0.0,False
+2018-19,Queensland,Other,0.0,False
+2019-20,Queensland,Other,0.0,False
+2020-21,Queensland,Other,0.0,False
+2021-22,Queensland,Other,0.0,False
+2022-23,Queensland,Other,0.0,False
 2008-09,Queensland,"Bagasse, wood",1472.1,True
 2009-10,Queensland,"Bagasse, wood",1466.5,True
 2010-11,Queensland,"Bagasse, wood",823.7,True
@@ -599,36 +599,36 @@ Year,State,Energy_Source,Value,Renewable
 2020-21,Western Australia,Oil products,2458.258,False
 2021-22,Western Australia,Oil products,2197.608,False
 2022-23,Western Australia,Oil products,2197.932,False
-2008-09,Western Australia,Other a,0.0,False
-2009-10,Western Australia,Other a,0.0,False
-2010-11,Western Australia,Other a,0.0,False
-2011-12,Western Australia,Other a,0.0,False
-2012-13,Western Australia,Other a,0.0,False
-2013-14,Western Australia,Other a,0.0,False
-2014-15,Western Australia,Other a,0.0,False
-2015-16,Western Australia,Other a,0.0,False
-2016-17,Western Australia,Other a,0.0,False
-2017-18,Western Australia,Other a,0.0,False
-2018-19,Western Australia,Other a,0.0,False
-2019-20,Western Australia,Other a,0.0,False
-2020-21,Western Australia,Other a,0.0,False
-2021-22,Western Australia,Other a,0.0,False
-2022-23,Western Australia,Other a,0.0,False
-2008-09,Western Australia,"Bagasse, wood b",0.0,True
-2009-10,Western Australia,"Bagasse, wood b",0.0,True
-2010-11,Western Australia,"Bagasse, wood b",0.0,True
-2011-12,Western Australia,"Bagasse, wood b",0.0,True
-2012-13,Western Australia,"Bagasse, wood b",0.0,True
-2013-14,Western Australia,"Bagasse, wood b",0.0,True
-2014-15,Western Australia,"Bagasse, wood b",0.0,True
-2015-16,Western Australia,"Bagasse, wood b",0.0,True
-2016-17,Western Australia,"Bagasse, wood b",0.0,True
-2017-18,Western Australia,"Bagasse, wood b",0.0,True
-2018-19,Western Australia,"Bagasse, wood b",0.0,True
-2019-20,Western Australia,"Bagasse, wood b",0.0,True
-2020-21,Western Australia,"Bagasse, wood b",0.0,True
-2021-22,Western Australia,"Bagasse, wood b",0.0,True
-2022-23,Western Australia,"Bagasse, wood b",0.0,True
+2008-09,Western Australia,Other,0.0,False
+2009-10,Western Australia,Other,0.0,False
+2010-11,Western Australia,Other,0.0,False
+2011-12,Western Australia,Other,0.0,False
+2012-13,Western Australia,Other,0.0,False
+2013-14,Western Australia,Other,0.0,False
+2014-15,Western Australia,Other,0.0,False
+2015-16,Western Australia,Other,0.0,False
+2016-17,Western Australia,Other,0.0,False
+2017-18,Western Australia,Other,0.0,False
+2018-19,Western Australia,Other,0.0,False
+2019-20,Western Australia,Other,0.0,False
+2020-21,Western Australia,Other,0.0,False
+2021-22,Western Australia,Other,0.0,False
+2022-23,Western Australia,Other,0.0,False
+2008-09,Western Australia,"Bagasse, wood",0.0,True
+2009-10,Western Australia,"Bagasse, wood",0.0,True
+2010-11,Western Australia,"Bagasse, wood",0.0,True
+2011-12,Western Australia,"Bagasse, wood",0.0,True
+2012-13,Western Australia,"Bagasse, wood",0.0,True
+2013-14,Western Australia,"Bagasse, wood",0.0,True
+2014-15,Western Australia,"Bagasse, wood",0.0,True
+2015-16,Western Australia,"Bagasse, wood",0.0,True
+2016-17,Western Australia,"Bagasse, wood",0.0,True
+2017-18,Western Australia,"Bagasse, wood",0.0,True
+2018-19,Western Australia,"Bagasse, wood",0.0,True
+2019-20,Western Australia,"Bagasse, wood",0.0,True
+2020-21,Western Australia,"Bagasse, wood",0.0,True
+2021-22,Western Australia,"Bagasse, wood",0.0,True
+2022-23,Western Australia,"Bagasse, wood",0.0,True
 2008-09,Western Australia,Biogas,119.6,True
 2009-10,Western Australia,Biogas,121.2,True
 2010-11,Western Australia,Biogas,111.7,True
@@ -779,21 +779,21 @@ Year,State,Energy_Source,Value,Renewable
 2020-21,South Australia,Oil products,126.725,False
 2021-22,South Australia,Oil products,217.975,False
 2022-23,South Australia,Oil products,242.628,False
-2008-09,South Australia,Other a,0.0,False
-2009-10,South Australia,Other a,0.0,False
-2010-11,South Australia,Other a,0.0,False
-2011-12,South Australia,Other a,0.0,False
-2012-13,South Australia,Other a,0.0,False
-2013-14,South Australia,Other a,0.0,False
-2014-15,South Australia,Other a,0.0,False
-2015-16,South Australia,Other a,0.0,False
-2016-17,South Australia,Other a,0.0,False
-2017-18,South Australia,Other a,0.0,False
-2018-19,South Australia,Other a,0.0,False
-2019-20,South Australia,Other a,0.0,False
-2020-21,South Australia,Other a,0.0,False
-2021-22,South Australia,Other a,0.0,False
-2022-23,South Australia,Other a,0.0,False
+2008-09,South Australia,Other,0.0,False
+2009-10,South Australia,Other,0.0,False
+2010-11,South Australia,Other,0.0,False
+2011-12,South Australia,Other,0.0,False
+2012-13,South Australia,Other,0.0,False
+2013-14,South Australia,Other,0.0,False
+2014-15,South Australia,Other,0.0,False
+2015-16,South Australia,Other,0.0,False
+2016-17,South Australia,Other,0.0,False
+2017-18,South Australia,Other,0.0,False
+2018-19,South Australia,Other,0.0,False
+2019-20,South Australia,Other,0.0,False
+2020-21,South Australia,Other,0.0,False
+2021-22,South Australia,Other,0.0,False
+2022-23,South Australia,Other,0.0,False
 2008-09,South Australia,"Bagasse, wood",0.0,True
 2009-10,South Australia,"Bagasse, wood",0.0,True
 2010-11,South Australia,"Bagasse, wood",0.0,True
@@ -959,21 +959,21 @@ Year,State,Energy_Source,Value,Renewable
 2020-21,Tasmania,Oil products,19.835,False
 2021-22,Tasmania,Oil products,10.676,False
 2022-23,Tasmania,Oil products,12.669,False
-2008-09,Tasmania,Other a,0.0,False
-2009-10,Tasmania,Other a,0.0,False
-2010-11,Tasmania,Other a,0.0,False
-2011-12,Tasmania,Other a,0.0,False
-2012-13,Tasmania,Other a,0.0,False
-2013-14,Tasmania,Other a,0.0,False
-2014-15,Tasmania,Other a,0.0,False
-2015-16,Tasmania,Other a,0.0,False
-2016-17,Tasmania,Other a,0.0,False
-2017-18,Tasmania,Other a,0.0,False
-2018-19,Tasmania,Other a,0.0,False
-2019-20,Tasmania,Other a,0.0,False
-2020-21,Tasmania,Other a,0.0,False
-2021-22,Tasmania,Other a,0.0,False
-2022-23,Tasmania,Other a,0.0,False
+2008-09,Tasmania,Other,0.0,False
+2009-10,Tasmania,Other,0.0,False
+2010-11,Tasmania,Other,0.0,False
+2011-12,Tasmania,Other,0.0,False
+2012-13,Tasmania,Other,0.0,False
+2013-14,Tasmania,Other,0.0,False
+2014-15,Tasmania,Other,0.0,False
+2015-16,Tasmania,Other,0.0,False
+2016-17,Tasmania,Other,0.0,False
+2017-18,Tasmania,Other,0.0,False
+2018-19,Tasmania,Other,0.0,False
+2019-20,Tasmania,Other,0.0,False
+2020-21,Tasmania,Other,0.0,False
+2021-22,Tasmania,Other,0.0,False
+2022-23,Tasmania,Other,0.0,False
 2008-09,Tasmania,"Bagasse, wood",0.0,True
 2009-10,Tasmania,"Bagasse, wood",0.0,True
 2010-11,Tasmania,"Bagasse, wood",0.0,True
@@ -1139,21 +1139,21 @@ Year,State,Energy_Source,Value,Renewable
 2020-21,Northern Territory,Oil products,502.491,False
 2021-22,Northern Territory,Oil products,461.921,False
 2022-23,Northern Territory,Oil products,527.223,False
-2008-09,Northern Territory,Other a,0.0,False
-2009-10,Northern Territory,Other a,0.0,False
-2010-11,Northern Territory,Other a,0.0,False
-2011-12,Northern Territory,Other a,0.0,False
-2012-13,Northern Territory,Other a,0.0,False
-2013-14,Northern Territory,Other a,0.0,False
-2014-15,Northern Territory,Other a,0.0,False
-2015-16,Northern Territory,Other a,0.0,False
-2016-17,Northern Territory,Other a,0.0,False
-2017-18,Northern Territory,Other a,0.0,False
-2018-19,Northern Territory,Other a,0.0,False
-2019-20,Northern Territory,Other a,0.0,False
-2020-21,Northern Territory,Other a,0.0,False
-2021-22,Northern Territory,Other a,0.0,False
-2022-23,Northern Territory,Other a,0.0,False
+2008-09,Northern Territory,Other,0.0,False
+2009-10,Northern Territory,Other,0.0,False
+2010-11,Northern Territory,Other,0.0,False
+2011-12,Northern Territory,Other,0.0,False
+2012-13,Northern Territory,Other,0.0,False
+2013-14,Northern Territory,Other,0.0,False
+2014-15,Northern Territory,Other,0.0,False
+2015-16,Northern Territory,Other,0.0,False
+2016-17,Northern Territory,Other,0.0,False
+2017-18,Northern Territory,Other,0.0,False
+2018-19,Northern Territory,Other,0.0,False
+2019-20,Northern Territory,Other,0.0,False
+2020-21,Northern Territory,Other,0.0,False
+2021-22,Northern Territory,Other,0.0,False
+2022-23,Northern Territory,Other,0.0,False
 2008-09,Northern Territory,"Bagasse, wood",0.0,True
 2009-10,Northern Territory,"Bagasse, wood",0.0,True
 2010-11,Northern Territory,"Bagasse, wood",0.0,True
