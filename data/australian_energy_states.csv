@@ -1,0 +1,1576 @@
+Year,State,Energy Source,Value,Renewable
+2008-09,NSW,Black coal,67650.3,False
+2009-10,NSW,Black coal,64398.6,False
+2010-11,NSW,Black coal,60732.2,False
+2011-12,NSW,Black coal,60453.7,False
+2012-13,NSW,Black coal,56798.6,False
+2013-14,NSW,Black coal,55819.495,False
+2014-15,NSW,Black coal,52562.2,False
+2015-16,NSW,Black coal,55334.499,False
+2016-17,NSW,Black coal,55967.139,False
+2017-18,NSW,Black coal,57022.151,False
+2018-19,NSW,Black coal,57734.932,False
+2019-20,NSW,Black coal,53566.67,False
+2020-21,NSW,Black coal,50790.813,False
+2021-22,NSW,Black coal,46958.795,False
+2022-23,NSW,Black coal,45602.768,False
+2008-09,NSW,Brown coal,,False
+2009-10,NSW,Brown coal,,False
+2010-11,NSW,Brown coal,,False
+2011-12,NSW,Brown coal,,False
+2012-13,NSW,Brown coal,,False
+2013-14,NSW,Brown coal,,False
+2014-15,NSW,Brown coal,,False
+2015-16,NSW,Brown coal,,False
+2016-17,NSW,Brown coal,,False
+2017-18,NSW,Brown coal,,False
+2018-19,NSW,Brown coal,,False
+2019-20,NSW,Brown coal,,False
+2020-21,NSW,Brown coal,,False
+2021-22,NSW,Brown coal,,False
+2022-23,NSW,Brown coal,,False
+2008-09,NSW,Natural gas,2445.1,False
+2009-10,NSW,Natural gas,4681.3,False
+2010-11,NSW,Natural gas,4742.7,False
+2011-12,NSW,Natural gas,4212.1,False
+2012-13,NSW,Natural gas,5168.7,False
+2013-14,NSW,Natural gas,5528.3,False
+2014-15,NSW,Natural gas,4528.39,False
+2015-16,NSW,Natural gas,4628.561,False
+2016-17,NSW,Natural gas,3330.808,False
+2017-18,NSW,Natural gas,3045.834,False
+2018-19,NSW,Natural gas,2360.324,False
+2019-20,NSW,Natural gas,2870.937,False
+2020-21,NSW,Natural gas,1903.206,False
+2021-22,NSW,Natural gas,3210.705,False
+2022-23,NSW,Natural gas,2497.562,False
+2008-09,NSW,Oil products,24.7,False
+2009-10,NSW,Oil products,5.6,False
+2010-11,NSW,Oil products,61.4,False
+2011-12,NSW,Oil products,42.1,False
+2012-13,NSW,Oil products,190.9,False
+2013-14,NSW,Oil products,170.7,False
+2014-15,NSW,Oil products,284.3,False
+2015-16,NSW,Oil products,289.533,False
+2016-17,NSW,Oil products,321.55,False
+2017-18,NSW,Oil products,324.365,False
+2018-19,NSW,Oil products,322.563,False
+2019-20,NSW,Oil products,337.29,False
+2020-21,NSW,Oil products,340.577,False
+2021-22,NSW,Oil products,458.081,False
+2022-23,NSW,Oil products,389.558,False
+2008-09,NSW,Other a,,False
+2009-10,NSW,Other a,,False
+2010-11,NSW,Other a,,False
+2011-12,NSW,Other a,,False
+2012-13,NSW,Other a,,False
+2013-14,NSW,Other a,,False
+2014-15,NSW,Other a,,False
+2015-16,NSW,Other a,,False
+2016-17,NSW,Other a,,False
+2017-18,NSW,Other a,,False
+2018-19,NSW,Other a,,False
+2019-20,NSW,Other a,,False
+2020-21,NSW,Other a,,False
+2021-22,NSW,Other a,,False
+2022-23,NSW,Other a,,False
+2008-09,NSW,"Bagasse, wood",291.3,True
+2009-10,NSW,"Bagasse, wood",295.3,True
+2010-11,NSW,"Bagasse, wood",253.3,True
+2011-12,NSW,"Bagasse, wood",413.6,True
+2012-13,NSW,"Bagasse, wood",425.4,True
+2013-14,NSW,"Bagasse, wood",461.7,True
+2014-15,NSW,"Bagasse, wood",551.1,True
+2015-16,NSW,"Bagasse, wood",601.734,True
+2016-17,NSW,"Bagasse, wood",696.468,True
+2017-18,NSW,"Bagasse, wood",764.985,True
+2018-19,NSW,"Bagasse, wood",758.832,True
+2019-20,NSW,"Bagasse, wood",716.2,True
+2020-21,NSW,"Bagasse, wood",686.098,True
+2021-22,NSW,"Bagasse, wood",568.338,True
+2022-23,NSW,"Bagasse, wood",580.955,True
+2008-09,NSW,Biogas,383.4,True
+2009-10,NSW,Biogas,385.8,True
+2010-11,NSW,Biogas,360.0,True
+2011-12,NSW,Biogas,408.7,True
+2012-13,NSW,Biogas,413.4,True
+2013-14,NSW,Biogas,420.6,True
+2014-15,NSW,Biogas,472.1,True
+2015-16,NSW,Biogas,444.606,True
+2016-17,NSW,Biogas,406.21,True
+2017-18,NSW,Biogas,424.375,True
+2018-19,NSW,Biogas,418.791,True
+2019-20,NSW,Biogas,387.435,True
+2020-21,NSW,Biogas,411.044,True
+2021-22,NSW,Biogas,398.533,True
+2022-23,NSW,Biogas,411.396,True
+2008-09,NSW,Wind,41.3,True
+2009-10,NSW,Wind,432.5,True
+2010-11,NSW,Wind,530.091,True
+2011-12,NSW,Wind,697.6,True
+2012-13,NSW,Wind,832.6,True
+2013-14,NSW,Wind,899.202,True
+2014-15,NSW,Wind,1376.0,True
+2015-16,NSW,Wind,1898.787,True
+2016-17,NSW,Wind,1872.027,True
+2017-18,NSW,Wind,2431.628,True
+2018-19,NSW,Wind,3739.737,True
+2019-20,NSW,Wind,4574.26,True
+2020-21,NSW,Wind,4805.916,True
+2021-22,NSW,Wind,5973.429,True
+2022-23,NSW,Wind,6210.924,True
+2008-09,NSW,Hydro,1496.977,True
+2009-10,NSW,Hydro,2689.526,True
+2010-11,NSW,Hydro,2474.878,True
+2011-12,NSW,Hydro,2446.925,True
+2012-13,NSW,Hydro,3298.089,True
+2013-14,NSW,Hydro,2721.109,True
+2014-15,NSW,Hydro,1770.988,True
+2015-16,NSW,Hydro,3170.201,True
+2016-17,NSW,Hydro,3290.647,True
+2017-18,NSW,Hydro,2915.519,True
+2018-19,NSW,Hydro,2160.284,True
+2019-20,NSW,Hydro,2110.053,True
+2020-21,NSW,Hydro,2964.239,True
+2021-22,NSW,Hydro,3315.522,True
+2022-23,NSW,Hydro,3752.077,True
+2008-09,NSW,Large-scale solar PV,,True
+2009-10,NSW,Large-scale solar PV,,True
+2010-11,NSW,Large-scale solar PV,,True
+2011-12,NSW,Large-scale solar PV,,True
+2012-13,NSW,Large-scale solar PV,,True
+2013-14,NSW,Large-scale solar PV,10.635,True
+2014-15,NSW,Large-scale solar PV,60.176,True
+2015-16,NSW,Large-scale solar PV,399.511,True
+2016-17,NSW,Large-scale solar PV,567.558,True
+2017-18,NSW,Large-scale solar PV,699.96,True
+2018-19,NSW,Large-scale solar PV,1348.238,True
+2019-20,NSW,Large-scale solar PV,2084.569,True
+2020-21,NSW,Large-scale solar PV,3368.02,True
+2021-22,NSW,Large-scale solar PV,5014.413,True
+2022-23,NSW,Large-scale solar PV,6126.583,True
+2008-09,NSW,Small-scale solar PV,36.3,True
+2009-10,NSW,Small-scale solar PV,119.2,True
+2010-11,NSW,Small-scale solar PV,526.3,True
+2011-12,NSW,Small-scale solar PV,657.7,True
+2012-13,NSW,Small-scale solar PV,857.6,True
+2013-14,NSW,Small-scale solar PV,964.898,True
+2014-15,NSW,Small-scale solar PV,1211.187,True
+2015-16,NSW,Small-scale solar PV,1461.945,True
+2016-17,NSW,Small-scale solar PV,1706.84,True
+2017-18,NSW,Small-scale solar PV,2095.805,True
+2018-19,NSW,Small-scale solar PV,2717.095,True
+2019-20,NSW,Small-scale solar PV,3417.322,True
+2020-21,NSW,Small-scale solar PV,4892.915,True
+2021-22,NSW,Small-scale solar PV,6201.341,True
+2022-23,NSW,Small-scale solar PV,7497.882,True
+2008-09,NSW,Geothermal,,True
+2009-10,NSW,Geothermal,,True
+2010-11,NSW,Geothermal,,True
+2011-12,NSW,Geothermal,,True
+2012-13,NSW,Geothermal,,True
+2013-14,NSW,Geothermal,,True
+2014-15,NSW,Geothermal,,True
+2015-16,NSW,Geothermal,,True
+2016-17,NSW,Geothermal,,True
+2017-18,NSW,Geothermal,,True
+2018-19,NSW,Geothermal,,True
+2019-20,NSW,Geothermal,,True
+2020-21,NSW,Geothermal,,True
+2021-22,NSW,Geothermal,,True
+2022-23,NSW,Geothermal,,True
+2008-09,VIC,Black coal a,,False
+2009-10,VIC,Black coal a,,False
+2010-11,VIC,Black coal a,,False
+2011-12,VIC,Black coal a,,False
+2012-13,VIC,Black coal a,,False
+2013-14,VIC,Black coal a,,False
+2014-15,VIC,Black coal a,,False
+2015-16,VIC,Black coal a,,False
+2016-17,VIC,Black coal a,,False
+2017-18,VIC,Black coal a,,False
+2018-19,VIC,Black coal a,,False
+2019-20,VIC,Black coal a,,False
+2020-21,VIC,Black coal a,,False
+2021-22,VIC,Black coal a,,False
+2022-23,VIC,Black coal a,,False
+2008-09,VIC,Brown coal,52094.0,False
+2009-10,VIC,Brown coal,51541.7,False
+2010-11,VIC,Brown coal,51066.5,False
+2011-12,VIC,Brown coal,52059.7,False
+2012-13,VIC,Brown coal,45317.6,False
+2013-14,VIC,Brown coal,43977.7,False
+2014-15,VIC,Brown coal,48336.8,False
+2015-16,VIC,Brown coal,46234.132,False
+2016-17,VIC,Brown coal,43594.098,False
+2017-18,VIC,Brown coal,36021.427,False
+2018-19,VIC,Brown coal,34495.245,False
+2019-20,VIC,Brown coal,33661.55,False
+2020-21,VIC,Brown coal,34060.028,False
+2021-22,VIC,Brown coal,32515.636,False
+2022-23,VIC,Brown coal,31459.126,False
+2008-09,VIC,Natural gas,1451.9,False
+2009-10,VIC,Natural gas,1697.9,False
+2010-11,VIC,Natural gas,1289.8,False
+2011-12,VIC,Natural gas,1142.5,False
+2012-13,VIC,Natural gas,3247.7,False
+2013-14,VIC,Natural gas,3239.3,False
+2014-15,VIC,Natural gas,2390.927,False
+2015-16,VIC,Natural gas,1892.244,False
+2016-17,VIC,Natural gas,2658.739,False
+2017-18,VIC,Natural gas,3829.887,False
+2018-19,VIC,Natural gas,3334.031,False
+2019-20,VIC,Natural gas,3117.04,False
+2020-21,VIC,Natural gas,1956.916,False
+2021-22,VIC,Natural gas,2224.829,False
+2022-23,VIC,Natural gas,1693.466,False
+2008-09,VIC,Oil products,20.4,False
+2009-10,VIC,Oil products,1.1,False
+2010-11,VIC,Oil products,38.2,False
+2011-12,VIC,Oil products,4.0,False
+2012-13,VIC,Oil products,10.7,False
+2013-14,VIC,Oil products,145.8,False
+2014-15,VIC,Oil products,155.95,False
+2015-16,VIC,Oil products,70.573,False
+2016-17,VIC,Oil products,109.281,False
+2017-18,VIC,Oil products,178.023,False
+2018-19,VIC,Oil products,204.659,False
+2019-20,VIC,Oil products,201.974,False
+2020-21,VIC,Oil products,179.068,False
+2021-22,VIC,Oil products,219.429,False
+2022-23,VIC,Oil products,259.086,False
+2008-09,VIC,Other b,,False
+2009-10,VIC,Other b,,False
+2010-11,VIC,Other b,,False
+2011-12,VIC,Other b,,False
+2012-13,VIC,Other b,,False
+2013-14,VIC,Other b,,False
+2014-15,VIC,Other b,,False
+2015-16,VIC,Other b,,False
+2016-17,VIC,Other b,,False
+2017-18,VIC,Other b,,False
+2018-19,VIC,Other b,,False
+2019-20,VIC,Other b,,False
+2020-21,VIC,Other b,,False
+2021-22,VIC,Other b,,False
+2022-23,VIC,Other b,,False
+2008-09,VIC,"Bagasse, wood c",,True
+2009-10,VIC,"Bagasse, wood c",,True
+2010-11,VIC,"Bagasse, wood c",,True
+2011-12,VIC,"Bagasse, wood c",187.106,True
+2012-13,VIC,"Bagasse, wood c",171.14,True
+2013-14,VIC,"Bagasse, wood c",188.787,True
+2014-15,VIC,"Bagasse, wood c",251.976,True
+2015-16,VIC,"Bagasse, wood c",235.392,True
+2016-17,VIC,"Bagasse, wood c",263.355,True
+2017-18,VIC,"Bagasse, wood c",241.012,True
+2018-19,VIC,"Bagasse, wood c",235.469,True
+2019-20,VIC,"Bagasse, wood c",243.797,True
+2020-21,VIC,"Bagasse, wood c",229.67,True
+2021-22,VIC,"Bagasse, wood c",258.839,True
+2022-23,VIC,"Bagasse, wood c",192.908,True
+2008-09,VIC,Biogas,292.0,True
+2009-10,VIC,Biogas,303.4,True
+2010-11,VIC,Biogas,339.6,True
+2011-12,VIC,Biogas,672.241,True
+2012-13,VIC,Biogas,673.96,True
+2013-14,VIC,Biogas,698.103,True
+2014-15,VIC,Biogas,420.258,True
+2015-16,VIC,Biogas,512.312,True
+2016-17,VIC,Biogas,431.106,True
+2017-18,VIC,Biogas,460.192,True
+2018-19,VIC,Biogas,497.644,True
+2019-20,VIC,Biogas,535.728,True
+2020-21,VIC,Biogas,499.303,True
+2021-22,VIC,Biogas,497.999,True
+2022-23,VIC,Biogas,484.544,True
+2008-09,VIC,Wind,573.0,True
+2009-10,VIC,Wind,1406.0,True
+2010-11,VIC,Wind,1434.4,True
+2011-12,VIC,Wind,1416.2,True
+2012-13,VIC,Wind,2005.1,True
+2013-14,VIC,Wind,2771.9,True
+2014-15,VIC,Wind,3067.791,True
+2015-16,VIC,Wind,3341.83,True
+2016-17,VIC,Wind,3560.851,True
+2017-18,VIC,Wind,4303.851,True
+2018-19,VIC,Wind,4863.699,True
+2019-20,VIC,Wind,5596.248,True
+2020-21,VIC,Wind,7080.623,True
+2021-22,VIC,Wind,9563.573,True
+2022-23,VIC,Wind,11065.542,True
+2008-09,VIC,Hydro,2234.523,True
+2009-10,VIC,Hydro,1974.974,True
+2010-11,VIC,Hydro,3910.622,True
+2011-12,VIC,Hydro,2393.275,True
+2012-13,VIC,Hydro,3293.811,True
+2013-14,VIC,Hydro,2594.991,True
+2014-15,VIC,Hydro,2513.612,True
+2015-16,VIC,Hydro,3228.452,True
+2016-17,VIC,Hydro,3673.259,True
+2017-18,VIC,Hydro,2803.107,True
+2018-19,VIC,Hydro,2702.802,True
+2019-20,VIC,Hydro,2310.836,True
+2020-21,VIC,Hydro,2851.962,True
+2021-22,VIC,Hydro,2787.873,True
+2022-23,VIC,Hydro,3237.202,True
+2008-09,VIC,Large-scale solar PV,,True
+2009-10,VIC,Large-scale solar PV,,True
+2010-11,VIC,Large-scale solar PV,,True
+2011-12,VIC,Large-scale solar PV,,True
+2012-13,VIC,Large-scale solar PV,,True
+2013-14,VIC,Large-scale solar PV,4.41,True
+2014-15,VIC,Large-scale solar PV,9.066,True
+2015-16,VIC,Large-scale solar PV,11.473,True
+2016-17,VIC,Large-scale solar PV,13.802,True
+2017-18,VIC,Large-scale solar PV,39.442,True
+2018-19,VIC,Large-scale solar PV,462.469,True
+2019-20,VIC,Large-scale solar PV,872.458,True
+2020-21,VIC,Large-scale solar PV,1455.53,True
+2021-22,VIC,Large-scale solar PV,1897.432,True
+2022-23,VIC,Large-scale solar PV,1957.049,True
+2008-09,VIC,Small-scale solar PV,24.1,True
+2009-10,VIC,Small-scale solar PV,66.2,True
+2010-11,VIC,Small-scale solar PV,205.5,True
+2011-12,VIC,Small-scale solar PV,378.7,True
+2012-13,VIC,Small-scale solar PV,580.1,True
+2013-14,VIC,Small-scale solar PV,674.162,True
+2014-15,VIC,Small-scale solar PV,874.831,True
+2015-16,VIC,Small-scale solar PV,1056.128,True
+2016-17,VIC,Small-scale solar PV,1231.72,True
+2017-18,VIC,Small-scale solar PV,1481.194,True
+2018-19,VIC,Small-scale solar PV,1899.952,True
+2019-20,VIC,Small-scale solar PV,2457.27,True
+2020-21,VIC,Small-scale solar PV,3176.379,True
+2021-22,VIC,Small-scale solar PV,3941.958,True
+2022-23,VIC,Small-scale solar PV,4618.841,True
+2008-09,VIC,Geothermal,,True
+2009-10,VIC,Geothermal,,True
+2010-11,VIC,Geothermal,,True
+2011-12,VIC,Geothermal,,True
+2012-13,VIC,Geothermal,,True
+2013-14,VIC,Geothermal,,True
+2014-15,VIC,Geothermal,,True
+2015-16,VIC,Geothermal,,True
+2016-17,VIC,Geothermal,,True
+2017-18,VIC,Geothermal,,True
+2018-19,VIC,Geothermal,,True
+2019-20,VIC,Geothermal,,True
+2020-21,VIC,Geothermal,,True
+2021-22,VIC,Geothermal,,True
+2022-23,VIC,Geothermal,,True
+2008-09,QLD,Black coal,50882.2,False
+2009-10,QLD,Black coal,49713.7,False
+2010-11,QLD,Black coal,45864.3,False
+2011-12,QLD,Black coal,45417.3,False
+2012-13,QLD,Black coal,44415.6,False
+2013-14,QLD,Black coal,40260.7,False
+2014-15,QLD,Black coal,44553.8,False
+2015-16,QLD,Black coal,48015.845,False
+2016-17,QLD,Black coal,51042.664,False
+2017-18,QLD,Black coal,53635.267,False
+2018-19,QLD,Black coal,52120.624,False
+2019-20,QLD,Black coal,48568.909,False
+2020-21,QLD,Black coal,46248.188,False
+2021-22,QLD,Black coal,44460.898,False
+2022-23,QLD,Black coal,43230.766,False
+2008-09,QLD,Brown coal,,False
+2009-10,QLD,Brown coal,,False
+2010-11,QLD,Brown coal,,False
+2011-12,QLD,Brown coal,,False
+2012-13,QLD,Brown coal,,False
+2013-14,QLD,Brown coal,,False
+2014-15,QLD,Brown coal,,False
+2015-16,QLD,Brown coal,,False
+2016-17,QLD,Brown coal,,False
+2017-18,QLD,Brown coal,,False
+2018-19,QLD,Brown coal,,False
+2019-20,QLD,Brown coal,,False
+2020-21,QLD,Brown coal,,False
+2021-22,QLD,Brown coal,,False
+2022-23,QLD,Brown coal,,False
+2008-09,QLD,Natural gas,9257.2,False
+2009-10,QLD,Natural gas,12020.6,False
+2010-11,QLD,Natural gas,14595.3,False
+2011-12,QLD,Natural gas,15303.4,False
+2012-13,QLD,Natural gas,13909.5,False
+2013-14,QLD,Natural gas,15454.3,False
+2014-15,QLD,Natural gas,18248.5,False
+2015-16,QLD,Natural gas,13816.933,False
+2016-17,QLD,Natural gas,12236.549,False
+2017-18,QLD,Natural gas,11045.527,False
+2018-19,QLD,Natural gas,9933.919,False
+2019-20,QLD,Natural gas,11214.11,False
+2020-21,QLD,Natural gas,10324.408,False
+2021-22,QLD,Natural gas,9505.386,False
+2022-23,QLD,Natural gas,9113.598,False
+2008-09,QLD,Oil products,711.4,False
+2009-10,QLD,Oil products,370.7,False
+2010-11,QLD,Oil products,373.7,False
+2011-12,QLD,Oil products,306.0,False
+2012-13,QLD,Oil products,1042.6,False
+2013-14,QLD,Oil products,959.5,False
+2014-15,QLD,Oil products,1197.2,False
+2015-16,QLD,Oil products,1199.072,False
+2016-17,QLD,Oil products,1215.94,False
+2017-18,QLD,Oil products,1047.661,False
+2018-19,QLD,Oil products,1000.585,False
+2019-20,QLD,Oil products,983.729,False
+2020-21,QLD,Oil products,1034.932,False
+2021-22,QLD,Oil products,1098.305,False
+2022-23,QLD,Oil products,1235.302,False
+2008-09,QLD,Other a,,False
+2009-10,QLD,Other a,,False
+2010-11,QLD,Other a,,False
+2011-12,QLD,Other a,,False
+2012-13,QLD,Other a,,False
+2013-14,QLD,Other a,,False
+2014-15,QLD,Other a,,False
+2015-16,QLD,Other a,,False
+2016-17,QLD,Other a,,False
+2017-18,QLD,Other a,,False
+2018-19,QLD,Other a,,False
+2019-20,QLD,Other a,,False
+2020-21,QLD,Other a,,False
+2021-22,QLD,Other a,,False
+2022-23,QLD,Other a,,False
+2008-09,QLD,"Bagasse, wood",1472.1,True
+2009-10,QLD,"Bagasse, wood",1466.5,True
+2010-11,QLD,"Bagasse, wood",823.7,True
+2011-12,QLD,"Bagasse, wood",1005.6,True
+2012-13,QLD,"Bagasse, wood",1117.8,True
+2013-14,QLD,"Bagasse, wood",1403.0,True
+2014-15,QLD,"Bagasse, wood",1550.3,True
+2015-16,QLD,"Bagasse, wood",1656.281,True
+2016-17,QLD,"Bagasse, wood",1291.767,True
+2017-18,QLD,"Bagasse, wood",1252.897,True
+2018-19,QLD,"Bagasse, wood",1157.937,True
+2019-20,QLD,"Bagasse, wood",1029.768,True
+2020-21,QLD,"Bagasse, wood",1076.402,True
+2021-22,QLD,"Bagasse, wood",990.274,True
+2022-23,QLD,"Bagasse, wood",913.857,True
+2008-09,QLD,Biogas,116.4,True
+2009-10,QLD,Biogas,81.5,True
+2010-11,QLD,Biogas,97.0,True
+2011-12,QLD,Biogas,119.2,True
+2012-13,QLD,Biogas,121.4,True
+2013-14,QLD,Biogas,82.8,True
+2014-15,QLD,Biogas,91.1,True
+2015-16,QLD,Biogas,115.483,True
+2016-17,QLD,Biogas,118.269,True
+2017-18,QLD,Biogas,126.496,True
+2018-19,QLD,Biogas,175.075,True
+2019-20,QLD,Biogas,189.207,True
+2020-21,QLD,Biogas,198.522,True
+2021-22,QLD,Biogas,223.491,True
+2022-23,QLD,Biogas,256.128,True
+2008-09,QLD,Wind,27.3,True
+2009-10,QLD,Wind,30.909,True
+2010-11,QLD,Wind,27.3,True
+2011-12,QLD,Wind,27.7,True
+2012-13,QLD,Wind,30.7,True
+2013-14,QLD,Wind,33.7,True
+2014-15,QLD,Wind,32.492,True
+2015-16,QLD,Wind,28.406,True
+2016-17,QLD,Wind,28.962,True
+2017-18,QLD,Wind,30.274,True
+2018-19,QLD,Wind,399.139,True
+2019-20,QLD,Wind,927.89,True
+2020-21,QLD,Wind,1826.044,True
+2021-22,QLD,Wind,1850.128,True
+2022-23,QLD,Wind,2124.839,True
+2008-09,QLD,Hydro,820.2,True
+2009-10,QLD,Hydro,572.8,True
+2010-11,QLD,Hydro,965.6,True
+2011-12,QLD,Hydro,723.2,True
+2012-13,QLD,Hydro,684.1,True
+2013-14,QLD,Hydro,820.9,True
+2014-15,QLD,Hydro,649.1,True
+2015-16,QLD,Hydro,491.722,True
+2016-17,QLD,Hydro,672.206,True
+2017-18,QLD,Hydro,646.115,True
+2018-19,QLD,Hydro,1057.306,True
+2019-20,QLD,Hydro,634.622,True
+2020-21,QLD,Hydro,950.198,True
+2021-22,QLD,Hydro,1118.899,True
+2022-23,QLD,Hydro,1244.086,True
+2008-09,QLD,Large-scale solar PV,,True
+2009-10,QLD,Large-scale solar PV,,True
+2010-11,QLD,Large-scale solar PV,,True
+2011-12,QLD,Large-scale solar PV,,True
+2012-13,QLD,Large-scale solar PV,,True
+2013-14,QLD,Large-scale solar PV,4.013,True
+2014-15,QLD,Large-scale solar PV,5.928,True
+2015-16,QLD,Large-scale solar PV,7.325,True
+2016-17,QLD,Large-scale solar PV,34.087,True
+2017-18,QLD,Large-scale solar PV,171.467,True
+2018-19,QLD,Large-scale solar PV,1491.654,True
+2019-20,QLD,Large-scale solar PV,3334.52,True
+2020-21,QLD,Large-scale solar PV,3395.78,True
+2021-22,QLD,Large-scale solar PV,3766.083,True
+2022-23,QLD,Large-scale solar PV,5405.558,True
+2008-09,QLD,Small-scale solar PV,50.8,True
+2009-10,QLD,Small-scale solar PV,121.3,True
+2010-11,QLD,Small-scale solar PV,400.6,True
+2011-12,QLD,Small-scale solar PV,760.3,True
+2012-13,QLD,Small-scale solar PV,1310.2,True
+2013-14,QLD,Small-scale solar PV,1460.552,True
+2014-15,QLD,Small-scale solar PV,1788.021,True
+2015-16,QLD,Small-scale solar PV,2055.85,True
+2016-17,QLD,Small-scale solar PV,2335.873,True
+2017-18,QLD,Small-scale solar PV,2760.859,True
+2018-19,QLD,Small-scale solar PV,3330.242,True
+2019-20,QLD,Small-scale solar PV,4120.237,True
+2020-21,QLD,Small-scale solar PV,5160.929,True
+2021-22,QLD,Small-scale solar PV,6219.647,True
+2022-23,QLD,Small-scale solar PV,7214.829,True
+2008-09,QLD,Geothermal,0.5,True
+2009-10,QLD,Geothermal,0.5,True
+2010-11,QLD,Geothermal,0.5,True
+2011-12,QLD,Geothermal,0.5,True
+2012-13,QLD,Geothermal,0.5,True
+2013-14,QLD,Geothermal,0.5,True
+2014-15,QLD,Geothermal,0.6,True
+2015-16,QLD,Geothermal,0.215,True
+2016-17,QLD,Geothermal,0.502,True
+2017-18,QLD,Geothermal,,True
+2018-19,QLD,Geothermal,,True
+2019-20,QLD,Geothermal,,True
+2020-21,QLD,Geothermal,,True
+2021-22,QLD,Geothermal,,True
+2022-23,QLD,Geothermal,,True
+2008-09,WA,Black coal,8738.0,False
+2009-10,WA,Black coal,9612.2,False
+2010-11,WA,Black coal,10352.3,False
+2011-12,WA,Black coal,10783.3,False
+2012-13,WA,Black coal,10276.9,False
+2013-14,WA,Black coal,10885.3,False
+2014-15,WA,Black coal,10523.4,False
+2015-16,WA,Black coal,10912.688,False
+2016-17,WA,Black coal,11226.156,False
+2017-18,WA,Black coal,11031.872,False
+2018-19,WA,Black coal,9953.96,False
+2019-20,WA,Black coal,9725.243,False
+2020-21,WA,Black coal,9212.413,False
+2021-22,WA,Black coal,9656.465,False
+2022-23,WA,Black coal,7340.324,False
+2008-09,WA,Brown coal,,False
+2009-10,WA,Brown coal,,False
+2010-11,WA,Brown coal,,False
+2011-12,WA,Brown coal,,False
+2012-13,WA,Brown coal,,False
+2013-14,WA,Brown coal,,False
+2014-15,WA,Brown coal,,False
+2015-16,WA,Brown coal,,False
+2016-17,WA,Brown coal,,False
+2017-18,WA,Brown coal,,False
+2018-19,WA,Brown coal,,False
+2019-20,WA,Brown coal,,False
+2020-21,WA,Brown coal,,False
+2021-22,WA,Brown coal,,False
+2022-23,WA,Brown coal,,False
+2008-09,WA,Natural gas,14556.1,False
+2009-10,WA,Natural gas,16006.3,False
+2010-11,WA,Natural gas,18115.7,False
+2011-12,WA,Natural gas,17538.3,False
+2012-13,WA,Natural gas,17645.1,False
+2013-14,WA,Natural gas,20880.0,False
+2014-15,WA,Natural gas,20412.804,False
+2015-16,WA,Natural gas,21899.573,False
+2016-17,WA,Natural gas,22941.403,False
+2017-18,WA,Natural gas,24789.093,False
+2018-19,WA,Natural gas,25778.314,False
+2019-20,WA,Natural gas,26918.551,False
+2020-21,WA,Natural gas,25680.333,False
+2021-22,WA,Natural gas,25314.166,False
+2022-23,WA,Natural gas,27302.995,False
+2008-09,WA,Oil products,1464.4,False
+2009-10,WA,Oil products,1373.4,False
+2010-11,WA,Oil products,1413.8,False
+2011-12,WA,Oil products,1171.2,False
+2012-13,WA,Oil products,2045.0,False
+2013-14,WA,Oil products,2486.1,False
+2014-15,WA,Oil products,4223.5,False
+2015-16,WA,Oil products,3347.388,False
+2016-17,WA,Oil products,2883.482,False
+2017-18,WA,Oil products,2166.514,False
+2018-19,WA,Oil products,2417.855,False
+2019-20,WA,Oil products,2301.722,False
+2020-21,WA,Oil products,2458.258,False
+2021-22,WA,Oil products,2197.608,False
+2022-23,WA,Oil products,2197.932,False
+2008-09,WA,Other a,,False
+2009-10,WA,Other a,,False
+2010-11,WA,Other a,,False
+2011-12,WA,Other a,,False
+2012-13,WA,Other a,,False
+2013-14,WA,Other a,,False
+2014-15,WA,Other a,,False
+2015-16,WA,Other a,,False
+2016-17,WA,Other a,,False
+2017-18,WA,Other a,,False
+2018-19,WA,Other a,,False
+2019-20,WA,Other a,,False
+2020-21,WA,Other a,,False
+2021-22,WA,Other a,,False
+2022-23,WA,Other a,,False
+2008-09,WA,"Bagasse, wood b",,True
+2009-10,WA,"Bagasse, wood b",,True
+2010-11,WA,"Bagasse, wood b",,True
+2011-12,WA,"Bagasse, wood b",,True
+2012-13,WA,"Bagasse, wood b",,True
+2013-14,WA,"Bagasse, wood b",,True
+2014-15,WA,"Bagasse, wood b",,True
+2015-16,WA,"Bagasse, wood b",,True
+2016-17,WA,"Bagasse, wood b",,True
+2017-18,WA,"Bagasse, wood b",,True
+2018-19,WA,"Bagasse, wood b",,True
+2019-20,WA,"Bagasse, wood b",,True
+2020-21,WA,"Bagasse, wood b",,True
+2021-22,WA,"Bagasse, wood b",,True
+2022-23,WA,"Bagasse, wood b",,True
+2008-09,WA,Biogas,119.6,True
+2009-10,WA,Biogas,121.2,True
+2010-11,WA,Biogas,111.7,True
+2011-12,WA,Biogas,125.7,True
+2012-13,WA,Biogas,108.3,True
+2013-14,WA,Biogas,124.0,True
+2014-15,WA,Biogas,126.9,True
+2015-16,WA,Biogas,94.55,True
+2016-17,WA,Biogas,183.218,True
+2017-18,WA,Biogas,141.107,True
+2018-19,WA,Biogas,131.335,True
+2019-20,WA,Biogas,112.444,True
+2020-21,WA,Biogas,110.794,True
+2021-22,WA,Biogas,119.25,True
+2022-23,WA,Biogas,119.96,True
+2008-09,WA,Wind,675.1,True
+2009-10,WA,Wind,664.0,True
+2010-11,WA,Wind,719.3,True
+2011-12,WA,Wind,1278.7,True
+2012-13,WA,Wind,1300.2,True
+2013-14,WA,Wind,1578.8,True
+2014-15,WA,Wind,1643.2,True
+2015-16,WA,Wind,1476.458,True
+2016-17,WA,Wind,1616.678,True
+2017-18,WA,Wind,1586.985,True
+2018-19,WA,Wind,1851.152,True
+2019-20,WA,Wind,2122.54,True
+2020-21,WA,Wind,3140.458,True
+2021-22,WA,Wind,3676.727,True
+2022-23,WA,Wind,3378.649,True
+2008-09,WA,Hydro,,True
+2009-10,WA,Hydro,,True
+2010-11,WA,Hydro,,True
+2011-12,WA,Hydro,,True
+2012-13,WA,Hydro,221.3,True
+2013-14,WA,Hydro,205.4,True
+2014-15,WA,Hydro,206.1,True
+2015-16,WA,Hydro,217.028,True
+2016-17,WA,Hydro,212.622,True
+2017-18,WA,Hydro,220.787,True
+2018-19,WA,Hydro,217.009,True
+2019-20,WA,Hydro,205.525,True
+2020-21,WA,Hydro,127.962,True
+2021-22,WA,Hydro,76.475,True
+2022-23,WA,Hydro,71.316,True
+2008-09,WA,Large-scale solar PV,,True
+2009-10,WA,Large-scale solar PV,,True
+2010-11,WA,Large-scale solar PV,,True
+2011-12,WA,Large-scale solar PV,,True
+2012-13,WA,Large-scale solar PV,,True
+2013-14,WA,Large-scale solar PV,24.137,True
+2014-15,WA,Large-scale solar PV,23.884,True
+2015-16,WA,Large-scale solar PV,28.349,True
+2016-17,WA,Large-scale solar PV,34.261,True
+2017-18,WA,Large-scale solar PV,45.608,True
+2018-19,WA,Large-scale solar PV,74.523,True
+2019-20,WA,Large-scale solar PV,174.72,True
+2020-21,WA,Large-scale solar PV,486.59,True
+2021-22,WA,Large-scale solar PV,745.489,True
+2022-23,WA,Large-scale solar PV,907.67,True
+2008-09,WA,Small-scale solar PV,18.7,True
+2009-10,WA,Small-scale solar PV,57.5,True
+2010-11,WA,Small-scale solar PV,198.1,True
+2011-12,WA,Small-scale solar PV,331.4,True
+2012-13,WA,Small-scale solar PV,449.5,True
+2013-14,WA,Small-scale solar PV,495.849,True
+2014-15,WA,Small-scale solar PV,622.13,True
+2015-16,WA,Small-scale solar PV,760.766,True
+2016-17,WA,Small-scale solar PV,941.132,True
+2017-18,WA,Small-scale solar PV,1196.428,True
+2018-19,WA,Small-scale solar PV,1486.69,True
+2019-20,WA,Small-scale solar PV,1835.292,True
+2020-21,WA,Small-scale solar PV,2298.474,True
+2021-22,WA,Small-scale solar PV,2763.104,True
+2022-23,WA,Small-scale solar PV,3159.368,True
+2008-09,WA,Geothermal,,True
+2009-10,WA,Geothermal,,True
+2010-11,WA,Geothermal,,True
+2011-12,WA,Geothermal,,True
+2012-13,WA,Geothermal,,True
+2013-14,WA,Geothermal,,True
+2014-15,WA,Geothermal,,True
+2015-16,WA,Geothermal,,True
+2016-17,WA,Geothermal,,True
+2017-18,WA,Geothermal,,True
+2018-19,WA,Geothermal,,True
+2019-20,WA,Geothermal,,True
+2020-21,WA,Geothermal,,True
+2021-22,WA,Geothermal,,True
+2022-23,WA,Geothermal,,True
+2008-09,SA,Black coal,,False
+2009-10,SA,Black coal,,False
+2010-11,SA,Black coal,,False
+2011-12,SA,Black coal,,False
+2012-13,SA,Black coal,,False
+2013-14,SA,Black coal,,False
+2014-15,SA,Black coal,,False
+2015-16,SA,Black coal,,False
+2016-17,SA,Black coal,,False
+2017-18,SA,Black coal,,False
+2018-19,SA,Black coal,,False
+2019-20,SA,Black coal,,False
+2020-21,SA,Black coal,,False
+2021-22,SA,Black coal,,False
+2022-23,SA,Black coal,,False
+2008-09,SA,Brown coal,4887.4,False
+2009-10,SA,Brown coal,4526.6,False
+2010-11,SA,Brown coal,4231.6,False
+2011-12,SA,Brown coal,3008.0,False
+2012-13,SA,Brown coal,2237.5,False
+2013-14,SA,Brown coal,2098.5,False
+2014-15,SA,Brown coal,2633.6,False
+2015-16,SA,Brown coal,2593.675,False
+2016-17,SA,Brown coal,,False
+2017-18,SA,Brown coal,,False
+2018-19,SA,Brown coal,,False
+2019-20,SA,Brown coal,,False
+2020-21,SA,Brown coal,,False
+2021-22,SA,Brown coal,,False
+2022-23,SA,Brown coal,,False
+2008-09,SA,Natural gas,7371.4,False
+2009-10,SA,Natural gas,6937.0,False
+2010-11,SA,Natural gas,6693.1,False
+2011-12,SA,Natural gas,6703.2,False
+2012-13,SA,Natural gas,7060.9,False
+2013-14,SA,Natural gas,5998.1,False
+2014-15,SA,Natural gas,5003.849,False
+2015-16,SA,Natural gas,4956.027,False
+2016-17,SA,Natural gas,6028.202,False
+2017-18,SA,Natural gas,7753.197,False
+2018-19,SA,Natural gas,7245.797,False
+2019-20,SA,Natural gas,6614.008,False
+2020-21,SA,Natural gas,5588.962,False
+2021-22,SA,Natural gas,4288.888,False
+2022-23,SA,Natural gas,3903.827,False
+2008-09,SA,Oil products,63.2,False
+2009-10,SA,Oil products,163.9,False
+2010-11,SA,Oil products,89.3,False
+2011-12,SA,Oil products,97.8,False
+2012-13,SA,Oil products,141.0,False
+2013-14,SA,Oil products,106.9,False
+2014-15,SA,Oil products,197.3,False
+2015-16,SA,Oil products,136.165,False
+2016-17,SA,Oil products,183.118,False
+2017-18,SA,Oil products,132.837,False
+2018-19,SA,Oil products,163.034,False
+2019-20,SA,Oil products,159.398,False
+2020-21,SA,Oil products,126.725,False
+2021-22,SA,Oil products,217.975,False
+2022-23,SA,Oil products,242.628,False
+2008-09,SA,Other a,,False
+2009-10,SA,Other a,,False
+2010-11,SA,Other a,,False
+2011-12,SA,Other a,,False
+2012-13,SA,Other a,,False
+2013-14,SA,Other a,,False
+2014-15,SA,Other a,,False
+2015-16,SA,Other a,,False
+2016-17,SA,Other a,,False
+2017-18,SA,Other a,,False
+2018-19,SA,Other a,,False
+2019-20,SA,Other a,,False
+2020-21,SA,Other a,,False
+2021-22,SA,Other a,,False
+2022-23,SA,Other a,,False
+2008-09,SA,"Bagasse, wood",,True
+2009-10,SA,"Bagasse, wood",,True
+2010-11,SA,"Bagasse, wood",,True
+2011-12,SA,"Bagasse, wood",,True
+2012-13,SA,"Bagasse, wood",,True
+2013-14,SA,"Bagasse, wood",,True
+2014-15,SA,"Bagasse, wood",,True
+2015-16,SA,"Bagasse, wood",,True
+2016-17,SA,"Bagasse, wood",,True
+2017-18,SA,"Bagasse, wood",,True
+2018-19,SA,"Bagasse, wood",,True
+2019-20,SA,"Bagasse, wood",,True
+2020-21,SA,"Bagasse, wood",,True
+2021-22,SA,"Bagasse, wood",,True
+2022-23,SA,"Bagasse, wood",,True
+2008-09,SA,Biogas,86.1,True
+2009-10,SA,Biogas,85.5,True
+2010-11,SA,Biogas,77.8,True
+2011-12,SA,Biogas,70.6,True
+2012-13,SA,Biogas,72.6,True
+2013-14,SA,Biogas,80.9,True
+2014-15,SA,Biogas,84.9,True
+2015-16,SA,Biogas,94.596,True
+2016-17,SA,Biogas,78.024,True
+2017-18,SA,Biogas,73.952,True
+2018-19,SA,Biogas,85.01,True
+2019-20,SA,Biogas,97.446,True
+2020-21,SA,Biogas,94.595,True
+2021-22,SA,Biogas,94.582,True
+2022-23,SA,Biogas,92.24,True
+2008-09,SA,Wind,2020.2,True
+2009-10,SA,Wind,2029.0,True
+2010-11,SA,Wind,2890.3,True
+2011-12,SA,Wind,3126.528,True
+2012-13,SA,Wind,3313.5,True
+2013-14,SA,Wind,4150.337,True
+2014-15,SA,Wind,4291.901,True
+2015-16,SA,Wind,4398.022,True
+2016-17,SA,Wind,4413.692,True
+2017-18,SA,Wind,5673.898,True
+2018-19,SA,Wind,5711.02,True
+2019-20,SA,Wind,5812.912,True
+2020-21,SA,Wind,5867.068,True
+2021-22,SA,Wind,6254.756,True
+2022-23,SA,Wind,6799.644,True
+2008-09,SA,Hydro,4.1,True
+2009-10,SA,Hydro,4.2,True
+2010-11,SA,Hydro,4.1,True
+2011-12,SA,Hydro,4.4,True
+2012-13,SA,Hydro,5.9,True
+2013-14,SA,Hydro,5.9,True
+2014-15,SA,Hydro,10.8,True
+2015-16,SA,Hydro,6.481,True
+2016-17,SA,Hydro,3.451,True
+2017-18,SA,Hydro,6.352,True
+2018-19,SA,Hydro,8.803,True
+2019-20,SA,Hydro,10.264,True
+2020-21,SA,Hydro,3.455,True
+2021-22,SA,Hydro,2.496,True
+2022-23,SA,Hydro,1.548,True
+2008-09,SA,Large-scale solar PV,,True
+2009-10,SA,Large-scale solar PV,,True
+2010-11,SA,Large-scale solar PV,,True
+2011-12,SA,Large-scale solar PV,,True
+2012-13,SA,Large-scale solar PV,,True
+2013-14,SA,Large-scale solar PV,1.385,True
+2014-15,SA,Large-scale solar PV,1.722,True
+2015-16,SA,Large-scale solar PV,2.0,True
+2016-17,SA,Large-scale solar PV,3.925,True
+2017-18,SA,Large-scale solar PV,20.045,True
+2018-19,SA,Large-scale solar PV,321.329,True
+2019-20,SA,Large-scale solar PV,627.836,True
+2020-21,SA,Large-scale solar PV,884.33,True
+2021-22,SA,Large-scale solar PV,1096.66,True
+2022-23,SA,Large-scale solar PV,1608.431,True
+2008-09,SA,Small-scale solar PV,23.4,True
+2009-10,SA,Small-scale solar PV,50.7,True
+2010-11,SA,Small-scale solar PV,182.8,True
+2011-12,SA,Small-scale solar PV,398.1,True
+2012-13,SA,Small-scale solar PV,558.6,True
+2013-14,SA,Small-scale solar PV,677.943,True
+2014-15,SA,Small-scale solar PV,802.239,True
+2015-16,SA,Small-scale solar PV,895.45,True
+2016-17,SA,Small-scale solar PV,1000.833,True
+2017-18,SA,Small-scale solar PV,1163.369,True
+2018-19,SA,Small-scale solar PV,1402.512,True
+2019-20,SA,Small-scale solar PV,1717.581,True
+2020-21,SA,Small-scale solar PV,2128.182,True
+2021-22,SA,Small-scale solar PV,2505.006,True
+2022-23,SA,Small-scale solar PV,2860.547,True
+2008-09,SA,Geothermal,,True
+2009-10,SA,Geothermal,,True
+2010-11,SA,Geothermal,,True
+2011-12,SA,Geothermal,,True
+2012-13,SA,Geothermal,,True
+2013-14,SA,Geothermal,,True
+2014-15,SA,Geothermal,,True
+2015-16,SA,Geothermal,,True
+2016-17,SA,Geothermal,,True
+2017-18,SA,Geothermal,,True
+2018-19,SA,Geothermal,,True
+2019-20,SA,Geothermal,,True
+2020-21,SA,Geothermal,,True
+2021-22,SA,Geothermal,,True
+2022-23,SA,Geothermal,,True
+2008-09,TAS,Black coal,,False
+2009-10,TAS,Black coal,,False
+2010-11,TAS,Black coal,,False
+2011-12,TAS,Black coal,,False
+2012-13,TAS,Black coal,,False
+2013-14,TAS,Black coal,,False
+2014-15,TAS,Black coal,,False
+2015-16,TAS,Black coal,,False
+2016-17,TAS,Black coal,,False
+2017-18,TAS,Black coal,,False
+2018-19,TAS,Black coal,,False
+2019-20,TAS,Black coal,,False
+2020-21,TAS,Black coal,,False
+2021-22,TAS,Black coal,,False
+2022-23,TAS,Black coal,,False
+2008-09,TAS,Brown coal,,False
+2009-10,TAS,Brown coal,,False
+2010-11,TAS,Brown coal,,False
+2011-12,TAS,Brown coal,,False
+2012-13,TAS,Brown coal,,False
+2013-14,TAS,Brown coal,,False
+2014-15,TAS,Brown coal,,False
+2015-16,TAS,Brown coal,,False
+2016-17,TAS,Brown coal,,False
+2017-18,TAS,Brown coal,,False
+2018-19,TAS,Brown coal,,False
+2019-20,TAS,Brown coal,,False
+2020-21,TAS,Brown coal,,False
+2021-22,TAS,Brown coal,,False
+2022-23,TAS,Brown coal,,False
+2008-09,TAS,Natural gas,705.3,False
+2009-10,TAS,Natural gas,1109.8,False
+2010-11,TAS,Natural gas,1506.0,False
+2011-12,TAS,Natural gas,1562.7,False
+2012-13,TAS,Natural gas,1752.5,False
+2013-14,TAS,Natural gas,985.0,False
+2014-15,TAS,Natural gas,131.042,False
+2015-16,TAS,Natural gas,858.027,False
+2016-17,TAS,Natural gas,897.553,False
+2017-18,TAS,Natural gas,980.373,False
+2018-19,TAS,Natural gas,619.786,False
+2019-20,TAS,Natural gas,196.631,False
+2020-21,TAS,Natural gas,186.131,False
+2021-22,TAS,Natural gas,174.762,False
+2022-23,TAS,Natural gas,193.567,False
+2008-09,TAS,Oil products,64.5,False
+2009-10,TAS,Oil products,73.9,False
+2010-11,TAS,Oil products,94.9,False
+2011-12,TAS,Oil products,60.5,False
+2012-13,TAS,Oil products,12.1,False
+2013-14,TAS,Oil products,19.7,False
+2014-15,TAS,Oil products,18.9,False
+2015-16,TAS,Oil products,90.255,False
+2016-17,TAS,Oil products,21.817,False
+2017-18,TAS,Oil products,24.3,False
+2018-19,TAS,Oil products,19.27,False
+2019-20,TAS,Oil products,20.682,False
+2020-21,TAS,Oil products,19.835,False
+2021-22,TAS,Oil products,10.676,False
+2022-23,TAS,Oil products,12.669,False
+2008-09,TAS,Other a,,False
+2009-10,TAS,Other a,,False
+2010-11,TAS,Other a,,False
+2011-12,TAS,Other a,,False
+2012-13,TAS,Other a,,False
+2013-14,TAS,Other a,,False
+2014-15,TAS,Other a,,False
+2015-16,TAS,Other a,,False
+2016-17,TAS,Other a,,False
+2017-18,TAS,Other a,,False
+2018-19,TAS,Other a,,False
+2019-20,TAS,Other a,,False
+2020-21,TAS,Other a,,False
+2021-22,TAS,Other a,,False
+2022-23,TAS,Other a,,False
+2008-09,TAS,"Bagasse, wood",,True
+2009-10,TAS,"Bagasse, wood",,True
+2010-11,TAS,"Bagasse, wood",,True
+2011-12,TAS,"Bagasse, wood",,True
+2012-13,TAS,"Bagasse, wood",,True
+2013-14,TAS,"Bagasse, wood",,True
+2014-15,TAS,"Bagasse, wood",,True
+2015-16,TAS,"Bagasse, wood",,True
+2016-17,TAS,"Bagasse, wood",,True
+2017-18,TAS,"Bagasse, wood",,True
+2018-19,TAS,"Bagasse, wood",,True
+2019-20,TAS,"Bagasse, wood",,True
+2020-21,TAS,"Bagasse, wood",,True
+2021-22,TAS,"Bagasse, wood",,True
+2022-23,TAS,"Bagasse, wood",,True
+2008-09,TAS,Biogas,25.1,True
+2009-10,TAS,Biogas,29.0,True
+2010-11,TAS,Biogas,29.9,True
+2011-12,TAS,Biogas,33.3,True
+2012-13,TAS,Biogas,33.0,True
+2013-14,TAS,Biogas,30.6,True
+2014-15,TAS,Biogas,34.6,True
+2015-16,TAS,Biogas,27.252,True
+2016-17,TAS,Biogas,24.517,True
+2017-18,TAS,Biogas,24.062,True
+2018-19,TAS,Biogas,27.004,True
+2019-20,TAS,Biogas,30.883,True
+2020-21,TAS,Biogas,31.774,True
+2021-22,TAS,Biogas,32.976,True
+2022-23,TAS,Biogas,31.817,True
+2008-09,TAS,Wind,486.897,True
+2009-10,TAS,Wind,489.3,True
+2010-11,TAS,Wind,483.5,True
+2011-12,TAS,Wind,423.1,True
+2012-13,TAS,Wind,477.5,True
+2013-14,TAS,Wind,818.0,True
+2014-15,TAS,Wind,1055.1,True
+2015-16,TAS,Wind,1055.996,True
+2016-17,TAS,Wind,1104.776,True
+2017-18,TAS,Wind,1147.79,True
+2018-19,TAS,Wind,1147.203,True
+2019-20,TAS,Wind,1362.035,True
+2020-21,TAS,Wind,1815.259,True
+2021-22,TAS,Wind,1789.181,True
+2022-23,TAS,Wind,1805.276,True
+2008-09,TAS,Hydro,7313.6,True
+2009-10,TAS,Hydro,8307.2,True
+2010-11,TAS,Hydro,9451.5,True
+2011-12,TAS,Hydro,8515.5,True
+2012-13,TAS,Hydro,10766.4,True
+2013-14,TAS,Hydro,12072.6,True
+2014-15,TAS,Hydro,8294.4,True
+2015-16,TAS,Hydro,8204.296,True
+2016-17,TAS,Hydro,8432.701,True
+2017-18,TAS,Hydro,9428.909,True
+2018-19,TAS,Hydro,9821.078,True
+2019-20,TAS,Hydro,9878.333,True
+2020-21,TAS,Hydro,8301.873,True
+2021-22,TAS,Hydro,9709.625,True
+2022-23,TAS,Hydro,8359.825,True
+2008-09,TAS,Large-scale solar PV,,True
+2009-10,TAS,Large-scale solar PV,,True
+2010-11,TAS,Large-scale solar PV,,True
+2011-12,TAS,Large-scale solar PV,,True
+2012-13,TAS,Large-scale solar PV,,True
+2013-14,TAS,Large-scale solar PV,0.04,True
+2014-15,TAS,Large-scale solar PV,0.04,True
+2015-16,TAS,Large-scale solar PV,0.039,True
+2016-17,TAS,Large-scale solar PV,0.296,True
+2017-18,TAS,Large-scale solar PV,0.556,True
+2018-19,TAS,Large-scale solar PV,1.495,True
+2019-20,TAS,Large-scale solar PV,2.754,True
+2020-21,TAS,Large-scale solar PV,3.03,True
+2021-22,TAS,Large-scale solar PV,2.973,True
+2022-23,TAS,Large-scale solar PV,3.713,True
+2008-09,TAS,Small-scale solar PV,1.8,True
+2009-10,TAS,Small-scale solar PV,5.6,True
+2010-11,TAS,Small-scale solar PV,11.6,True
+2011-12,TAS,Small-scale solar PV,22.7,True
+2012-13,TAS,Small-scale solar PV,53.3,True
+2013-14,TAS,Small-scale solar PV,73.516,True
+2014-15,TAS,Small-scale solar PV,96.806,True
+2015-16,TAS,Small-scale solar PV,108.462,True
+2016-17,TAS,Small-scale solar PV,121.61,True
+2017-18,TAS,Small-scale solar PV,138.931,True
+2018-19,TAS,Small-scale solar PV,161.79,True
+2019-20,TAS,Small-scale solar PV,187.173,True
+2020-21,TAS,Small-scale solar PV,218.629,True
+2021-22,TAS,Small-scale solar PV,255.501,True
+2022-23,TAS,Small-scale solar PV,297.825,True
+2008-09,TAS,Geothermal,,True
+2009-10,TAS,Geothermal,,True
+2010-11,TAS,Geothermal,,True
+2011-12,TAS,Geothermal,,True
+2012-13,TAS,Geothermal,,True
+2013-14,TAS,Geothermal,,True
+2014-15,TAS,Geothermal,,True
+2015-16,TAS,Geothermal,,True
+2016-17,TAS,Geothermal,,True
+2017-18,TAS,Geothermal,,True
+2018-19,TAS,Geothermal,,True
+2019-20,TAS,Geothermal,,True
+2020-21,TAS,Geothermal,,True
+2021-22,TAS,Geothermal,,True
+2022-23,TAS,Geothermal,,True
+2008-09,NT,Black coal,,False
+2009-10,NT,Black coal,,False
+2010-11,NT,Black coal,,False
+2011-12,NT,Black coal,,False
+2012-13,NT,Black coal,,False
+2013-14,NT,Black coal,,False
+2014-15,NT,Black coal,,False
+2015-16,NT,Black coal,,False
+2016-17,NT,Black coal,,False
+2017-18,NT,Black coal,,False
+2018-19,NT,Black coal,,False
+2019-20,NT,Black coal,,False
+2020-21,NT,Black coal,,False
+2021-22,NT,Black coal,,False
+2022-23,NT,Black coal,,False
+2008-09,NT,Brown coal,,False
+2009-10,NT,Brown coal,,False
+2010-11,NT,Brown coal,,False
+2011-12,NT,Brown coal,,False
+2012-13,NT,Brown coal,,False
+2013-14,NT,Brown coal,,False
+2014-15,NT,Brown coal,,False
+2015-16,NT,Brown coal,,False
+2016-17,NT,Brown coal,,False
+2017-18,NT,Brown coal,,False
+2018-19,NT,Brown coal,,False
+2019-20,NT,Brown coal,,False
+2020-21,NT,Brown coal,,False
+2021-22,NT,Brown coal,,False
+2022-23,NT,Brown coal,,False
+2008-09,NT,Natural gas,1873.4,False
+2009-10,NT,Natural gas,2134.9,False
+2010-11,NT,Natural gas,2054.1,False
+2011-12,NT,Natural gas,2109.3,False
+2012-13,NT,Natural gas,2269.0,False
+2013-14,NT,Natural gas,2308.9,False
+2014-15,NT,Natural gas,2201.4,False
+2015-16,NT,Natural gas,2484.714,False
+2016-17,NT,Natural gas,2366.493,False
+2017-18,NT,Natural gas,2437.758,False
+2018-19,NT,Natural gas,3503.228,False
+2019-20,NT,Natural gas,4285.007,False
+2020-21,NT,Natural gas,4142.973,False
+2021-22,NT,Natural gas,4561.489,False
+2022-23,NT,Natural gas,4160.223,False
+2008-09,NT,Oil products,1039.3,False
+2009-10,NT,Oil products,1118.2,False
+2010-11,NT,Oil products,1022.5,False
+2011-12,NT,Oil products,1020.9,False
+2012-13,NT,Oil products,1022.0,False
+2013-14,NT,Oil products,1123.6,False
+2014-15,NT,Oil products,751.3,False
+2015-16,NT,Oil products,522.63,False
+2016-17,NT,Oil products,537.402,False
+2017-18,NT,Oil products,947.176,False
+2018-19,NT,Oil products,794.978,False
+2019-20,NT,Oil products,504.397,False
+2020-21,NT,Oil products,502.491,False
+2021-22,NT,Oil products,461.921,False
+2022-23,NT,Oil products,527.223,False
+2008-09,NT,Other a,,False
+2009-10,NT,Other a,,False
+2010-11,NT,Other a,,False
+2011-12,NT,Other a,,False
+2012-13,NT,Other a,,False
+2013-14,NT,Other a,,False
+2014-15,NT,Other a,,False
+2015-16,NT,Other a,,False
+2016-17,NT,Other a,,False
+2017-18,NT,Other a,,False
+2018-19,NT,Other a,,False
+2019-20,NT,Other a,,False
+2020-21,NT,Other a,,False
+2021-22,NT,Other a,,False
+2022-23,NT,Other a,,False
+2008-09,NT,"Bagasse, wood",,True
+2009-10,NT,"Bagasse, wood",,True
+2010-11,NT,"Bagasse, wood",,True
+2011-12,NT,"Bagasse, wood",,True
+2012-13,NT,"Bagasse, wood",,True
+2013-14,NT,"Bagasse, wood",,True
+2014-15,NT,"Bagasse, wood",,True
+2015-16,NT,"Bagasse, wood",,True
+2016-17,NT,"Bagasse, wood",,True
+2017-18,NT,"Bagasse, wood",,True
+2018-19,NT,"Bagasse, wood",,True
+2019-20,NT,"Bagasse, wood",,True
+2020-21,NT,"Bagasse, wood",,True
+2021-22,NT,"Bagasse, wood",,True
+2022-23,NT,"Bagasse, wood",,True
+2008-09,NT,Biogas,9.2,True
+2009-10,NT,Biogas,9.2,True
+2010-11,NT,Biogas,8.7,True
+2011-12,NT,Biogas,7.7,True
+2012-13,NT,Biogas,6.5,True
+2013-14,NT,Biogas,8.9,True
+2014-15,NT,Biogas,9.0,True
+2015-16,NT,Biogas,7.688,True
+2016-17,NT,Biogas,7.612,True
+2017-18,NT,Biogas,8.608,True
+2018-19,NT,Biogas,8.785,True
+2019-20,NT,Biogas,8.722,True
+2020-21,NT,Biogas,7.98,True
+2021-22,NT,Biogas,5.976,True
+2022-23,NT,Biogas,8.988,True
+2008-09,NT,Wind,,True
+2009-10,NT,Wind,,True
+2010-11,NT,Wind,,True
+2011-12,NT,Wind,,True
+2012-13,NT,Wind,,True
+2013-14,NT,Wind,,True
+2014-15,NT,Wind,,True
+2015-16,NT,Wind,,True
+2016-17,NT,Wind,,True
+2017-18,NT,Wind,,True
+2018-19,NT,Wind,,True
+2019-20,NT,Wind,,True
+2020-21,NT,Wind,,True
+2021-22,NT,Wind,,True
+2022-23,NT,Wind,,True
+2008-09,NT,Hydro,,True
+2009-10,NT,Hydro,,True
+2010-11,NT,Hydro,,True
+2011-12,NT,Hydro,,True
+2012-13,NT,Hydro,,True
+2013-14,NT,Hydro,,True
+2014-15,NT,Hydro,,True
+2015-16,NT,Hydro,,True
+2016-17,NT,Hydro,,True
+2017-18,NT,Hydro,,True
+2018-19,NT,Hydro,,True
+2019-20,NT,Hydro,,True
+2020-21,NT,Hydro,,True
+2021-22,NT,Hydro,,True
+2022-23,NT,Hydro,,True
+2008-09,NT,Large-scale solar PV,,True
+2009-10,NT,Large-scale solar PV,,True
+2010-11,NT,Large-scale solar PV,,True
+2011-12,NT,Large-scale solar PV,,True
+2012-13,NT,Large-scale solar PV,,True
+2013-14,NT,Large-scale solar PV,5.058,True
+2014-15,NT,Large-scale solar PV,6.405,True
+2015-16,NT,Large-scale solar PV,8.515,True
+2016-17,NT,Large-scale solar PV,18.468,True
+2017-18,NT,Large-scale solar PV,30.504,True
+2018-19,NT,Large-scale solar PV,32.652,True
+2019-20,NT,Large-scale solar PV,39.25,True
+2020-21,NT,Large-scale solar PV,44.607,True
+2021-22,NT,Large-scale solar PV,46.126,True
+2022-23,NT,Large-scale solar PV,50.817,True
+2008-09,NT,Small-scale solar PV,0.5,True
+2009-10,NT,Small-scale solar PV,4.3,True
+2010-11,NT,Small-scale solar PV,5.6,True
+2011-12,NT,Small-scale solar PV,9.7,True
+2012-13,NT,Small-scale solar PV,16.9,True
+2013-14,NT,Small-scale solar PV,19.357,True
+2014-15,NT,Small-scale solar PV,28.899,True
+2015-16,NT,Small-scale solar PV,42.448,True
+2016-17,NT,Small-scale solar PV,61.251,True
+2017-18,NT,Small-scale solar PV,85.773,True
+2018-19,NT,Small-scale solar PV,117.882,True
+2019-20,NT,Small-scale solar PV,162.212,True
+2020-21,NT,Small-scale solar PV,203.556,True
+2021-22,NT,Small-scale solar PV,230.893,True
+2022-23,NT,Small-scale solar PV,259.389,True
+2008-09,NT,Geothermal,,True
+2009-10,NT,Geothermal,,True
+2010-11,NT,Geothermal,,True
+2011-12,NT,Geothermal,,True
+2012-13,NT,Geothermal,,True
+2013-14,NT,Geothermal,,True
+2014-15,NT,Geothermal,,True
+2015-16,NT,Geothermal,,True
+2016-17,NT,Geothermal,,True
+2017-18,NT,Geothermal,,True
+2018-19,NT,Geothermal,,True
+2019-20,NT,Geothermal,,True
+2020-21,NT,Geothermal,,True
+2021-22,NT,Geothermal,,True
+2022-23,NT,Geothermal,,True
+2008-09,NSW,non_renewable_total,70120.1,False
+2009-10,NSW,non_renewable_total,69085.5,False
+2010-11,NSW,non_renewable_total,65536.3,False
+2011-12,NSW,non_renewable_total,64707.9,False
+2012-13,NSW,non_renewable_total,62158.2,False
+2013-14,NSW,non_renewable_total,61518.495,False
+2014-15,NSW,non_renewable_total,57374.89,False
+2015-16,NSW,non_renewable_total,60252.593,False
+2016-17,NSW,non_renewable_total,59619.497,False
+2017-18,NSW,non_renewable_total,60392.35,False
+2018-19,NSW,non_renewable_total,60417.819,False
+2019-20,NSW,non_renewable_total,56774.898,False
+2020-21,NSW,non_renewable_total,53034.595,False
+2021-22,NSW,non_renewable_total,50627.581,False
+2022-23,NSW,non_renewable_total,48489.888,False
+2008-09,NSW,renewable_total,2249.277,True
+2009-10,NSW,renewable_total,3922.326,True
+2010-11,NSW,renewable_total,4144.569,True
+2011-12,NSW,renewable_total,4624.525,True
+2012-13,NSW,renewable_total,5827.089,True
+2013-14,NSW,renewable_total,5478.144,True
+2014-15,NSW,renewable_total,5441.551,True
+2015-16,NSW,renewable_total,7976.784,True
+2016-17,NSW,renewable_total,8539.75,True
+2017-18,NSW,renewable_total,9332.271,True
+2018-19,NSW,renewable_total,11142.976,True
+2019-20,NSW,renewable_total,13289.838,True
+2020-21,NSW,renewable_total,17128.232,True
+2021-22,NSW,renewable_total,21471.577,True
+2022-23,NSW,renewable_total,24579.818,True
+2008-09,NSW,total,72369.377,
+2009-10,NSW,total,73007.826,
+2010-11,NSW,total,69680.869,
+2011-12,NSW,total,69332.425,
+2012-13,NSW,total,67985.289,
+2013-14,NSW,total,66996.639,
+2014-15,NSW,total,62816.441,
+2015-16,NSW,total,68229.377,
+2016-17,NSW,total,68159.247,
+2017-18,NSW,total,69724.621,
+2018-19,NSW,total,71560.795,
+2019-20,NSW,total,70064.736,
+2020-21,NSW,total,70162.827,
+2021-22,NSW,total,72099.158,
+2022-23,NSW,total,73069.706,
+2008-09,VIC,non_renewable_total,53566.3,False
+2009-10,VIC,non_renewable_total,53240.7,False
+2010-11,VIC,non_renewable_total,52394.5,False
+2011-12,VIC,non_renewable_total,53206.2,False
+2012-13,VIC,non_renewable_total,48576.0,False
+2013-14,VIC,non_renewable_total,47362.8,False
+2014-15,VIC,non_renewable_total,50883.677,False
+2015-16,VIC,non_renewable_total,48196.949,False
+2016-17,VIC,non_renewable_total,46362.117,False
+2017-18,VIC,non_renewable_total,40029.336,False
+2018-19,VIC,non_renewable_total,38033.936,False
+2019-20,VIC,non_renewable_total,36980.565,False
+2020-21,VIC,non_renewable_total,36196.013,False
+2021-22,VIC,non_renewable_total,34959.893,False
+2022-23,VIC,non_renewable_total,33411.677,False
+2008-09,VIC,renewable_total,3123.623,True
+2009-10,VIC,renewable_total,3750.574,True
+2010-11,VIC,renewable_total,5890.122,True
+2011-12,VIC,renewable_total,5047.522,True
+2012-13,VIC,renewable_total,6724.111,True
+2013-14,VIC,renewable_total,6932.353,True
+2014-15,VIC,renewable_total,7137.534,True
+2015-16,VIC,renewable_total,8385.587,True
+2016-17,VIC,renewable_total,9174.092,True
+2017-18,VIC,renewable_total,9328.798,True
+2018-19,VIC,renewable_total,10662.034,True
+2019-20,VIC,renewable_total,12016.336,True
+2020-21,VIC,renewable_total,15293.467,True
+2021-22,VIC,renewable_total,18947.673,True
+2022-23,VIC,renewable_total,21556.086,True
+2008-09,VIC,total,56689.923,
+2009-10,VIC,total,56991.274,
+2010-11,VIC,total,58284.622,
+2011-12,VIC,total,58253.722,
+2012-13,VIC,total,55300.111,
+2013-14,VIC,total,54295.153,
+2014-15,VIC,total,58021.211,
+2015-16,VIC,total,56582.536,
+2016-17,VIC,total,55536.21,
+2017-18,VIC,total,49358.134,
+2018-19,VIC,total,48695.97,
+2019-20,VIC,total,48996.901,
+2020-21,VIC,total,51489.48,
+2021-22,VIC,total,53907.566,
+2022-23,VIC,total,54967.763,
+2008-09,QLD,non_renewable_total,60850.8,False
+2009-10,QLD,non_renewable_total,62105.0,False
+2010-11,QLD,non_renewable_total,60833.3,False
+2011-12,QLD,non_renewable_total,61026.7,False
+2012-13,QLD,non_renewable_total,59367.7,False
+2013-14,QLD,non_renewable_total,56674.5,False
+2014-15,QLD,non_renewable_total,63999.5,False
+2015-16,QLD,non_renewable_total,63031.85,False
+2016-17,QLD,non_renewable_total,64495.152,False
+2017-18,QLD,non_renewable_total,65728.454,False
+2018-19,QLD,non_renewable_total,63055.128,False
+2019-20,QLD,non_renewable_total,60766.749,False
+2020-21,QLD,non_renewable_total,57607.528,False
+2021-22,QLD,non_renewable_total,55064.589,False
+2022-23,QLD,non_renewable_total,53579.665,False
+2008-09,QLD,renewable_total,2487.3,True
+2009-10,QLD,renewable_total,2273.509,True
+2010-11,QLD,renewable_total,2314.7,True
+2011-12,QLD,renewable_total,2636.5,True
+2012-13,QLD,renewable_total,3264.7,True
+2013-14,QLD,renewable_total,3805.465,True
+2014-15,QLD,renewable_total,4117.542,True
+2015-16,QLD,renewable_total,4355.282,True
+2016-17,QLD,renewable_total,4481.666,True
+2017-18,QLD,renewable_total,4988.108,True
+2018-19,QLD,renewable_total,7611.352,True
+2019-20,QLD,renewable_total,10236.245,True
+2020-21,QLD,renewable_total,12607.874,True
+2021-22,QLD,renewable_total,14168.523,True
+2022-23,QLD,renewable_total,17159.297,True
+2008-09,QLD,total,63338.1,
+2009-10,QLD,total,64378.509,
+2010-11,QLD,total,63148.0,
+2011-12,QLD,total,63663.2,
+2012-13,QLD,total,62632.4,
+2013-14,QLD,total,60479.965,
+2014-15,QLD,total,68117.042,
+2015-16,QLD,total,67387.132,
+2016-17,QLD,total,68976.818,
+2017-18,QLD,total,70716.563,
+2018-19,QLD,total,70666.48,
+2019-20,QLD,total,71002.994,
+2020-21,QLD,total,70215.402,
+2021-22,QLD,total,69233.112,
+2022-23,QLD,total,70738.962,
+2008-09,WA,non_renewable_total,24758.5,False
+2009-10,WA,non_renewable_total,26991.9,False
+2010-11,WA,non_renewable_total,29881.8,False
+2011-12,WA,non_renewable_total,29492.8,False
+2012-13,WA,non_renewable_total,29967.0,False
+2013-14,WA,non_renewable_total,34251.4,False
+2014-15,WA,non_renewable_total,35159.704,False
+2015-16,WA,non_renewable_total,36159.649,False
+2016-17,WA,non_renewable_total,37051.041,False
+2017-18,WA,non_renewable_total,37987.48,False
+2018-19,WA,non_renewable_total,38150.129,False
+2019-20,WA,non_renewable_total,38945.516,False
+2020-21,WA,non_renewable_total,37351.004,False
+2021-22,WA,non_renewable_total,37168.239,False
+2022-23,WA,non_renewable_total,36841.251,False
+2008-09,WA,renewable_total,813.4,True
+2009-10,WA,renewable_total,842.7,True
+2010-11,WA,renewable_total,1029.1,True
+2011-12,WA,renewable_total,1735.8,True
+2012-13,WA,renewable_total,2079.3,True
+2013-14,WA,renewable_total,2428.186,True
+2014-15,WA,renewable_total,2622.214,True
+2015-16,WA,renewable_total,2577.151,True
+2016-17,WA,renewable_total,2987.911,True
+2017-18,WA,renewable_total,3190.915,True
+2018-19,WA,renewable_total,3760.71,True
+2019-20,WA,renewable_total,4450.522,True
+2020-21,WA,renewable_total,6164.277,True
+2021-22,WA,renewable_total,7381.045,True
+2022-23,WA,renewable_total,7636.963,True
+2008-09,WA,total,25571.9,
+2009-10,WA,total,27834.6,
+2010-11,WA,total,30910.9,
+2011-12,WA,total,31228.6,
+2012-13,WA,total,32046.3,
+2013-14,WA,total,36679.586,
+2014-15,WA,total,37781.918,
+2015-16,WA,total,38736.8,
+2016-17,WA,total,40038.952,
+2017-18,WA,total,41178.395,
+2018-19,WA,total,41910.839,
+2019-20,WA,total,43396.038,
+2020-21,WA,total,43515.282,
+2021-22,WA,total,44549.284,
+2022-23,WA,total,44478.213,
+2008-09,SA,non_renewable_total,12322.0,False
+2009-10,SA,non_renewable_total,11627.5,False
+2010-11,SA,non_renewable_total,11014.0,False
+2011-12,SA,non_renewable_total,9809.0,False
+2012-13,SA,non_renewable_total,9439.4,False
+2013-14,SA,non_renewable_total,8203.5,False
+2014-15,SA,non_renewable_total,7834.749,False
+2015-16,SA,non_renewable_total,7685.867,False
+2016-17,SA,non_renewable_total,6211.32,False
+2017-18,SA,non_renewable_total,7886.034,False
+2018-19,SA,non_renewable_total,7408.831,False
+2019-20,SA,non_renewable_total,6773.406,False
+2020-21,SA,non_renewable_total,5715.687,False
+2021-22,SA,non_renewable_total,4506.864,False
+2022-23,SA,non_renewable_total,4146.455,False
+2008-09,SA,renewable_total,2133.8,True
+2009-10,SA,renewable_total,2169.4,True
+2010-11,SA,renewable_total,3155.0,True
+2011-12,SA,renewable_total,3599.628,True
+2012-13,SA,renewable_total,3950.6,True
+2013-14,SA,renewable_total,4916.465,True
+2014-15,SA,renewable_total,5191.562,True
+2015-16,SA,renewable_total,5396.549,True
+2016-17,SA,renewable_total,5499.925,True
+2017-18,SA,renewable_total,6937.615,True
+2018-19,SA,renewable_total,7528.675,True
+2019-20,SA,renewable_total,8266.039,True
+2020-21,SA,renewable_total,8977.631,True
+2021-22,SA,renewable_total,9953.499,True
+2022-23,SA,renewable_total,11362.41,True
+2008-09,SA,total,14455.8,
+2009-10,SA,total,13796.9,
+2010-11,SA,total,14169.0,
+2011-12,SA,total,13408.628,
+2012-13,SA,total,13390.0,
+2013-14,SA,total,13119.965,
+2014-15,SA,total,13026.311,
+2015-16,SA,total,13082.416,
+2016-17,SA,total,11711.245,
+2017-18,SA,total,14823.649,
+2018-19,SA,total,14937.506,
+2019-20,SA,total,15039.445,
+2020-21,SA,total,14693.318,
+2021-22,SA,total,14460.363,
+2022-23,SA,total,15508.865,
+2008-09,TAS,non_renewable_total,769.8,False
+2009-10,TAS,non_renewable_total,1183.7,False
+2010-11,TAS,non_renewable_total,1600.9,False
+2011-12,TAS,non_renewable_total,1623.2,False
+2012-13,TAS,non_renewable_total,1764.6,False
+2013-14,TAS,non_renewable_total,1004.7,False
+2014-15,TAS,non_renewable_total,149.942,False
+2015-16,TAS,non_renewable_total,948.282,False
+2016-17,TAS,non_renewable_total,919.37,False
+2017-18,TAS,non_renewable_total,1004.673,False
+2018-19,TAS,non_renewable_total,639.056,False
+2019-20,TAS,non_renewable_total,217.312,False
+2020-21,TAS,non_renewable_total,205.966,False
+2021-22,TAS,non_renewable_total,185.438,False
+2022-23,TAS,non_renewable_total,206.236,False
+2008-09,TAS,renewable_total,7827.397,True
+2009-10,TAS,renewable_total,8831.1,True
+2010-11,TAS,renewable_total,9976.5,True
+2011-12,TAS,renewable_total,8994.6,True
+2012-13,TAS,renewable_total,11330.2,True
+2013-14,TAS,renewable_total,12994.756,True
+2014-15,TAS,renewable_total,9480.946,True
+2015-16,TAS,renewable_total,9396.045,True
+2016-17,TAS,renewable_total,9683.9,True
+2017-18,TAS,renewable_total,10740.248,True
+2018-19,TAS,renewable_total,11158.569,True
+2019-20,TAS,renewable_total,11461.179,True
+2020-21,TAS,renewable_total,10370.566,True
+2021-22,TAS,renewable_total,11790.255,True
+2022-23,TAS,renewable_total,10498.456,True
+2008-09,TAS,total,8597.197,
+2009-10,TAS,total,10014.8,
+2010-11,TAS,total,11577.4,
+2011-12,TAS,total,10617.8,
+2012-13,TAS,total,13094.8,
+2013-14,TAS,total,13999.456,
+2014-15,TAS,total,9630.888,
+2015-16,TAS,total,10344.327,
+2016-17,TAS,total,10603.27,
+2017-18,TAS,total,11744.921,
+2018-19,TAS,total,11797.625,
+2019-20,TAS,total,11678.491,
+2020-21,TAS,total,10576.532,
+2021-22,TAS,total,11975.694,
+2022-23,TAS,total,10704.692,
+2008-09,NT,non_renewable_total,2912.7,False
+2009-10,NT,non_renewable_total,3253.1,False
+2010-11,NT,non_renewable_total,3076.6,False
+2011-12,NT,non_renewable_total,3130.2,False
+2012-13,NT,non_renewable_total,3291.0,False
+2013-14,NT,non_renewable_total,3432.5,False
+2014-15,NT,non_renewable_total,2952.7,False
+2015-16,NT,non_renewable_total,3007.344,False
+2016-17,NT,non_renewable_total,2903.895,False
+2017-18,NT,non_renewable_total,3384.935,False
+2018-19,NT,non_renewable_total,4298.205,False
+2019-20,NT,non_renewable_total,4789.404,False
+2020-21,NT,non_renewable_total,4645.465,False
+2021-22,NT,non_renewable_total,5023.411,False
+2022-23,NT,non_renewable_total,4687.446,False
+2008-09,NT,renewable_total,9.7,True
+2009-10,NT,renewable_total,13.5,True
+2010-11,NT,renewable_total,14.3,True
+2011-12,NT,renewable_total,17.4,True
+2012-13,NT,renewable_total,23.4,True
+2013-14,NT,renewable_total,33.315,True
+2014-15,NT,renewable_total,44.304,True
+2015-16,NT,renewable_total,58.651,True
+2016-17,NT,renewable_total,87.331,True
+2017-18,NT,renewable_total,124.884,True
+2018-19,NT,renewable_total,159.319,True
+2019-20,NT,renewable_total,210.183,True
+2020-21,NT,renewable_total,256.144,True
+2021-22,NT,renewable_total,282.994,True
+2022-23,NT,renewable_total,319.194,True
+2008-09,NT,total,2922.4,
+2009-10,NT,total,3266.6,
+2010-11,NT,total,3090.9,
+2011-12,NT,total,3147.6,
+2012-13,NT,total,3314.4,
+2013-14,NT,total,3465.815,
+2014-15,NT,total,2997.004,
+2015-16,NT,total,3065.995,
+2016-17,NT,total,2991.226,
+2017-18,NT,total,3509.819,
+2018-19,NT,total,4457.524,
+2019-20,NT,total,4999.587,
+2020-21,NT,total,4901.608,
+2021-22,NT,total,5306.405,
+2022-23,NT,total,5006.64,
