@@ -6,18 +6,32 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.5.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.21.0"></script>
 
+  <!-- Link to the external CSS file -->
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  
-<div id="barchart"></div>
 
-<script type="text/javascript">
+  <div class="chart-container">
+    <!-- First chart (barchart) -->
+    <div id="barchart" class="chart"></div>
 
-  var barchart_spec = "js/sources_barchart.vg.json";
-  vegaEmbed('#barchart', barchart_spec).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-</script>
+    <!-- Second chart (renewable percentage) -->
+    <div id="renewable_percentage_chart" class="chart"></div>
+  </div>
+
+  <script type="text/javascript">
+    // Embed the first chart
+    var barchart_spec = "js/sources_barchart.vg.json";
+    vegaEmbed('#barchart', barchart_spec).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    // Embed the second chart (renewable percentage)
+    var renewable_spec = "js/renewable_percentage.vg.json";
+    vegaEmbed('#renewable_percentage_chart', renewable_spec).then(function(result) {
+      // Access the Vega view instance
+    }).catch(console.error);
+  </script>
 
 </body>
 </html>
