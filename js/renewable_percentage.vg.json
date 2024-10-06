@@ -18,27 +18,52 @@
       "as": "Renewable_Percentage"
     }
   ],
-  "mark": "line",
-  "encoding": {
-    "x": {
-      "field": "Year",
-      "type": "ordinal",
-      "title": "Year"
+  "layer": [
+    {
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "ordinal",
+          "title": "Year"
+        },
+        "y": {
+          "field": "Renewable_Percentage",
+          "type": "quantitative",
+          "title": "Percentage of Renewable Energy"
+        },
+        "color": {
+          "field": "State",
+          "type": "nominal",
+          "title": "State"
+        }
+      }
     },
-    "y": {
-      "field": "Renewable_Percentage",
-      "type": "quantitative",
-      "title": "Percentage of Renewable Energy"
-    },
-    "color": {
-      "field": "State",
-      "type": "nominal",
-      "title": "State"
-    },
-    "tooltip": [
-      {"field": "State", "type": "nominal", "title": "State"},
-      {"field": "Year", "type": "ordinal", "title": "Year"},
-      {"field": "Renewable_Percentage", "type": "quantitative", "title": "Percentage of Renewable Energy"}
-    ]
-  }
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 40
+      },
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "Renewable_Percentage",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "State",
+          "type": "nominal"
+        },
+        "tooltip": [
+          {"field": "State", "type": "nominal", "title": "State"},
+          {"field": "Year", "type": "ordinal", "title": "Year"},
+          {"field": "Renewable_Percentage", "type": "quantitative", "title": "Percentage of Renewable Energy"}
+        ]
+      }
+    }
+  ]
 }

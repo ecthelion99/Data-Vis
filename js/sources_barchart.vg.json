@@ -1,47 +1,54 @@
 {
-"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-"title": { "text": "Energy Generation Sources" },
-"data": {
-"url": "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/data/australian_energy_states.csv"
-},
- "params": [
-    {
-      "name": "state_selection",
-      "value": "Victoria",
-      "bind": {
-        "input": "select",
-        "options": [
-          "New South Wales", 
-          "Victoria", 
-          "Queensland", 
-          "South Australia", 
-          "Western Australia", 
-          "Tasmania", 
-          "Northern Territory" 
-        ],
-        "name": "State: "
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": { "text": "Energy Generation Sources" },
+  "data": {
+  "url": "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/data/australian_energy_states.csv"
+  },
+   "params": [
+      {
+        "name": "state_selection",
+        "value": "Victoria",
+        "bind": {
+          "input": "select",
+          "options": [
+            "New South Wales", 
+            "Victoria", 
+            "Queensland", 
+            "South Australia", 
+            "Western Australia", 
+            "Tasmania", 
+            "Northern Territory" 
+          ],
+          "name": "State: "
+        }
+      },
+      {
+        "name": "year_selection",
+        "value": 2022,
+        "bind": {
+          "input": "range",
+          "min": 2008,
+          "max": 2022,
+          "step": 1,
+          "name": "Year: "
+        }
       }
-    },
-    {
-      "name": "year_selection",
-      "value": 2022,
-      "bind": {
-        "input": "range",
-        "min": 2008,
-        "max": 2022,
-        "step": 1,
-        "name": "Year: "
-      }
+    ],
+    "transform": [
+    {"filter": "datum.State == state_selection && datum.Year == year_selection"},
+    { "filter": "datum.Energy_Source !== 'total' && datum.Energy_Source !== 'renewable_total' && datum.Energy_Source !== 'non_renewable_total'"
     }
   ],
-  "transform": [
-  {"filter": "datum.State == state_selection && datum.Year == year_selection"},
-  { "filter": "datum.Energy_Source !== 'total' && datum.Energy_Source !== 'renewable_total' && datum.Energy_Source !== 'non_renewable_total'"
+  "mark": "bar",
+  "encoding": {
+  "y": { "field": "Value", "type": "quantitative", "title": "Generated Energy (GWh)" },
+  "x": { "field": "Energy_Source", "type": "nominal", "title": "Energy Source"},
+  "tooltip": [
+    { "field": "State", "type": "nominal", "title": "State" },
+    { "field": "Year", "type": "ordinal", "title": "Year" },
+    { "field": "Energy_Source", "type": "nominal", "title": "Energy Source" },
+    { "field": "Value", "type": "quantitative", "title": "Generated Energy (GWh)" }
+  ]
   }
-],
-"mark": "bar",
-"encoding": {
-"y": { "field": "Value", "type": "quantitative" },
-"x": { "field": "Energy_Source", "type": "nominal" }
-}
-}
+  }
+  
