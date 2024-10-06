@@ -1,7 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 800,
-  "height": 400,
   "title": "Percentage of Renewable Energy Over Time by State",
   "data": {
     "url": "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/data/australian_energy_states.csv"
