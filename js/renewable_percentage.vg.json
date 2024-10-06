@@ -64,6 +64,32 @@
           {"field": "Renewable_Percentage", "type": "quantitative", "title": "Percentage of Renewable Energy"}
         ]
       }
+    },
+    {
+      "mark": "rule",  /* Annotation rule line */
+      "encoding": {
+        "y": {
+          "datum": 82  /* 82% line for the target */
+        },
+        "color": { "value": "red" },  /* Line color */
+        "size": { "value": 0.5 }  /* Line thickness */
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 5,
+        "dy": -5,
+        "fontWeight": "lighter",  /* Make text lighter */
+        "fontSize": 10  /* Adjust font size as needed */
+      },
+      "encoding": {
+        "y": {
+          "datum": 82  /* Align with the 82% rule line */
+        },
+        "text": { "value": "2030 renewables target" },  /* Annotation text */
+      }
     }
   ]
 }
