@@ -5,7 +5,7 @@
   }
   
   .chart {
-    width: 25%; /* Reduce width to give both charts room */
+    width: 325px; /* Reduce width to give both charts room */
     margin-right: 1%; /* Add a small margin between charts */
   }
   
