@@ -66,13 +66,13 @@
       }
     },
     {
-      "mark": "rule",  /* Annotation rule line */
+      "mark": "rule",
       "encoding": {
         "y": {
-          "datum": 82  /* 82% line for the target */
+          "datum": 82
         },
-        "color": { "value": "red" },  /* Line color */
-        "size": { "value": 0.5 }  /* Line thickness */
+        "color": { "value": "red" },
+        "size": { "value": 0.5 }
       }
     },
     {
@@ -81,14 +81,14 @@
         "align": "left",
         "dx": 5,
         "dy": -5,
-        "fontWeight": "lighter",  /* Make text lighter */
-        "fontSize": 10  /* Adjust font size as needed */
+        "fontWeight": "lighter",
+        "fontSize": 10
       },
       "encoding": {
         "y": {
-          "datum": 82  /* Align with the 82% rule line */
+          "datum": 82
         },
-        "text": { "value": "2030 renewables target" },  /* Annotation text */
+        "text": { "value": "2030 renewables target" }
       }
     }
   ]
