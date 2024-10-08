@@ -1,1576 +1,1576 @@
-Year,State,Energy_Source,Value,Renewable
-2008,New South Wales,Black coal,67650.3,False
-2009,New South Wales,Black coal,64398.6,False
-2010,New South Wales,Black coal,60732.2,False
-2011,New South Wales,Black coal,60453.7,False
-2012,New South Wales,Black coal,56798.6,False
-2013,New South Wales,Black coal,55819.495,False
-2014,New South Wales,Black coal,52562.2,False
-2015,New South Wales,Black coal,55334.499,False
-2016,New South Wales,Black coal,55967.139,False
-2017,New South Wales,Black coal,57022.151,False
-2018,New South Wales,Black coal,57734.932,False
-2019,New South Wales,Black coal,53566.67,False
-2020,New South Wales,Black coal,50790.813,False
-2021,New South Wales,Black coal,46958.795,False
-2022,New South Wales,Black coal,45602.768,False
-2008,New South Wales,Brown coal,0.0,False
-2009,New South Wales,Brown coal,0.0,False
-2010,New South Wales,Brown coal,0.0,False
-2011,New South Wales,Brown coal,0.0,False
-2012,New South Wales,Brown coal,0.0,False
-2013,New South Wales,Brown coal,0.0,False
-2014,New South Wales,Brown coal,0.0,False
-2015,New South Wales,Brown coal,0.0,False
-2016,New South Wales,Brown coal,0.0,False
-2017,New South Wales,Brown coal,0.0,False
-2018,New South Wales,Brown coal,0.0,False
-2019,New South Wales,Brown coal,0.0,False
-2020,New South Wales,Brown coal,0.0,False
-2021,New South Wales,Brown coal,0.0,False
-2022,New South Wales,Brown coal,0.0,False
-2008,New South Wales,Natural gas,2445.1,False
-2009,New South Wales,Natural gas,4681.3,False
-2010,New South Wales,Natural gas,4742.7,False
-2011,New South Wales,Natural gas,4212.1,False
-2012,New South Wales,Natural gas,5168.7,False
-2013,New South Wales,Natural gas,5528.3,False
-2014,New South Wales,Natural gas,4528.39,False
-2015,New South Wales,Natural gas,4628.561,False
-2016,New South Wales,Natural gas,3330.808,False
-2017,New South Wales,Natural gas,3045.834,False
-2018,New South Wales,Natural gas,2360.324,False
-2019,New South Wales,Natural gas,2870.937,False
-2020,New South Wales,Natural gas,1903.206,False
-2021,New South Wales,Natural gas,3210.705,False
-2022,New South Wales,Natural gas,2497.562,False
-2008,New South Wales,Oil products,24.7,False
-2009,New South Wales,Oil products,5.6,False
-2010,New South Wales,Oil products,61.4,False
-2011,New South Wales,Oil products,42.1,False
-2012,New South Wales,Oil products,190.9,False
-2013,New South Wales,Oil products,170.7,False
-2014,New South Wales,Oil products,284.3,False
-2015,New South Wales,Oil products,289.533,False
-2016,New South Wales,Oil products,321.55,False
-2017,New South Wales,Oil products,324.365,False
-2018,New South Wales,Oil products,322.563,False
-2019,New South Wales,Oil products,337.29,False
-2020,New South Wales,Oil products,340.577,False
-2021,New South Wales,Oil products,458.081,False
-2022,New South Wales,Oil products,389.558,False
-2008,New South Wales,Other,0.0,False
-2009,New South Wales,Other,0.0,False
-2010,New South Wales,Other,0.0,False
-2011,New South Wales,Other,0.0,False
-2012,New South Wales,Other,0.0,False
-2013,New South Wales,Other,0.0,False
-2014,New South Wales,Other,0.0,False
-2015,New South Wales,Other,0.0,False
-2016,New South Wales,Other,0.0,False
-2017,New South Wales,Other,0.0,False
-2018,New South Wales,Other,0.0,False
-2019,New South Wales,Other,0.0,False
-2020,New South Wales,Other,0.0,False
-2021,New South Wales,Other,0.0,False
-2022,New South Wales,Other,0.0,False
-2008,New South Wales,"Bagasse, wood",291.3,True
-2009,New South Wales,"Bagasse, wood",295.3,True
-2010,New South Wales,"Bagasse, wood",253.3,True
-2011,New South Wales,"Bagasse, wood",413.6,True
-2012,New South Wales,"Bagasse, wood",425.4,True
-2013,New South Wales,"Bagasse, wood",461.7,True
-2014,New South Wales,"Bagasse, wood",551.1,True
-2015,New South Wales,"Bagasse, wood",601.734,True
-2016,New South Wales,"Bagasse, wood",696.468,True
-2017,New South Wales,"Bagasse, wood",764.985,True
-2018,New South Wales,"Bagasse, wood",758.832,True
-2019,New South Wales,"Bagasse, wood",716.2,True
-2020,New South Wales,"Bagasse, wood",686.098,True
-2021,New South Wales,"Bagasse, wood",568.338,True
-2022,New South Wales,"Bagasse, wood",580.955,True
-2008,New South Wales,Biogas,383.4,True
-2009,New South Wales,Biogas,385.8,True
-2010,New South Wales,Biogas,360.0,True
-2011,New South Wales,Biogas,408.7,True
-2012,New South Wales,Biogas,413.4,True
-2013,New South Wales,Biogas,420.6,True
-2014,New South Wales,Biogas,472.1,True
-2015,New South Wales,Biogas,444.606,True
-2016,New South Wales,Biogas,406.21,True
-2017,New South Wales,Biogas,424.375,True
-2018,New South Wales,Biogas,418.791,True
-2019,New South Wales,Biogas,387.435,True
-2020,New South Wales,Biogas,411.044,True
-2021,New South Wales,Biogas,398.533,True
-2022,New South Wales,Biogas,411.396,True
-2008,New South Wales,Wind,41.3,True
-2009,New South Wales,Wind,432.5,True
-2010,New South Wales,Wind,530.091,True
-2011,New South Wales,Wind,697.6,True
-2012,New South Wales,Wind,832.6,True
-2013,New South Wales,Wind,899.202,True
-2014,New South Wales,Wind,1376.0,True
-2015,New South Wales,Wind,1898.787,True
-2016,New South Wales,Wind,1872.027,True
-2017,New South Wales,Wind,2431.628,True
-2018,New South Wales,Wind,3739.737,True
-2019,New South Wales,Wind,4574.26,True
-2020,New South Wales,Wind,4805.916,True
-2021,New South Wales,Wind,5973.429,True
-2022,New South Wales,Wind,6210.924,True
-2008,New South Wales,Hydro,1496.977,True
-2009,New South Wales,Hydro,2689.526,True
-2010,New South Wales,Hydro,2474.878,True
-2011,New South Wales,Hydro,2446.925,True
-2012,New South Wales,Hydro,3298.089,True
-2013,New South Wales,Hydro,2721.109,True
-2014,New South Wales,Hydro,1770.988,True
-2015,New South Wales,Hydro,3170.201,True
-2016,New South Wales,Hydro,3290.647,True
-2017,New South Wales,Hydro,2915.519,True
-2018,New South Wales,Hydro,2160.284,True
-2019,New South Wales,Hydro,2110.053,True
-2020,New South Wales,Hydro,2964.239,True
-2021,New South Wales,Hydro,3315.522,True
-2022,New South Wales,Hydro,3752.077,True
-2008,New South Wales,Large-scale solar PV,0.0,True
-2009,New South Wales,Large-scale solar PV,0.0,True
-2010,New South Wales,Large-scale solar PV,0.0,True
-2011,New South Wales,Large-scale solar PV,0.0,True
-2012,New South Wales,Large-scale solar PV,0.0,True
-2013,New South Wales,Large-scale solar PV,10.635,True
-2014,New South Wales,Large-scale solar PV,60.176,True
-2015,New South Wales,Large-scale solar PV,399.511,True
-2016,New South Wales,Large-scale solar PV,567.558,True
-2017,New South Wales,Large-scale solar PV,699.96,True
-2018,New South Wales,Large-scale solar PV,1348.238,True
-2019,New South Wales,Large-scale solar PV,2084.569,True
-2020,New South Wales,Large-scale solar PV,3368.02,True
-2021,New South Wales,Large-scale solar PV,5014.413,True
-2022,New South Wales,Large-scale solar PV,6126.583,True
-2008,New South Wales,Small-scale solar PV,36.3,True
-2009,New South Wales,Small-scale solar PV,119.2,True
-2010,New South Wales,Small-scale solar PV,526.3,True
-2011,New South Wales,Small-scale solar PV,657.7,True
-2012,New South Wales,Small-scale solar PV,857.6,True
-2013,New South Wales,Small-scale solar PV,964.898,True
-2014,New South Wales,Small-scale solar PV,1211.187,True
-2015,New South Wales,Small-scale solar PV,1461.945,True
-2016,New South Wales,Small-scale solar PV,1706.84,True
-2017,New South Wales,Small-scale solar PV,2095.805,True
-2018,New South Wales,Small-scale solar PV,2717.095,True
-2019,New South Wales,Small-scale solar PV,3417.322,True
-2020,New South Wales,Small-scale solar PV,4892.915,True
-2021,New South Wales,Small-scale solar PV,6201.341,True
-2022,New South Wales,Small-scale solar PV,7497.882,True
-2008,New South Wales,Geothermal,0.0,True
-2009,New South Wales,Geothermal,0.0,True
-2010,New South Wales,Geothermal,0.0,True
-2011,New South Wales,Geothermal,0.0,True
-2012,New South Wales,Geothermal,0.0,True
-2013,New South Wales,Geothermal,0.0,True
-2014,New South Wales,Geothermal,0.0,True
-2015,New South Wales,Geothermal,0.0,True
-2016,New South Wales,Geothermal,0.0,True
-2017,New South Wales,Geothermal,0.0,True
-2018,New South Wales,Geothermal,0.0,True
-2019,New South Wales,Geothermal,0.0,True
-2020,New South Wales,Geothermal,0.0,True
-2021,New South Wales,Geothermal,0.0,True
-2022,New South Wales,Geothermal,0.0,True
-2008,Victoria,Black coal,0.0,False
-2009,Victoria,Black coal,0.0,False
-2010,Victoria,Black coal,0.0,False
-2011,Victoria,Black coal,0.0,False
-2012,Victoria,Black coal,0.0,False
-2013,Victoria,Black coal,0.0,False
-2014,Victoria,Black coal,0.0,False
-2015,Victoria,Black coal,0.0,False
-2016,Victoria,Black coal,0.0,False
-2017,Victoria,Black coal,0.0,False
-2018,Victoria,Black coal,0.0,False
-2019,Victoria,Black coal,0.0,False
-2020,Victoria,Black coal,0.0,False
-2021,Victoria,Black coal,0.0,False
-2022,Victoria,Black coal,0.0,False
-2008,Victoria,Brown coal,52094.0,False
-2009,Victoria,Brown coal,51541.7,False
-2010,Victoria,Brown coal,51066.5,False
-2011,Victoria,Brown coal,52059.7,False
-2012,Victoria,Brown coal,45317.6,False
-2013,Victoria,Brown coal,43977.7,False
-2014,Victoria,Brown coal,48336.8,False
-2015,Victoria,Brown coal,46234.132,False
-2016,Victoria,Brown coal,43594.098,False
-2017,Victoria,Brown coal,36021.427,False
-2018,Victoria,Brown coal,34495.245,False
-2019,Victoria,Brown coal,33661.55,False
-2020,Victoria,Brown coal,34060.028,False
-2021,Victoria,Brown coal,32515.636,False
-2022,Victoria,Brown coal,31459.126,False
-2008,Victoria,Natural gas,1451.9,False
-2009,Victoria,Natural gas,1697.9,False
-2010,Victoria,Natural gas,1289.8,False
-2011,Victoria,Natural gas,1142.5,False
-2012,Victoria,Natural gas,3247.7,False
-2013,Victoria,Natural gas,3239.3,False
-2014,Victoria,Natural gas,2390.927,False
-2015,Victoria,Natural gas,1892.244,False
-2016,Victoria,Natural gas,2658.739,False
-2017,Victoria,Natural gas,3829.887,False
-2018,Victoria,Natural gas,3334.031,False
-2019,Victoria,Natural gas,3117.04,False
-2020,Victoria,Natural gas,1956.916,False
-2021,Victoria,Natural gas,2224.829,False
-2022,Victoria,Natural gas,1693.466,False
-2008,Victoria,Oil products,20.4,False
-2009,Victoria,Oil products,1.1,False
-2010,Victoria,Oil products,38.2,False
-2011,Victoria,Oil products,4.0,False
-2012,Victoria,Oil products,10.7,False
-2013,Victoria,Oil products,145.8,False
-2014,Victoria,Oil products,155.95,False
-2015,Victoria,Oil products,70.573,False
-2016,Victoria,Oil products,109.281,False
-2017,Victoria,Oil products,178.023,False
-2018,Victoria,Oil products,204.659,False
-2019,Victoria,Oil products,201.974,False
-2020,Victoria,Oil products,179.068,False
-2021,Victoria,Oil products,219.429,False
-2022,Victoria,Oil products,259.086,False
-2008,Victoria,Other,0.0,False
-2009,Victoria,Other,0.0,False
-2010,Victoria,Other,0.0,False
-2011,Victoria,Other,0.0,False
-2012,Victoria,Other,0.0,False
-2013,Victoria,Other,0.0,False
-2014,Victoria,Other,0.0,False
-2015,Victoria,Other,0.0,False
-2016,Victoria,Other,0.0,False
-2017,Victoria,Other,0.0,False
-2018,Victoria,Other,0.0,False
-2019,Victoria,Other,0.0,False
-2020,Victoria,Other,0.0,False
-2021,Victoria,Other,0.0,False
-2022,Victoria,Other,0.0,False
-2008,Victoria,"Bagasse, wood",0.0,True
-2009,Victoria,"Bagasse, wood",0.0,True
-2010,Victoria,"Bagasse, wood",0.0,True
-2011,Victoria,"Bagasse, wood",187.106,True
-2012,Victoria,"Bagasse, wood",171.14,True
-2013,Victoria,"Bagasse, wood",188.787,True
-2014,Victoria,"Bagasse, wood",251.976,True
-2015,Victoria,"Bagasse, wood",235.392,True
-2016,Victoria,"Bagasse, wood",263.355,True
-2017,Victoria,"Bagasse, wood",241.012,True
-2018,Victoria,"Bagasse, wood",235.469,True
-2019,Victoria,"Bagasse, wood",243.797,True
-2020,Victoria,"Bagasse, wood",229.67,True
-2021,Victoria,"Bagasse, wood",258.839,True
-2022,Victoria,"Bagasse, wood",192.908,True
-2008,Victoria,Biogas,292.0,True
-2009,Victoria,Biogas,303.4,True
-2010,Victoria,Biogas,339.6,True
-2011,Victoria,Biogas,672.241,True
-2012,Victoria,Biogas,673.96,True
-2013,Victoria,Biogas,698.103,True
-2014,Victoria,Biogas,420.258,True
-2015,Victoria,Biogas,512.312,True
-2016,Victoria,Biogas,431.106,True
-2017,Victoria,Biogas,460.192,True
-2018,Victoria,Biogas,497.644,True
-2019,Victoria,Biogas,535.728,True
-2020,Victoria,Biogas,499.303,True
-2021,Victoria,Biogas,497.999,True
-2022,Victoria,Biogas,484.544,True
-2008,Victoria,Wind,573.0,True
-2009,Victoria,Wind,1406.0,True
-2010,Victoria,Wind,1434.4,True
-2011,Victoria,Wind,1416.2,True
-2012,Victoria,Wind,2005.1,True
-2013,Victoria,Wind,2771.9,True
-2014,Victoria,Wind,3067.791,True
-2015,Victoria,Wind,3341.83,True
-2016,Victoria,Wind,3560.851,True
-2017,Victoria,Wind,4303.851,True
-2018,Victoria,Wind,4863.699,True
-2019,Victoria,Wind,5596.248,True
-2020,Victoria,Wind,7080.623,True
-2021,Victoria,Wind,9563.573,True
-2022,Victoria,Wind,11065.542,True
-2008,Victoria,Hydro,2234.523,True
-2009,Victoria,Hydro,1974.974,True
-2010,Victoria,Hydro,3910.622,True
-2011,Victoria,Hydro,2393.275,True
-2012,Victoria,Hydro,3293.811,True
-2013,Victoria,Hydro,2594.991,True
-2014,Victoria,Hydro,2513.612,True
-2015,Victoria,Hydro,3228.452,True
-2016,Victoria,Hydro,3673.259,True
-2017,Victoria,Hydro,2803.107,True
-2018,Victoria,Hydro,2702.802,True
-2019,Victoria,Hydro,2310.836,True
-2020,Victoria,Hydro,2851.962,True
-2021,Victoria,Hydro,2787.873,True
-2022,Victoria,Hydro,3237.202,True
-2008,Victoria,Large-scale solar PV,0.0,True
-2009,Victoria,Large-scale solar PV,0.0,True
-2010,Victoria,Large-scale solar PV,0.0,True
-2011,Victoria,Large-scale solar PV,0.0,True
-2012,Victoria,Large-scale solar PV,0.0,True
-2013,Victoria,Large-scale solar PV,4.41,True
-2014,Victoria,Large-scale solar PV,9.066,True
-2015,Victoria,Large-scale solar PV,11.473,True
-2016,Victoria,Large-scale solar PV,13.802,True
-2017,Victoria,Large-scale solar PV,39.442,True
-2018,Victoria,Large-scale solar PV,462.469,True
-2019,Victoria,Large-scale solar PV,872.458,True
-2020,Victoria,Large-scale solar PV,1455.53,True
-2021,Victoria,Large-scale solar PV,1897.432,True
-2022,Victoria,Large-scale solar PV,1957.049,True
-2008,Victoria,Small-scale solar PV,24.1,True
-2009,Victoria,Small-scale solar PV,66.2,True
-2010,Victoria,Small-scale solar PV,205.5,True
-2011,Victoria,Small-scale solar PV,378.7,True
-2012,Victoria,Small-scale solar PV,580.1,True
-2013,Victoria,Small-scale solar PV,674.162,True
-2014,Victoria,Small-scale solar PV,874.831,True
-2015,Victoria,Small-scale solar PV,1056.128,True
-2016,Victoria,Small-scale solar PV,1231.72,True
-2017,Victoria,Small-scale solar PV,1481.194,True
-2018,Victoria,Small-scale solar PV,1899.952,True
-2019,Victoria,Small-scale solar PV,2457.27,True
-2020,Victoria,Small-scale solar PV,3176.379,True
-2021,Victoria,Small-scale solar PV,3941.958,True
-2022,Victoria,Small-scale solar PV,4618.841,True
-2008,Victoria,Geothermal,0.0,True
-2009,Victoria,Geothermal,0.0,True
-2010,Victoria,Geothermal,0.0,True
-2011,Victoria,Geothermal,0.0,True
-2012,Victoria,Geothermal,0.0,True
-2013,Victoria,Geothermal,0.0,True
-2014,Victoria,Geothermal,0.0,True
-2015,Victoria,Geothermal,0.0,True
-2016,Victoria,Geothermal,0.0,True
-2017,Victoria,Geothermal,0.0,True
-2018,Victoria,Geothermal,0.0,True
-2019,Victoria,Geothermal,0.0,True
-2020,Victoria,Geothermal,0.0,True
-2021,Victoria,Geothermal,0.0,True
-2022,Victoria,Geothermal,0.0,True
-2008,Queensland,Black coal,50882.2,False
-2009,Queensland,Black coal,49713.7,False
-2010,Queensland,Black coal,45864.3,False
-2011,Queensland,Black coal,45417.3,False
-2012,Queensland,Black coal,44415.6,False
-2013,Queensland,Black coal,40260.7,False
-2014,Queensland,Black coal,44553.8,False
-2015,Queensland,Black coal,48015.845,False
-2016,Queensland,Black coal,51042.664,False
-2017,Queensland,Black coal,53635.267,False
-2018,Queensland,Black coal,52120.624,False
-2019,Queensland,Black coal,48568.909,False
-2020,Queensland,Black coal,46248.188,False
-2021,Queensland,Black coal,44460.898,False
-2022,Queensland,Black coal,43230.766,False
-2008,Queensland,Brown coal,0.0,False
-2009,Queensland,Brown coal,0.0,False
-2010,Queensland,Brown coal,0.0,False
-2011,Queensland,Brown coal,0.0,False
-2012,Queensland,Brown coal,0.0,False
-2013,Queensland,Brown coal,0.0,False
-2014,Queensland,Brown coal,0.0,False
-2015,Queensland,Brown coal,0.0,False
-2016,Queensland,Brown coal,0.0,False
-2017,Queensland,Brown coal,0.0,False
-2018,Queensland,Brown coal,0.0,False
-2019,Queensland,Brown coal,0.0,False
-2020,Queensland,Brown coal,0.0,False
-2021,Queensland,Brown coal,0.0,False
-2022,Queensland,Brown coal,0.0,False
-2008,Queensland,Natural gas,9257.2,False
-2009,Queensland,Natural gas,12020.6,False
-2010,Queensland,Natural gas,14595.3,False
-2011,Queensland,Natural gas,15303.4,False
-2012,Queensland,Natural gas,13909.5,False
-2013,Queensland,Natural gas,15454.3,False
-2014,Queensland,Natural gas,18248.5,False
-2015,Queensland,Natural gas,13816.933,False
-2016,Queensland,Natural gas,12236.549,False
-2017,Queensland,Natural gas,11045.527,False
-2018,Queensland,Natural gas,9933.919,False
-2019,Queensland,Natural gas,11214.11,False
-2020,Queensland,Natural gas,10324.408,False
-2021,Queensland,Natural gas,9505.386,False
-2022,Queensland,Natural gas,9113.598,False
-2008,Queensland,Oil products,711.4,False
-2009,Queensland,Oil products,370.7,False
-2010,Queensland,Oil products,373.7,False
-2011,Queensland,Oil products,306.0,False
-2012,Queensland,Oil products,1042.6,False
-2013,Queensland,Oil products,959.5,False
-2014,Queensland,Oil products,1197.2,False
-2015,Queensland,Oil products,1199.072,False
-2016,Queensland,Oil products,1215.94,False
-2017,Queensland,Oil products,1047.661,False
-2018,Queensland,Oil products,1000.585,False
-2019,Queensland,Oil products,983.729,False
-2020,Queensland,Oil products,1034.932,False
-2021,Queensland,Oil products,1098.305,False
-2022,Queensland,Oil products,1235.302,False
-2008,Queensland,Other,0.0,False
-2009,Queensland,Other,0.0,False
-2010,Queensland,Other,0.0,False
-2011,Queensland,Other,0.0,False
-2012,Queensland,Other,0.0,False
-2013,Queensland,Other,0.0,False
-2014,Queensland,Other,0.0,False
-2015,Queensland,Other,0.0,False
-2016,Queensland,Other,0.0,False
-2017,Queensland,Other,0.0,False
-2018,Queensland,Other,0.0,False
-2019,Queensland,Other,0.0,False
-2020,Queensland,Other,0.0,False
-2021,Queensland,Other,0.0,False
-2022,Queensland,Other,0.0,False
-2008,Queensland,"Bagasse, wood",1472.1,True
-2009,Queensland,"Bagasse, wood",1466.5,True
-2010,Queensland,"Bagasse, wood",823.7,True
-2011,Queensland,"Bagasse, wood",1005.6,True
-2012,Queensland,"Bagasse, wood",1117.8,True
-2013,Queensland,"Bagasse, wood",1403.0,True
-2014,Queensland,"Bagasse, wood",1550.3,True
-2015,Queensland,"Bagasse, wood",1656.281,True
-2016,Queensland,"Bagasse, wood",1291.767,True
-2017,Queensland,"Bagasse, wood",1252.897,True
-2018,Queensland,"Bagasse, wood",1157.937,True
-2019,Queensland,"Bagasse, wood",1029.768,True
-2020,Queensland,"Bagasse, wood",1076.402,True
-2021,Queensland,"Bagasse, wood",990.274,True
-2022,Queensland,"Bagasse, wood",913.857,True
-2008,Queensland,Biogas,116.4,True
-2009,Queensland,Biogas,81.5,True
-2010,Queensland,Biogas,97.0,True
-2011,Queensland,Biogas,119.2,True
-2012,Queensland,Biogas,121.4,True
-2013,Queensland,Biogas,82.8,True
-2014,Queensland,Biogas,91.1,True
-2015,Queensland,Biogas,115.483,True
-2016,Queensland,Biogas,118.269,True
-2017,Queensland,Biogas,126.496,True
-2018,Queensland,Biogas,175.075,True
-2019,Queensland,Biogas,189.207,True
-2020,Queensland,Biogas,198.522,True
-2021,Queensland,Biogas,223.491,True
-2022,Queensland,Biogas,256.128,True
-2008,Queensland,Wind,27.3,True
-2009,Queensland,Wind,30.909,True
-2010,Queensland,Wind,27.3,True
-2011,Queensland,Wind,27.7,True
-2012,Queensland,Wind,30.7,True
-2013,Queensland,Wind,33.7,True
-2014,Queensland,Wind,32.492,True
-2015,Queensland,Wind,28.406,True
-2016,Queensland,Wind,28.962,True
-2017,Queensland,Wind,30.274,True
-2018,Queensland,Wind,399.139,True
-2019,Queensland,Wind,927.89,True
-2020,Queensland,Wind,1826.044,True
-2021,Queensland,Wind,1850.128,True
-2022,Queensland,Wind,2124.839,True
-2008,Queensland,Hydro,820.2,True
-2009,Queensland,Hydro,572.8,True
-2010,Queensland,Hydro,965.6,True
-2011,Queensland,Hydro,723.2,True
-2012,Queensland,Hydro,684.1,True
-2013,Queensland,Hydro,820.9,True
-2014,Queensland,Hydro,649.1,True
-2015,Queensland,Hydro,491.722,True
-2016,Queensland,Hydro,672.206,True
-2017,Queensland,Hydro,646.115,True
-2018,Queensland,Hydro,1057.306,True
-2019,Queensland,Hydro,634.622,True
-2020,Queensland,Hydro,950.198,True
-2021,Queensland,Hydro,1118.899,True
-2022,Queensland,Hydro,1244.086,True
-2008,Queensland,Large-scale solar PV,0.0,True
-2009,Queensland,Large-scale solar PV,0.0,True
-2010,Queensland,Large-scale solar PV,0.0,True
-2011,Queensland,Large-scale solar PV,0.0,True
-2012,Queensland,Large-scale solar PV,0.0,True
-2013,Queensland,Large-scale solar PV,4.013,True
-2014,Queensland,Large-scale solar PV,5.928,True
-2015,Queensland,Large-scale solar PV,7.325,True
-2016,Queensland,Large-scale solar PV,34.087,True
-2017,Queensland,Large-scale solar PV,171.467,True
-2018,Queensland,Large-scale solar PV,1491.654,True
-2019,Queensland,Large-scale solar PV,3334.52,True
-2020,Queensland,Large-scale solar PV,3395.78,True
-2021,Queensland,Large-scale solar PV,3766.083,True
-2022,Queensland,Large-scale solar PV,5405.558,True
-2008,Queensland,Small-scale solar PV,50.8,True
-2009,Queensland,Small-scale solar PV,121.3,True
-2010,Queensland,Small-scale solar PV,400.6,True
-2011,Queensland,Small-scale solar PV,760.3,True
-2012,Queensland,Small-scale solar PV,1310.2,True
-2013,Queensland,Small-scale solar PV,1460.552,True
-2014,Queensland,Small-scale solar PV,1788.021,True
-2015,Queensland,Small-scale solar PV,2055.85,True
-2016,Queensland,Small-scale solar PV,2335.873,True
-2017,Queensland,Small-scale solar PV,2760.859,True
-2018,Queensland,Small-scale solar PV,3330.242,True
-2019,Queensland,Small-scale solar PV,4120.237,True
-2020,Queensland,Small-scale solar PV,5160.929,True
-2021,Queensland,Small-scale solar PV,6219.647,True
-2022,Queensland,Small-scale solar PV,7214.829,True
-2008,Queensland,Geothermal,0.5,True
-2009,Queensland,Geothermal,0.5,True
-2010,Queensland,Geothermal,0.5,True
-2011,Queensland,Geothermal,0.5,True
-2012,Queensland,Geothermal,0.5,True
-2013,Queensland,Geothermal,0.5,True
-2014,Queensland,Geothermal,0.6,True
-2015,Queensland,Geothermal,0.215,True
-2016,Queensland,Geothermal,0.502,True
-2017,Queensland,Geothermal,0.0,True
-2018,Queensland,Geothermal,0.0,True
-2019,Queensland,Geothermal,0.0,True
-2020,Queensland,Geothermal,0.0,True
-2021,Queensland,Geothermal,0.0,True
-2022,Queensland,Geothermal,0.0,True
-2008,Western Australia,Black coal,8738.0,False
-2009,Western Australia,Black coal,9612.2,False
-2010,Western Australia,Black coal,10352.3,False
-2011,Western Australia,Black coal,10783.3,False
-2012,Western Australia,Black coal,10276.9,False
-2013,Western Australia,Black coal,10885.3,False
-2014,Western Australia,Black coal,10523.4,False
-2015,Western Australia,Black coal,10912.688,False
-2016,Western Australia,Black coal,11226.156,False
-2017,Western Australia,Black coal,11031.872,False
-2018,Western Australia,Black coal,9953.96,False
-2019,Western Australia,Black coal,9725.243,False
-2020,Western Australia,Black coal,9212.413,False
-2021,Western Australia,Black coal,9656.465,False
-2022,Western Australia,Black coal,7340.324,False
-2008,Western Australia,Brown coal,0.0,False
-2009,Western Australia,Brown coal,0.0,False
-2010,Western Australia,Brown coal,0.0,False
-2011,Western Australia,Brown coal,0.0,False
-2012,Western Australia,Brown coal,0.0,False
-2013,Western Australia,Brown coal,0.0,False
-2014,Western Australia,Brown coal,0.0,False
-2015,Western Australia,Brown coal,0.0,False
-2016,Western Australia,Brown coal,0.0,False
-2017,Western Australia,Brown coal,0.0,False
-2018,Western Australia,Brown coal,0.0,False
-2019,Western Australia,Brown coal,0.0,False
-2020,Western Australia,Brown coal,0.0,False
-2021,Western Australia,Brown coal,0.0,False
-2022,Western Australia,Brown coal,0.0,False
-2008,Western Australia,Natural gas,14556.1,False
-2009,Western Australia,Natural gas,16006.3,False
-2010,Western Australia,Natural gas,18115.7,False
-2011,Western Australia,Natural gas,17538.3,False
-2012,Western Australia,Natural gas,17645.1,False
-2013,Western Australia,Natural gas,20880.0,False
-2014,Western Australia,Natural gas,20412.804,False
-2015,Western Australia,Natural gas,21899.573,False
-2016,Western Australia,Natural gas,22941.403,False
-2017,Western Australia,Natural gas,24789.093,False
-2018,Western Australia,Natural gas,25778.314,False
-2019,Western Australia,Natural gas,26918.551,False
-2020,Western Australia,Natural gas,25680.333,False
-2021,Western Australia,Natural gas,25314.166,False
-2022,Western Australia,Natural gas,27302.995,False
-2008,Western Australia,Oil products,1464.4,False
-2009,Western Australia,Oil products,1373.4,False
-2010,Western Australia,Oil products,1413.8,False
-2011,Western Australia,Oil products,1171.2,False
-2012,Western Australia,Oil products,2045.0,False
-2013,Western Australia,Oil products,2486.1,False
-2014,Western Australia,Oil products,4223.5,False
-2015,Western Australia,Oil products,3347.388,False
-2016,Western Australia,Oil products,2883.482,False
-2017,Western Australia,Oil products,2166.514,False
-2018,Western Australia,Oil products,2417.855,False
-2019,Western Australia,Oil products,2301.722,False
-2020,Western Australia,Oil products,2458.258,False
-2021,Western Australia,Oil products,2197.608,False
-2022,Western Australia,Oil products,2197.932,False
-2008,Western Australia,Other,0.0,False
-2009,Western Australia,Other,0.0,False
-2010,Western Australia,Other,0.0,False
-2011,Western Australia,Other,0.0,False
-2012,Western Australia,Other,0.0,False
-2013,Western Australia,Other,0.0,False
-2014,Western Australia,Other,0.0,False
-2015,Western Australia,Other,0.0,False
-2016,Western Australia,Other,0.0,False
-2017,Western Australia,Other,0.0,False
-2018,Western Australia,Other,0.0,False
-2019,Western Australia,Other,0.0,False
-2020,Western Australia,Other,0.0,False
-2021,Western Australia,Other,0.0,False
-2022,Western Australia,Other,0.0,False
-2008,Western Australia,"Bagasse, wood",0.0,True
-2009,Western Australia,"Bagasse, wood",0.0,True
-2010,Western Australia,"Bagasse, wood",0.0,True
-2011,Western Australia,"Bagasse, wood",0.0,True
-2012,Western Australia,"Bagasse, wood",0.0,True
-2013,Western Australia,"Bagasse, wood",0.0,True
-2014,Western Australia,"Bagasse, wood",0.0,True
-2015,Western Australia,"Bagasse, wood",0.0,True
-2016,Western Australia,"Bagasse, wood",0.0,True
-2017,Western Australia,"Bagasse, wood",0.0,True
-2018,Western Australia,"Bagasse, wood",0.0,True
-2019,Western Australia,"Bagasse, wood",0.0,True
-2020,Western Australia,"Bagasse, wood",0.0,True
-2021,Western Australia,"Bagasse, wood",0.0,True
-2022,Western Australia,"Bagasse, wood",0.0,True
-2008,Western Australia,Biogas,119.6,True
-2009,Western Australia,Biogas,121.2,True
-2010,Western Australia,Biogas,111.7,True
-2011,Western Australia,Biogas,125.7,True
-2012,Western Australia,Biogas,108.3,True
-2013,Western Australia,Biogas,124.0,True
-2014,Western Australia,Biogas,126.9,True
-2015,Western Australia,Biogas,94.55,True
-2016,Western Australia,Biogas,183.218,True
-2017,Western Australia,Biogas,141.107,True
-2018,Western Australia,Biogas,131.335,True
-2019,Western Australia,Biogas,112.444,True
-2020,Western Australia,Biogas,110.794,True
-2021,Western Australia,Biogas,119.25,True
-2022,Western Australia,Biogas,119.96,True
-2008,Western Australia,Wind,675.1,True
-2009,Western Australia,Wind,664.0,True
-2010,Western Australia,Wind,719.3,True
-2011,Western Australia,Wind,1278.7,True
-2012,Western Australia,Wind,1300.2,True
-2013,Western Australia,Wind,1578.8,True
-2014,Western Australia,Wind,1643.2,True
-2015,Western Australia,Wind,1476.458,True
-2016,Western Australia,Wind,1616.678,True
-2017,Western Australia,Wind,1586.985,True
-2018,Western Australia,Wind,1851.152,True
-2019,Western Australia,Wind,2122.54,True
-2020,Western Australia,Wind,3140.458,True
-2021,Western Australia,Wind,3676.727,True
-2022,Western Australia,Wind,3378.649,True
-2008,Western Australia,Hydro,0.0,True
-2009,Western Australia,Hydro,0.0,True
-2010,Western Australia,Hydro,0.0,True
-2011,Western Australia,Hydro,0.0,True
-2012,Western Australia,Hydro,221.3,True
-2013,Western Australia,Hydro,205.4,True
-2014,Western Australia,Hydro,206.1,True
-2015,Western Australia,Hydro,217.028,True
-2016,Western Australia,Hydro,212.622,True
-2017,Western Australia,Hydro,220.787,True
-2018,Western Australia,Hydro,217.009,True
-2019,Western Australia,Hydro,205.525,True
-2020,Western Australia,Hydro,127.962,True
-2021,Western Australia,Hydro,76.475,True
-2022,Western Australia,Hydro,71.316,True
-2008,Western Australia,Large-scale solar PV,0.0,True
-2009,Western Australia,Large-scale solar PV,0.0,True
-2010,Western Australia,Large-scale solar PV,0.0,True
-2011,Western Australia,Large-scale solar PV,0.0,True
-2012,Western Australia,Large-scale solar PV,0.0,True
-2013,Western Australia,Large-scale solar PV,24.137,True
-2014,Western Australia,Large-scale solar PV,23.884,True
-2015,Western Australia,Large-scale solar PV,28.349,True
-2016,Western Australia,Large-scale solar PV,34.261,True
-2017,Western Australia,Large-scale solar PV,45.608,True
-2018,Western Australia,Large-scale solar PV,74.523,True
-2019,Western Australia,Large-scale solar PV,174.72,True
-2020,Western Australia,Large-scale solar PV,486.59,True
-2021,Western Australia,Large-scale solar PV,745.489,True
-2022,Western Australia,Large-scale solar PV,907.67,True
-2008,Western Australia,Small-scale solar PV,18.7,True
-2009,Western Australia,Small-scale solar PV,57.5,True
-2010,Western Australia,Small-scale solar PV,198.1,True
-2011,Western Australia,Small-scale solar PV,331.4,True
-2012,Western Australia,Small-scale solar PV,449.5,True
-2013,Western Australia,Small-scale solar PV,495.849,True
-2014,Western Australia,Small-scale solar PV,622.13,True
-2015,Western Australia,Small-scale solar PV,760.766,True
-2016,Western Australia,Small-scale solar PV,941.132,True
-2017,Western Australia,Small-scale solar PV,1196.428,True
-2018,Western Australia,Small-scale solar PV,1486.69,True
-2019,Western Australia,Small-scale solar PV,1835.292,True
-2020,Western Australia,Small-scale solar PV,2298.474,True
-2021,Western Australia,Small-scale solar PV,2763.104,True
-2022,Western Australia,Small-scale solar PV,3159.368,True
-2008,Western Australia,Geothermal,0.0,True
-2009,Western Australia,Geothermal,0.0,True
-2010,Western Australia,Geothermal,0.0,True
-2011,Western Australia,Geothermal,0.0,True
-2012,Western Australia,Geothermal,0.0,True
-2013,Western Australia,Geothermal,0.0,True
-2014,Western Australia,Geothermal,0.0,True
-2015,Western Australia,Geothermal,0.0,True
-2016,Western Australia,Geothermal,0.0,True
-2017,Western Australia,Geothermal,0.0,True
-2018,Western Australia,Geothermal,0.0,True
-2019,Western Australia,Geothermal,0.0,True
-2020,Western Australia,Geothermal,0.0,True
-2021,Western Australia,Geothermal,0.0,True
-2022,Western Australia,Geothermal,0.0,True
-2008,South Australia,Black coal,0.0,False
-2009,South Australia,Black coal,0.0,False
-2010,South Australia,Black coal,0.0,False
-2011,South Australia,Black coal,0.0,False
-2012,South Australia,Black coal,0.0,False
-2013,South Australia,Black coal,0.0,False
-2014,South Australia,Black coal,0.0,False
-2015,South Australia,Black coal,0.0,False
-2016,South Australia,Black coal,0.0,False
-2017,South Australia,Black coal,0.0,False
-2018,South Australia,Black coal,0.0,False
-2019,South Australia,Black coal,0.0,False
-2020,South Australia,Black coal,0.0,False
-2021,South Australia,Black coal,0.0,False
-2022,South Australia,Black coal,0.0,False
-2008,South Australia,Brown coal,4887.4,False
-2009,South Australia,Brown coal,4526.6,False
-2010,South Australia,Brown coal,4231.6,False
-2011,South Australia,Brown coal,3008.0,False
-2012,South Australia,Brown coal,2237.5,False
-2013,South Australia,Brown coal,2098.5,False
-2014,South Australia,Brown coal,2633.6,False
-2015,South Australia,Brown coal,2593.675,False
-2016,South Australia,Brown coal,0.0,False
-2017,South Australia,Brown coal,0.0,False
-2018,South Australia,Brown coal,0.0,False
-2019,South Australia,Brown coal,0.0,False
-2020,South Australia,Brown coal,0.0,False
-2021,South Australia,Brown coal,0.0,False
-2022,South Australia,Brown coal,0.0,False
-2008,South Australia,Natural gas,7371.4,False
-2009,South Australia,Natural gas,6937.0,False
-2010,South Australia,Natural gas,6693.1,False
-2011,South Australia,Natural gas,6703.2,False
-2012,South Australia,Natural gas,7060.9,False
-2013,South Australia,Natural gas,5998.1,False
-2014,South Australia,Natural gas,5003.849,False
-2015,South Australia,Natural gas,4956.027,False
-2016,South Australia,Natural gas,6028.202,False
-2017,South Australia,Natural gas,7753.197,False
-2018,South Australia,Natural gas,7245.797,False
-2019,South Australia,Natural gas,6614.008,False
-2020,South Australia,Natural gas,5588.962,False
-2021,South Australia,Natural gas,4288.888,False
-2022,South Australia,Natural gas,3903.827,False
-2008,South Australia,Oil products,63.2,False
-2009,South Australia,Oil products,163.9,False
-2010,South Australia,Oil products,89.3,False
-2011,South Australia,Oil products,97.8,False
-2012,South Australia,Oil products,141.0,False
-2013,South Australia,Oil products,106.9,False
-2014,South Australia,Oil products,197.3,False
-2015,South Australia,Oil products,136.165,False
-2016,South Australia,Oil products,183.118,False
-2017,South Australia,Oil products,132.837,False
-2018,South Australia,Oil products,163.034,False
-2019,South Australia,Oil products,159.398,False
-2020,South Australia,Oil products,126.725,False
-2021,South Australia,Oil products,217.975,False
-2022,South Australia,Oil products,242.628,False
-2008,South Australia,Other,0.0,False
-2009,South Australia,Other,0.0,False
-2010,South Australia,Other,0.0,False
-2011,South Australia,Other,0.0,False
-2012,South Australia,Other,0.0,False
-2013,South Australia,Other,0.0,False
-2014,South Australia,Other,0.0,False
-2015,South Australia,Other,0.0,False
-2016,South Australia,Other,0.0,False
-2017,South Australia,Other,0.0,False
-2018,South Australia,Other,0.0,False
-2019,South Australia,Other,0.0,False
-2020,South Australia,Other,0.0,False
-2021,South Australia,Other,0.0,False
-2022,South Australia,Other,0.0,False
-2008,South Australia,"Bagasse, wood",0.0,True
-2009,South Australia,"Bagasse, wood",0.0,True
-2010,South Australia,"Bagasse, wood",0.0,True
-2011,South Australia,"Bagasse, wood",0.0,True
-2012,South Australia,"Bagasse, wood",0.0,True
-2013,South Australia,"Bagasse, wood",0.0,True
-2014,South Australia,"Bagasse, wood",0.0,True
-2015,South Australia,"Bagasse, wood",0.0,True
-2016,South Australia,"Bagasse, wood",0.0,True
-2017,South Australia,"Bagasse, wood",0.0,True
-2018,South Australia,"Bagasse, wood",0.0,True
-2019,South Australia,"Bagasse, wood",0.0,True
-2020,South Australia,"Bagasse, wood",0.0,True
-2021,South Australia,"Bagasse, wood",0.0,True
-2022,South Australia,"Bagasse, wood",0.0,True
-2008,South Australia,Biogas,86.1,True
-2009,South Australia,Biogas,85.5,True
-2010,South Australia,Biogas,77.8,True
-2011,South Australia,Biogas,70.6,True
-2012,South Australia,Biogas,72.6,True
-2013,South Australia,Biogas,80.9,True
-2014,South Australia,Biogas,84.9,True
-2015,South Australia,Biogas,94.596,True
-2016,South Australia,Biogas,78.024,True
-2017,South Australia,Biogas,73.952,True
-2018,South Australia,Biogas,85.01,True
-2019,South Australia,Biogas,97.446,True
-2020,South Australia,Biogas,94.595,True
-2021,South Australia,Biogas,94.582,True
-2022,South Australia,Biogas,92.24,True
-2008,South Australia,Wind,2020.2,True
-2009,South Australia,Wind,2029.0,True
-2010,South Australia,Wind,2890.3,True
-2011,South Australia,Wind,3126.528,True
-2012,South Australia,Wind,3313.5,True
-2013,South Australia,Wind,4150.337,True
-2014,South Australia,Wind,4291.901,True
-2015,South Australia,Wind,4398.022,True
-2016,South Australia,Wind,4413.692,True
-2017,South Australia,Wind,5673.898,True
-2018,South Australia,Wind,5711.02,True
-2019,South Australia,Wind,5812.912,True
-2020,South Australia,Wind,5867.068,True
-2021,South Australia,Wind,6254.756,True
-2022,South Australia,Wind,6799.644,True
-2008,South Australia,Hydro,4.1,True
-2009,South Australia,Hydro,4.2,True
-2010,South Australia,Hydro,4.1,True
-2011,South Australia,Hydro,4.4,True
-2012,South Australia,Hydro,5.9,True
-2013,South Australia,Hydro,5.9,True
-2014,South Australia,Hydro,10.8,True
-2015,South Australia,Hydro,6.481,True
-2016,South Australia,Hydro,3.451,True
-2017,South Australia,Hydro,6.352,True
-2018,South Australia,Hydro,8.803,True
-2019,South Australia,Hydro,10.264,True
-2020,South Australia,Hydro,3.455,True
-2021,South Australia,Hydro,2.496,True
-2022,South Australia,Hydro,1.548,True
-2008,South Australia,Large-scale solar PV,0.0,True
-2009,South Australia,Large-scale solar PV,0.0,True
-2010,South Australia,Large-scale solar PV,0.0,True
-2011,South Australia,Large-scale solar PV,0.0,True
-2012,South Australia,Large-scale solar PV,0.0,True
-2013,South Australia,Large-scale solar PV,1.385,True
-2014,South Australia,Large-scale solar PV,1.722,True
-2015,South Australia,Large-scale solar PV,2.0,True
-2016,South Australia,Large-scale solar PV,3.925,True
-2017,South Australia,Large-scale solar PV,20.045,True
-2018,South Australia,Large-scale solar PV,321.329,True
-2019,South Australia,Large-scale solar PV,627.836,True
-2020,South Australia,Large-scale solar PV,884.33,True
-2021,South Australia,Large-scale solar PV,1096.66,True
-2022,South Australia,Large-scale solar PV,1608.431,True
-2008,South Australia,Small-scale solar PV,23.4,True
-2009,South Australia,Small-scale solar PV,50.7,True
-2010,South Australia,Small-scale solar PV,182.8,True
-2011,South Australia,Small-scale solar PV,398.1,True
-2012,South Australia,Small-scale solar PV,558.6,True
-2013,South Australia,Small-scale solar PV,677.943,True
-2014,South Australia,Small-scale solar PV,802.239,True
-2015,South Australia,Small-scale solar PV,895.45,True
-2016,South Australia,Small-scale solar PV,1000.833,True
-2017,South Australia,Small-scale solar PV,1163.369,True
-2018,South Australia,Small-scale solar PV,1402.512,True
-2019,South Australia,Small-scale solar PV,1717.581,True
-2020,South Australia,Small-scale solar PV,2128.182,True
-2021,South Australia,Small-scale solar PV,2505.006,True
-2022,South Australia,Small-scale solar PV,2860.547,True
-2008,South Australia,Geothermal,0.0,True
-2009,South Australia,Geothermal,0.0,True
-2010,South Australia,Geothermal,0.0,True
-2011,South Australia,Geothermal,0.0,True
-2012,South Australia,Geothermal,0.0,True
-2013,South Australia,Geothermal,0.0,True
-2014,South Australia,Geothermal,0.0,True
-2015,South Australia,Geothermal,0.0,True
-2016,South Australia,Geothermal,0.0,True
-2017,South Australia,Geothermal,0.0,True
-2018,South Australia,Geothermal,0.0,True
-2019,South Australia,Geothermal,0.0,True
-2020,South Australia,Geothermal,0.0,True
-2021,South Australia,Geothermal,0.0,True
-2022,South Australia,Geothermal,0.0,True
-2008,Tasmania,Black coal,0.0,False
-2009,Tasmania,Black coal,0.0,False
-2010,Tasmania,Black coal,0.0,False
-2011,Tasmania,Black coal,0.0,False
-2012,Tasmania,Black coal,0.0,False
-2013,Tasmania,Black coal,0.0,False
-2014,Tasmania,Black coal,0.0,False
-2015,Tasmania,Black coal,0.0,False
-2016,Tasmania,Black coal,0.0,False
-2017,Tasmania,Black coal,0.0,False
-2018,Tasmania,Black coal,0.0,False
-2019,Tasmania,Black coal,0.0,False
-2020,Tasmania,Black coal,0.0,False
-2021,Tasmania,Black coal,0.0,False
-2022,Tasmania,Black coal,0.0,False
-2008,Tasmania,Brown coal,0.0,False
-2009,Tasmania,Brown coal,0.0,False
-2010,Tasmania,Brown coal,0.0,False
-2011,Tasmania,Brown coal,0.0,False
-2012,Tasmania,Brown coal,0.0,False
-2013,Tasmania,Brown coal,0.0,False
-2014,Tasmania,Brown coal,0.0,False
-2015,Tasmania,Brown coal,0.0,False
-2016,Tasmania,Brown coal,0.0,False
-2017,Tasmania,Brown coal,0.0,False
-2018,Tasmania,Brown coal,0.0,False
-2019,Tasmania,Brown coal,0.0,False
-2020,Tasmania,Brown coal,0.0,False
-2021,Tasmania,Brown coal,0.0,False
-2022,Tasmania,Brown coal,0.0,False
-2008,Tasmania,Natural gas,705.3,False
-2009,Tasmania,Natural gas,1109.8,False
-2010,Tasmania,Natural gas,1506.0,False
-2011,Tasmania,Natural gas,1562.7,False
-2012,Tasmania,Natural gas,1752.5,False
-2013,Tasmania,Natural gas,985.0,False
-2014,Tasmania,Natural gas,131.042,False
-2015,Tasmania,Natural gas,858.027,False
-2016,Tasmania,Natural gas,897.553,False
-2017,Tasmania,Natural gas,980.373,False
-2018,Tasmania,Natural gas,619.786,False
-2019,Tasmania,Natural gas,196.631,False
-2020,Tasmania,Natural gas,186.131,False
-2021,Tasmania,Natural gas,174.762,False
-2022,Tasmania,Natural gas,193.567,False
-2008,Tasmania,Oil products,64.5,False
-2009,Tasmania,Oil products,73.9,False
-2010,Tasmania,Oil products,94.9,False
-2011,Tasmania,Oil products,60.5,False
-2012,Tasmania,Oil products,12.1,False
-2013,Tasmania,Oil products,19.7,False
-2014,Tasmania,Oil products,18.9,False
-2015,Tasmania,Oil products,90.255,False
-2016,Tasmania,Oil products,21.817,False
-2017,Tasmania,Oil products,24.3,False
-2018,Tasmania,Oil products,19.27,False
-2019,Tasmania,Oil products,20.682,False
-2020,Tasmania,Oil products,19.835,False
-2021,Tasmania,Oil products,10.676,False
-2022,Tasmania,Oil products,12.669,False
-2008,Tasmania,Other,0.0,False
-2009,Tasmania,Other,0.0,False
-2010,Tasmania,Other,0.0,False
-2011,Tasmania,Other,0.0,False
-2012,Tasmania,Other,0.0,False
-2013,Tasmania,Other,0.0,False
-2014,Tasmania,Other,0.0,False
-2015,Tasmania,Other,0.0,False
-2016,Tasmania,Other,0.0,False
-2017,Tasmania,Other,0.0,False
-2018,Tasmania,Other,0.0,False
-2019,Tasmania,Other,0.0,False
-2020,Tasmania,Other,0.0,False
-2021,Tasmania,Other,0.0,False
-2022,Tasmania,Other,0.0,False
-2008,Tasmania,"Bagasse, wood",0.0,True
-2009,Tasmania,"Bagasse, wood",0.0,True
-2010,Tasmania,"Bagasse, wood",0.0,True
-2011,Tasmania,"Bagasse, wood",0.0,True
-2012,Tasmania,"Bagasse, wood",0.0,True
-2013,Tasmania,"Bagasse, wood",0.0,True
-2014,Tasmania,"Bagasse, wood",0.0,True
-2015,Tasmania,"Bagasse, wood",0.0,True
-2016,Tasmania,"Bagasse, wood",0.0,True
-2017,Tasmania,"Bagasse, wood",0.0,True
-2018,Tasmania,"Bagasse, wood",0.0,True
-2019,Tasmania,"Bagasse, wood",0.0,True
-2020,Tasmania,"Bagasse, wood",0.0,True
-2021,Tasmania,"Bagasse, wood",0.0,True
-2022,Tasmania,"Bagasse, wood",0.0,True
-2008,Tasmania,Biogas,25.1,True
-2009,Tasmania,Biogas,29.0,True
-2010,Tasmania,Biogas,29.9,True
-2011,Tasmania,Biogas,33.3,True
-2012,Tasmania,Biogas,33.0,True
-2013,Tasmania,Biogas,30.6,True
-2014,Tasmania,Biogas,34.6,True
-2015,Tasmania,Biogas,27.252,True
-2016,Tasmania,Biogas,24.517,True
-2017,Tasmania,Biogas,24.062,True
-2018,Tasmania,Biogas,27.004,True
-2019,Tasmania,Biogas,30.883,True
-2020,Tasmania,Biogas,31.774,True
-2021,Tasmania,Biogas,32.976,True
-2022,Tasmania,Biogas,31.817,True
-2008,Tasmania,Wind,486.897,True
-2009,Tasmania,Wind,489.3,True
-2010,Tasmania,Wind,483.5,True
-2011,Tasmania,Wind,423.1,True
-2012,Tasmania,Wind,477.5,True
-2013,Tasmania,Wind,818.0,True
-2014,Tasmania,Wind,1055.1,True
-2015,Tasmania,Wind,1055.996,True
-2016,Tasmania,Wind,1104.776,True
-2017,Tasmania,Wind,1147.79,True
-2018,Tasmania,Wind,1147.203,True
-2019,Tasmania,Wind,1362.035,True
-2020,Tasmania,Wind,1815.259,True
-2021,Tasmania,Wind,1789.181,True
-2022,Tasmania,Wind,1805.276,True
-2008,Tasmania,Hydro,7313.6,True
-2009,Tasmania,Hydro,8307.2,True
-2010,Tasmania,Hydro,9451.5,True
-2011,Tasmania,Hydro,8515.5,True
-2012,Tasmania,Hydro,10766.4,True
-2013,Tasmania,Hydro,12072.6,True
-2014,Tasmania,Hydro,8294.4,True
-2015,Tasmania,Hydro,8204.296,True
-2016,Tasmania,Hydro,8432.701,True
-2017,Tasmania,Hydro,9428.909,True
-2018,Tasmania,Hydro,9821.078,True
-2019,Tasmania,Hydro,9878.333,True
-2020,Tasmania,Hydro,8301.873,True
-2021,Tasmania,Hydro,9709.625,True
-2022,Tasmania,Hydro,8359.825,True
-2008,Tasmania,Large-scale solar PV,0.0,True
-2009,Tasmania,Large-scale solar PV,0.0,True
-2010,Tasmania,Large-scale solar PV,0.0,True
-2011,Tasmania,Large-scale solar PV,0.0,True
-2012,Tasmania,Large-scale solar PV,0.0,True
-2013,Tasmania,Large-scale solar PV,0.04,True
-2014,Tasmania,Large-scale solar PV,0.04,True
-2015,Tasmania,Large-scale solar PV,0.039,True
-2016,Tasmania,Large-scale solar PV,0.296,True
-2017,Tasmania,Large-scale solar PV,0.556,True
-2018,Tasmania,Large-scale solar PV,1.495,True
-2019,Tasmania,Large-scale solar PV,2.754,True
-2020,Tasmania,Large-scale solar PV,3.03,True
-2021,Tasmania,Large-scale solar PV,2.973,True
-2022,Tasmania,Large-scale solar PV,3.713,True
-2008,Tasmania,Small-scale solar PV,1.8,True
-2009,Tasmania,Small-scale solar PV,5.6,True
-2010,Tasmania,Small-scale solar PV,11.6,True
-2011,Tasmania,Small-scale solar PV,22.7,True
-2012,Tasmania,Small-scale solar PV,53.3,True
-2013,Tasmania,Small-scale solar PV,73.516,True
-2014,Tasmania,Small-scale solar PV,96.806,True
-2015,Tasmania,Small-scale solar PV,108.462,True
-2016,Tasmania,Small-scale solar PV,121.61,True
-2017,Tasmania,Small-scale solar PV,138.931,True
-2018,Tasmania,Small-scale solar PV,161.79,True
-2019,Tasmania,Small-scale solar PV,187.173,True
-2020,Tasmania,Small-scale solar PV,218.629,True
-2021,Tasmania,Small-scale solar PV,255.501,True
-2022,Tasmania,Small-scale solar PV,297.825,True
-2008,Tasmania,Geothermal,0.0,True
-2009,Tasmania,Geothermal,0.0,True
-2010,Tasmania,Geothermal,0.0,True
-2011,Tasmania,Geothermal,0.0,True
-2012,Tasmania,Geothermal,0.0,True
-2013,Tasmania,Geothermal,0.0,True
-2014,Tasmania,Geothermal,0.0,True
-2015,Tasmania,Geothermal,0.0,True
-2016,Tasmania,Geothermal,0.0,True
-2017,Tasmania,Geothermal,0.0,True
-2018,Tasmania,Geothermal,0.0,True
-2019,Tasmania,Geothermal,0.0,True
-2020,Tasmania,Geothermal,0.0,True
-2021,Tasmania,Geothermal,0.0,True
-2022,Tasmania,Geothermal,0.0,True
-2008,Northern Territory,Black coal,0.0,False
-2009,Northern Territory,Black coal,0.0,False
-2010,Northern Territory,Black coal,0.0,False
-2011,Northern Territory,Black coal,0.0,False
-2012,Northern Territory,Black coal,0.0,False
-2013,Northern Territory,Black coal,0.0,False
-2014,Northern Territory,Black coal,0.0,False
-2015,Northern Territory,Black coal,0.0,False
-2016,Northern Territory,Black coal,0.0,False
-2017,Northern Territory,Black coal,0.0,False
-2018,Northern Territory,Black coal,0.0,False
-2019,Northern Territory,Black coal,0.0,False
-2020,Northern Territory,Black coal,0.0,False
-2021,Northern Territory,Black coal,0.0,False
-2022,Northern Territory,Black coal,0.0,False
-2008,Northern Territory,Brown coal,0.0,False
-2009,Northern Territory,Brown coal,0.0,False
-2010,Northern Territory,Brown coal,0.0,False
-2011,Northern Territory,Brown coal,0.0,False
-2012,Northern Territory,Brown coal,0.0,False
-2013,Northern Territory,Brown coal,0.0,False
-2014,Northern Territory,Brown coal,0.0,False
-2015,Northern Territory,Brown coal,0.0,False
-2016,Northern Territory,Brown coal,0.0,False
-2017,Northern Territory,Brown coal,0.0,False
-2018,Northern Territory,Brown coal,0.0,False
-2019,Northern Territory,Brown coal,0.0,False
-2020,Northern Territory,Brown coal,0.0,False
-2021,Northern Territory,Brown coal,0.0,False
-2022,Northern Territory,Brown coal,0.0,False
-2008,Northern Territory,Natural gas,1873.4,False
-2009,Northern Territory,Natural gas,2134.9,False
-2010,Northern Territory,Natural gas,2054.1,False
-2011,Northern Territory,Natural gas,2109.3,False
-2012,Northern Territory,Natural gas,2269.0,False
-2013,Northern Territory,Natural gas,2308.9,False
-2014,Northern Territory,Natural gas,2201.4,False
-2015,Northern Territory,Natural gas,2484.714,False
-2016,Northern Territory,Natural gas,2366.493,False
-2017,Northern Territory,Natural gas,2437.758,False
-2018,Northern Territory,Natural gas,3503.228,False
-2019,Northern Territory,Natural gas,4285.007,False
-2020,Northern Territory,Natural gas,4142.973,False
-2021,Northern Territory,Natural gas,4561.489,False
-2022,Northern Territory,Natural gas,4160.223,False
-2008,Northern Territory,Oil products,1039.3,False
-2009,Northern Territory,Oil products,1118.2,False
-2010,Northern Territory,Oil products,1022.5,False
-2011,Northern Territory,Oil products,1020.9,False
-2012,Northern Territory,Oil products,1022.0,False
-2013,Northern Territory,Oil products,1123.6,False
-2014,Northern Territory,Oil products,751.3,False
-2015,Northern Territory,Oil products,522.63,False
-2016,Northern Territory,Oil products,537.402,False
-2017,Northern Territory,Oil products,947.176,False
-2018,Northern Territory,Oil products,794.978,False
-2019,Northern Territory,Oil products,504.397,False
-2020,Northern Territory,Oil products,502.491,False
-2021,Northern Territory,Oil products,461.921,False
-2022,Northern Territory,Oil products,527.223,False
-2008,Northern Territory,Other,0.0,False
-2009,Northern Territory,Other,0.0,False
-2010,Northern Territory,Other,0.0,False
-2011,Northern Territory,Other,0.0,False
-2012,Northern Territory,Other,0.0,False
-2013,Northern Territory,Other,0.0,False
-2014,Northern Territory,Other,0.0,False
-2015,Northern Territory,Other,0.0,False
-2016,Northern Territory,Other,0.0,False
-2017,Northern Territory,Other,0.0,False
-2018,Northern Territory,Other,0.0,False
-2019,Northern Territory,Other,0.0,False
-2020,Northern Territory,Other,0.0,False
-2021,Northern Territory,Other,0.0,False
-2022,Northern Territory,Other,0.0,False
-2008,Northern Territory,"Bagasse, wood",0.0,True
-2009,Northern Territory,"Bagasse, wood",0.0,True
-2010,Northern Territory,"Bagasse, wood",0.0,True
-2011,Northern Territory,"Bagasse, wood",0.0,True
-2012,Northern Territory,"Bagasse, wood",0.0,True
-2013,Northern Territory,"Bagasse, wood",0.0,True
-2014,Northern Territory,"Bagasse, wood",0.0,True
-2015,Northern Territory,"Bagasse, wood",0.0,True
-2016,Northern Territory,"Bagasse, wood",0.0,True
-2017,Northern Territory,"Bagasse, wood",0.0,True
-2018,Northern Territory,"Bagasse, wood",0.0,True
-2019,Northern Territory,"Bagasse, wood",0.0,True
-2020,Northern Territory,"Bagasse, wood",0.0,True
-2021,Northern Territory,"Bagasse, wood",0.0,True
-2022,Northern Territory,"Bagasse, wood",0.0,True
-2008,Northern Territory,Biogas,9.2,True
-2009,Northern Territory,Biogas,9.2,True
-2010,Northern Territory,Biogas,8.7,True
-2011,Northern Territory,Biogas,7.7,True
-2012,Northern Territory,Biogas,6.5,True
-2013,Northern Territory,Biogas,8.9,True
-2014,Northern Territory,Biogas,9.0,True
-2015,Northern Territory,Biogas,7.688,True
-2016,Northern Territory,Biogas,7.612,True
-2017,Northern Territory,Biogas,8.608,True
-2018,Northern Territory,Biogas,8.785,True
-2019,Northern Territory,Biogas,8.722,True
-2020,Northern Territory,Biogas,7.98,True
-2021,Northern Territory,Biogas,5.976,True
-2022,Northern Territory,Biogas,8.988,True
-2008,Northern Territory,Wind,0.0,True
-2009,Northern Territory,Wind,0.0,True
-2010,Northern Territory,Wind,0.0,True
-2011,Northern Territory,Wind,0.0,True
-2012,Northern Territory,Wind,0.0,True
-2013,Northern Territory,Wind,0.0,True
-2014,Northern Territory,Wind,0.0,True
-2015,Northern Territory,Wind,0.0,True
-2016,Northern Territory,Wind,0.0,True
-2017,Northern Territory,Wind,0.0,True
-2018,Northern Territory,Wind,0.0,True
-2019,Northern Territory,Wind,0.0,True
-2020,Northern Territory,Wind,0.0,True
-2021,Northern Territory,Wind,0.0,True
-2022,Northern Territory,Wind,0.0,True
-2008,Northern Territory,Hydro,0.0,True
-2009,Northern Territory,Hydro,0.0,True
-2010,Northern Territory,Hydro,0.0,True
-2011,Northern Territory,Hydro,0.0,True
-2012,Northern Territory,Hydro,0.0,True
-2013,Northern Territory,Hydro,0.0,True
-2014,Northern Territory,Hydro,0.0,True
-2015,Northern Territory,Hydro,0.0,True
-2016,Northern Territory,Hydro,0.0,True
-2017,Northern Territory,Hydro,0.0,True
-2018,Northern Territory,Hydro,0.0,True
-2019,Northern Territory,Hydro,0.0,True
-2020,Northern Territory,Hydro,0.0,True
-2021,Northern Territory,Hydro,0.0,True
-2022,Northern Territory,Hydro,0.0,True
-2008,Northern Territory,Large-scale solar PV,0.0,True
-2009,Northern Territory,Large-scale solar PV,0.0,True
-2010,Northern Territory,Large-scale solar PV,0.0,True
-2011,Northern Territory,Large-scale solar PV,0.0,True
-2012,Northern Territory,Large-scale solar PV,0.0,True
-2013,Northern Territory,Large-scale solar PV,5.058,True
-2014,Northern Territory,Large-scale solar PV,6.405,True
-2015,Northern Territory,Large-scale solar PV,8.515,True
-2016,Northern Territory,Large-scale solar PV,18.468,True
-2017,Northern Territory,Large-scale solar PV,30.504,True
-2018,Northern Territory,Large-scale solar PV,32.652,True
-2019,Northern Territory,Large-scale solar PV,39.25,True
-2020,Northern Territory,Large-scale solar PV,44.607,True
-2021,Northern Territory,Large-scale solar PV,46.126,True
-2022,Northern Territory,Large-scale solar PV,50.817,True
-2008,Northern Territory,Small-scale solar PV,0.5,True
-2009,Northern Territory,Small-scale solar PV,4.3,True
-2010,Northern Territory,Small-scale solar PV,5.6,True
-2011,Northern Territory,Small-scale solar PV,9.7,True
-2012,Northern Territory,Small-scale solar PV,16.9,True
-2013,Northern Territory,Small-scale solar PV,19.357,True
-2014,Northern Territory,Small-scale solar PV,28.899,True
-2015,Northern Territory,Small-scale solar PV,42.448,True
-2016,Northern Territory,Small-scale solar PV,61.251,True
-2017,Northern Territory,Small-scale solar PV,85.773,True
-2018,Northern Territory,Small-scale solar PV,117.882,True
-2019,Northern Territory,Small-scale solar PV,162.212,True
-2020,Northern Territory,Small-scale solar PV,203.556,True
-2021,Northern Territory,Small-scale solar PV,230.893,True
-2022,Northern Territory,Small-scale solar PV,259.389,True
-2008,Northern Territory,Geothermal,0.0,True
-2009,Northern Territory,Geothermal,0.0,True
-2010,Northern Territory,Geothermal,0.0,True
-2011,Northern Territory,Geothermal,0.0,True
-2012,Northern Territory,Geothermal,0.0,True
-2013,Northern Territory,Geothermal,0.0,True
-2014,Northern Territory,Geothermal,0.0,True
-2015,Northern Territory,Geothermal,0.0,True
-2016,Northern Territory,Geothermal,0.0,True
-2017,Northern Territory,Geothermal,0.0,True
-2018,Northern Territory,Geothermal,0.0,True
-2019,Northern Territory,Geothermal,0.0,True
-2020,Northern Territory,Geothermal,0.0,True
-2021,Northern Territory,Geothermal,0.0,True
-2022,Northern Territory,Geothermal,0.0,True
-2008,New South Wales,non_renewable_total,70120.1,False
-2009,New South Wales,non_renewable_total,69085.5,False
-2010,New South Wales,non_renewable_total,65536.3,False
-2011,New South Wales,non_renewable_total,64707.9,False
-2012,New South Wales,non_renewable_total,62158.2,False
-2013,New South Wales,non_renewable_total,61518.495,False
-2014,New South Wales,non_renewable_total,57374.89,False
-2015,New South Wales,non_renewable_total,60252.593,False
-2016,New South Wales,non_renewable_total,59619.497,False
-2017,New South Wales,non_renewable_total,60392.35,False
-2018,New South Wales,non_renewable_total,60417.819,False
-2019,New South Wales,non_renewable_total,56774.898,False
-2020,New South Wales,non_renewable_total,53034.595,False
-2021,New South Wales,non_renewable_total,50627.581,False
-2022,New South Wales,non_renewable_total,48489.888,False
-2008,New South Wales,renewable_total,2249.277,True
-2009,New South Wales,renewable_total,3922.326,True
-2010,New South Wales,renewable_total,4144.569,True
-2011,New South Wales,renewable_total,4624.525,True
-2012,New South Wales,renewable_total,5827.089,True
-2013,New South Wales,renewable_total,5478.144,True
-2014,New South Wales,renewable_total,5441.551,True
-2015,New South Wales,renewable_total,7976.784,True
-2016,New South Wales,renewable_total,8539.75,True
-2017,New South Wales,renewable_total,9332.271,True
-2018,New South Wales,renewable_total,11142.976,True
-2019,New South Wales,renewable_total,13289.838,True
-2020,New South Wales,renewable_total,17128.232,True
-2021,New South Wales,renewable_total,21471.577,True
-2022,New South Wales,renewable_total,24579.818,True
-2008,New South Wales,total,72369.377,0
-2009,New South Wales,total,73007.826,0
-2010,New South Wales,total,69680.869,0
-2011,New South Wales,total,69332.425,0
-2012,New South Wales,total,67985.289,0
-2013,New South Wales,total,66996.639,0
-2014,New South Wales,total,62816.441,0
-2015,New South Wales,total,68229.377,0
-2016,New South Wales,total,68159.247,0
-2017,New South Wales,total,69724.621,0
-2018,New South Wales,total,71560.795,0
-2019,New South Wales,total,70064.736,0
-2020,New South Wales,total,70162.827,0
-2021,New South Wales,total,72099.158,0
-2022,New South Wales,total,73069.706,0
-2008,Victoria,non_renewable_total,53566.3,False
-2009,Victoria,non_renewable_total,53240.7,False
-2010,Victoria,non_renewable_total,52394.5,False
-2011,Victoria,non_renewable_total,53206.2,False
-2012,Victoria,non_renewable_total,48576.0,False
-2013,Victoria,non_renewable_total,47362.8,False
-2014,Victoria,non_renewable_total,50883.677,False
-2015,Victoria,non_renewable_total,48196.949,False
-2016,Victoria,non_renewable_total,46362.117,False
-2017,Victoria,non_renewable_total,40029.336,False
-2018,Victoria,non_renewable_total,38033.936,False
-2019,Victoria,non_renewable_total,36980.565,False
-2020,Victoria,non_renewable_total,36196.013,False
-2021,Victoria,non_renewable_total,34959.893,False
-2022,Victoria,non_renewable_total,33411.677,False
-2008,Victoria,renewable_total,3123.623,True
-2009,Victoria,renewable_total,3750.574,True
-2010,Victoria,renewable_total,5890.122,True
-2011,Victoria,renewable_total,5047.522,True
-2012,Victoria,renewable_total,6724.111,True
-2013,Victoria,renewable_total,6932.353,True
-2014,Victoria,renewable_total,7137.534,True
-2015,Victoria,renewable_total,8385.587,True
-2016,Victoria,renewable_total,9174.092,True
-2017,Victoria,renewable_total,9328.798,True
-2018,Victoria,renewable_total,10662.034,True
-2019,Victoria,renewable_total,12016.336,True
-2020,Victoria,renewable_total,15293.467,True
-2021,Victoria,renewable_total,18947.673,True
-2022,Victoria,renewable_total,21556.086,True
-2008,Victoria,total,56689.923,0
-2009,Victoria,total,56991.274,0
-2010,Victoria,total,58284.622,0
-2011,Victoria,total,58253.722,0
-2012,Victoria,total,55300.111,0
-2013,Victoria,total,54295.153,0
-2014,Victoria,total,58021.211,0
-2015,Victoria,total,56582.536,0
-2016,Victoria,total,55536.21,0
-2017,Victoria,total,49358.134,0
-2018,Victoria,total,48695.97,0
-2019,Victoria,total,48996.901,0
-2020,Victoria,total,51489.48,0
-2021,Victoria,total,53907.566,0
-2022,Victoria,total,54967.763,0
-2008,Queensland,non_renewable_total,60850.8,False
-2009,Queensland,non_renewable_total,62105.0,False
-2010,Queensland,non_renewable_total,60833.3,False
-2011,Queensland,non_renewable_total,61026.7,False
-2012,Queensland,non_renewable_total,59367.7,False
-2013,Queensland,non_renewable_total,56674.5,False
-2014,Queensland,non_renewable_total,63999.5,False
-2015,Queensland,non_renewable_total,63031.85,False
-2016,Queensland,non_renewable_total,64495.152,False
-2017,Queensland,non_renewable_total,65728.454,False
-2018,Queensland,non_renewable_total,63055.128,False
-2019,Queensland,non_renewable_total,60766.749,False
-2020,Queensland,non_renewable_total,57607.528,False
-2021,Queensland,non_renewable_total,55064.589,False
-2022,Queensland,non_renewable_total,53579.665,False
-2008,Queensland,renewable_total,2487.3,True
-2009,Queensland,renewable_total,2273.509,True
-2010,Queensland,renewable_total,2314.7,True
-2011,Queensland,renewable_total,2636.5,True
-2012,Queensland,renewable_total,3264.7,True
-2013,Queensland,renewable_total,3805.465,True
-2014,Queensland,renewable_total,4117.542,True
-2015,Queensland,renewable_total,4355.282,True
-2016,Queensland,renewable_total,4481.666,True
-2017,Queensland,renewable_total,4988.108,True
-2018,Queensland,renewable_total,7611.352,True
-2019,Queensland,renewable_total,10236.245,True
-2020,Queensland,renewable_total,12607.874,True
-2021,Queensland,renewable_total,14168.523,True
-2022,Queensland,renewable_total,17159.297,True
-2008,Queensland,total,63338.1,0
-2009,Queensland,total,64378.509,0
-2010,Queensland,total,63148.0,0
-2011,Queensland,total,63663.2,0
-2012,Queensland,total,62632.4,0
-2013,Queensland,total,60479.965,0
-2014,Queensland,total,68117.042,0
-2015,Queensland,total,67387.132,0
-2016,Queensland,total,68976.818,0
-2017,Queensland,total,70716.563,0
-2018,Queensland,total,70666.48,0
-2019,Queensland,total,71002.994,0
-2020,Queensland,total,70215.402,0
-2021,Queensland,total,69233.112,0
-2022,Queensland,total,70738.962,0
-2008,Western Australia,non_renewable_total,24758.5,False
-2009,Western Australia,non_renewable_total,26991.9,False
-2010,Western Australia,non_renewable_total,29881.8,False
-2011,Western Australia,non_renewable_total,29492.8,False
-2012,Western Australia,non_renewable_total,29967.0,False
-2013,Western Australia,non_renewable_total,34251.4,False
-2014,Western Australia,non_renewable_total,35159.704,False
-2015,Western Australia,non_renewable_total,36159.649,False
-2016,Western Australia,non_renewable_total,37051.041,False
-2017,Western Australia,non_renewable_total,37987.48,False
-2018,Western Australia,non_renewable_total,38150.129,False
-2019,Western Australia,non_renewable_total,38945.516,False
-2020,Western Australia,non_renewable_total,37351.004,False
-2021,Western Australia,non_renewable_total,37168.239,False
-2022,Western Australia,non_renewable_total,36841.251,False
-2008,Western Australia,renewable_total,813.4,True
-2009,Western Australia,renewable_total,842.7,True
-2010,Western Australia,renewable_total,1029.1,True
-2011,Western Australia,renewable_total,1735.8,True
-2012,Western Australia,renewable_total,2079.3,True
-2013,Western Australia,renewable_total,2428.186,True
-2014,Western Australia,renewable_total,2622.214,True
-2015,Western Australia,renewable_total,2577.151,True
-2016,Western Australia,renewable_total,2987.911,True
-2017,Western Australia,renewable_total,3190.915,True
-2018,Western Australia,renewable_total,3760.71,True
-2019,Western Australia,renewable_total,4450.522,True
-2020,Western Australia,renewable_total,6164.277,True
-2021,Western Australia,renewable_total,7381.045,True
-2022,Western Australia,renewable_total,7636.963,True
-2008,Western Australia,total,25571.9,0
-2009,Western Australia,total,27834.6,0
-2010,Western Australia,total,30910.9,0
-2011,Western Australia,total,31228.6,0
-2012,Western Australia,total,32046.3,0
-2013,Western Australia,total,36679.586,0
-2014,Western Australia,total,37781.918,0
-2015,Western Australia,total,38736.8,0
-2016,Western Australia,total,40038.952,0
-2017,Western Australia,total,41178.395,0
-2018,Western Australia,total,41910.839,0
-2019,Western Australia,total,43396.038,0
-2020,Western Australia,total,43515.282,0
-2021,Western Australia,total,44549.284,0
-2022,Western Australia,total,44478.213,0
-2008,South Australia,non_renewable_total,12322.0,False
-2009,South Australia,non_renewable_total,11627.5,False
-2010,South Australia,non_renewable_total,11014.0,False
-2011,South Australia,non_renewable_total,9809.0,False
-2012,South Australia,non_renewable_total,9439.4,False
-2013,South Australia,non_renewable_total,8203.5,False
-2014,South Australia,non_renewable_total,7834.749,False
-2015,South Australia,non_renewable_total,7685.867,False
-2016,South Australia,non_renewable_total,6211.32,False
-2017,South Australia,non_renewable_total,7886.034,False
-2018,South Australia,non_renewable_total,7408.831,False
-2019,South Australia,non_renewable_total,6773.406,False
-2020,South Australia,non_renewable_total,5715.687,False
-2021,South Australia,non_renewable_total,4506.864,False
-2022,South Australia,non_renewable_total,4146.455,False
-2008,South Australia,renewable_total,2133.8,True
-2009,South Australia,renewable_total,2169.4,True
-2010,South Australia,renewable_total,3155.0,True
-2011,South Australia,renewable_total,3599.628,True
-2012,South Australia,renewable_total,3950.6,True
-2013,South Australia,renewable_total,4916.465,True
-2014,South Australia,renewable_total,5191.562,True
-2015,South Australia,renewable_total,5396.549,True
-2016,South Australia,renewable_total,5499.925,True
-2017,South Australia,renewable_total,6937.615,True
-2018,South Australia,renewable_total,7528.675,True
-2019,South Australia,renewable_total,8266.039,True
-2020,South Australia,renewable_total,8977.631,True
-2021,South Australia,renewable_total,9953.499,True
-2022,South Australia,renewable_total,11362.41,True
-2008,South Australia,total,14455.8,0
-2009,South Australia,total,13796.9,0
-2010,South Australia,total,14169.0,0
-2011,South Australia,total,13408.628,0
-2012,South Australia,total,13390.0,0
-2013,South Australia,total,13119.965,0
-2014,South Australia,total,13026.311,0
-2015,South Australia,total,13082.416,0
-2016,South Australia,total,11711.245,0
-2017,South Australia,total,14823.649,0
-2018,South Australia,total,14937.506,0
-2019,South Australia,total,15039.445,0
-2020,South Australia,total,14693.318,0
-2021,South Australia,total,14460.363,0
-2022,South Australia,total,15508.865,0
-2008,Tasmania,non_renewable_total,769.8,False
-2009,Tasmania,non_renewable_total,1183.7,False
-2010,Tasmania,non_renewable_total,1600.9,False
-2011,Tasmania,non_renewable_total,1623.2,False
-2012,Tasmania,non_renewable_total,1764.6,False
-2013,Tasmania,non_renewable_total,1004.7,False
-2014,Tasmania,non_renewable_total,149.942,False
-2015,Tasmania,non_renewable_total,948.282,False
-2016,Tasmania,non_renewable_total,919.37,False
-2017,Tasmania,non_renewable_total,1004.673,False
-2018,Tasmania,non_renewable_total,639.056,False
-2019,Tasmania,non_renewable_total,217.312,False
-2020,Tasmania,non_renewable_total,205.966,False
-2021,Tasmania,non_renewable_total,185.438,False
-2022,Tasmania,non_renewable_total,206.236,False
-2008,Tasmania,renewable_total,7827.397,True
-2009,Tasmania,renewable_total,8831.1,True
-2010,Tasmania,renewable_total,9976.5,True
-2011,Tasmania,renewable_total,8994.6,True
-2012,Tasmania,renewable_total,11330.2,True
-2013,Tasmania,renewable_total,12994.756,True
-2014,Tasmania,renewable_total,9480.946,True
-2015,Tasmania,renewable_total,9396.045,True
-2016,Tasmania,renewable_total,9683.9,True
-2017,Tasmania,renewable_total,10740.248,True
-2018,Tasmania,renewable_total,11158.569,True
-2019,Tasmania,renewable_total,11461.179,True
-2020,Tasmania,renewable_total,10370.566,True
-2021,Tasmania,renewable_total,11790.255,True
-2022,Tasmania,renewable_total,10498.456,True
-2008,Tasmania,total,8597.197,0
-2009,Tasmania,total,10014.8,0
-2010,Tasmania,total,11577.4,0
-2011,Tasmania,total,10617.8,0
-2012,Tasmania,total,13094.8,0
-2013,Tasmania,total,13999.456,0
-2014,Tasmania,total,9630.888,0
-2015,Tasmania,total,10344.327,0
-2016,Tasmania,total,10603.27,0
-2017,Tasmania,total,11744.921,0
-2018,Tasmania,total,11797.625,0
-2019,Tasmania,total,11678.491,0
-2020,Tasmania,total,10576.532,0
-2021,Tasmania,total,11975.694,0
-2022,Tasmania,total,10704.692,0
-2008,Northern Territory,non_renewable_total,2912.7,False
-2009,Northern Territory,non_renewable_total,3253.1,False
-2010,Northern Territory,non_renewable_total,3076.6,False
-2011,Northern Territory,non_renewable_total,3130.2,False
-2012,Northern Territory,non_renewable_total,3291.0,False
-2013,Northern Territory,non_renewable_total,3432.5,False
-2014,Northern Territory,non_renewable_total,2952.7,False
-2015,Northern Territory,non_renewable_total,3007.344,False
-2016,Northern Territory,non_renewable_total,2903.895,False
-2017,Northern Territory,non_renewable_total,3384.935,False
-2018,Northern Territory,non_renewable_total,4298.205,False
-2019,Northern Territory,non_renewable_total,4789.404,False
-2020,Northern Territory,non_renewable_total,4645.465,False
-2021,Northern Territory,non_renewable_total,5023.411,False
-2022,Northern Territory,non_renewable_total,4687.446,False
-2008,Northern Territory,renewable_total,9.7,True
-2009,Northern Territory,renewable_total,13.5,True
-2010,Northern Territory,renewable_total,14.3,True
-2011,Northern Territory,renewable_total,17.4,True
-2012,Northern Territory,renewable_total,23.4,True
-2013,Northern Territory,renewable_total,33.315,True
-2014,Northern Territory,renewable_total,44.304,True
-2015,Northern Territory,renewable_total,58.651,True
-2016,Northern Territory,renewable_total,87.331,True
-2017,Northern Territory,renewable_total,124.884,True
-2018,Northern Territory,renewable_total,159.319,True
-2019,Northern Territory,renewable_total,210.183,True
-2020,Northern Territory,renewable_total,256.144,True
-2021,Northern Territory,renewable_total,282.994,True
-2022,Northern Territory,renewable_total,319.194,True
-2008,Northern Territory,total,2922.4,0
-2009,Northern Territory,total,3266.6,0
-2010,Northern Territory,total,3090.9,0
-2011,Northern Territory,total,3147.6,0
-2012,Northern Territory,total,3314.4,0
-2013,Northern Territory,total,3465.815,0
-2014,Northern Territory,total,2997.004,0
-2015,Northern Territory,total,3065.995,0
-2016,Northern Territory,total,2991.226,0
-2017,Northern Territory,total,3509.819,0
-2018,Northern Territory,total,4457.524,0
-2019,Northern Territory,total,4999.587,0
-2020,Northern Territory,total,4901.608,0
-2021,Northern Territory,total,5306.405,0
-2022,Northern Territory,total,5006.64,0
+Year,State,Energy_Source,Value,Renewable,Value_Normalized
+2008,New South Wales,Black coal,67650.3,False,0.019460997486047262
+2009,New South Wales,Black coal,64398.6,False,0.018260595132538224
+2010,New South Wales,Black coal,60732.2,False,0.01703301418740068
+2011,New South Wales,Black coal,60453.7,False,0.016773135105230066
+2012,New South Wales,Black coal,56798.6,False,0.015561111057839172
+2013,New South Wales,Black coal,55819.495,False,0.015093611250817962
+2014,New South Wales,Black coal,52562.2,False,0.014016358667232345
+2015,New South Wales,Black coal,55334.499,False,0.014549117618987147
+2016,New South Wales,Black coal,55967.139,False,0.014479149295499179
+2017,New South Wales,Black coal,57022.151,False,0.01454164089928317
+2018,New South Wales,Black coal,57734.932,False,0.014519886748019373
+2019,New South Wales,Black coal,53566.67,False,0.013326706469315322
+2020,New South Wales,Black coal,50790.813,False,0.012626803746960815
+2021,New South Wales,Black coal,46958.795,False,0.011662620491173831
+2022,New South Wales,Black coal,45602.768,False,0.011120413108025329
+2008,New South Wales,Brown coal,0.0,False,0.0
+2009,New South Wales,Brown coal,0.0,False,0.0
+2010,New South Wales,Brown coal,0.0,False,0.0
+2011,New South Wales,Brown coal,0.0,False,0.0
+2012,New South Wales,Brown coal,0.0,False,0.0
+2013,New South Wales,Brown coal,0.0,False,0.0
+2014,New South Wales,Brown coal,0.0,False,0.0
+2015,New South Wales,Brown coal,0.0,False,0.0
+2016,New South Wales,Brown coal,0.0,False,0.0
+2017,New South Wales,Brown coal,0.0,False,0.0
+2018,New South Wales,Brown coal,0.0,False,0.0
+2019,New South Wales,Brown coal,0.0,False,0.0
+2020,New South Wales,Brown coal,0.0,False,0.0
+2021,New South Wales,Brown coal,0.0,False,0.0
+2022,New South Wales,Brown coal,0.0,False,0.0
+2008,New South Wales,Natural gas,2445.1,False,0.0007033832067726847
+2009,New South Wales,Natural gas,4681.3,False,0.0013274096640913187
+2010,New South Wales,Natural gas,4742.7,False,0.0013301424349288385
+2011,New South Wales,Natural gas,4212.1,False,0.0011686649845541227
+2012,New South Wales,Natural gas,5168.7,False,0.001416068613040697
+2013,New South Wales,Natural gas,5528.3,False,0.001494854281248817
+2014,New South Wales,Natural gas,4528.39,False,0.001207551023836679
+2015,New South Wales,Natural gas,4628.561,False,0.001216989032387494
+2016,New South Wales,Natural gas,3330.808,False,0.0008617068366964948
+2017,New South Wales,Natural gas,3045.834,False,0.0007767406786676156
+2018,New South Wales,Natural gas,2360.324,False,0.0005936031442564456
+2019,New South Wales,Natural gas,2870.937,False,0.0007142526255766267
+2020,New South Wales,Natural gas,1903.206,False,0.0004731447919929595
+2021,New South Wales,Natural gas,3210.705,False,0.0007974061924739397
+2022,New South Wales,Natural gas,2497.562,False,0.0006090402495503333
+2008,New South Wales,Oil products,24.7,False,7.105462029072559e-06
+2009,New South Wales,Oil products,5.6,False,1.587912357445877e-06
+2010,New South Wales,Oil products,61.4,False,1.7220306050273196e-05
+2011,New South Wales,Oil products,42.1,False,1.1680823306599694e-05
+2012,New South Wales,Oil products,190.9,False,5.2300868347837764e-05
+2013,New South Wales,Oil products,170.7,False,4.615734055843081e-05
+2014,New South Wales,Oil products,284.3,False,7.581210012317134e-05
+2015,New South Wales,Oil products,289.533,False,7.61270048108361e-05
+2016,New South Wales,Oil products,321.55,False,8.318757290716184e-05
+2017,New South Wales,Oil products,324.365,False,8.27187201390559e-05
+2018,New South Wales,Oil products,322.563,False,8.112208790860572e-05
+2019,New South Wales,Oil products,337.29,False,8.391346382060646e-05
+2020,New South Wales,Oil products,340.577,False,8.466883449431443e-05
+2021,New South Wales,Oil products,458.081,False,0.00011376835494218709
+2022,New South Wales,Oil products,389.558,False,9.499523997175196e-05
+2008,New South Wales,Other,0.0,False,0.0
+2009,New South Wales,Other,0.0,False,0.0
+2010,New South Wales,Other,0.0,False,0.0
+2011,New South Wales,Other,0.0,False,0.0
+2012,New South Wales,Other,0.0,False,0.0
+2013,New South Wales,Other,0.0,False,0.0
+2014,New South Wales,Other,0.0,False,0.0
+2015,New South Wales,Other,0.0,False,0.0
+2016,New South Wales,Other,0.0,False,0.0
+2017,New South Wales,Other,0.0,False,0.0
+2018,New South Wales,Other,0.0,False,0.0
+2019,New South Wales,Other,0.0,False,0.0
+2020,New South Wales,Other,0.0,False,0.0
+2021,New South Wales,Other,0.0,False,0.0
+2022,New South Wales,Other,0.0,False,0.0
+2008,New South Wales,"Bagasse, wood",291.3,True,8.379842465865735e-05
+2009,New South Wales,"Bagasse, wood",295.3,True,8.373402127745848e-05
+2010,New South Wales,"Bagasse, wood",253.3,True,7.104077398264171e-05
+2011,New South Wales,"Bagasse, wood",413.6,True,0.00011475507172469438
+2012,New South Wales,"Bagasse, wood",425.4,True,0.00011654682763315967
+2013,New South Wales,"Bagasse, wood",461.7,True,0.00012484384379512304
+2014,New South Wales,"Bagasse, wood",551.1,True,0.0001469576094895523
+2015,New South Wales,"Bagasse, wood",601.734,True,0.00015821411415225086
+2016,New South Wales,"Bagasse, wood",696.468,True,0.00018018187693206403
+2017,New South Wales,"Bagasse, wood",764.985,True,0.0001950844885409205
+2018,New South Wales,"Bagasse, wood",758.832,True,0.00019084035122398754
+2019,New South Wales,"Bagasse, wood",716.2,True,0.00017818145450003957
+2020,New South Wales,"Bagasse, wood",686.098,True,0.0001705667675999264
+2021,New South Wales,"Bagasse, wood",568.338,True,0.000141151628884701
+2022,New South Wales,"Bagasse, wood",580.955,True,0.00014166814604703066
+2008,New South Wales,Biogas,383.4,True,0.00011029288024074571
+2009,New South Wales,Biogas,385.8,True,0.00010939581919689632
+2010,New South Wales,Biogas,360.0,True,0.00010096596381267673
+2011,New South Wales,Biogas,408.7,True,0.0001133955459716697
+2012,New South Wales,Biogas,413.4,True,0.00011325918792559523
+2013,New South Wales,Biogas,420.6,True,0.00011373038921427066
+2014,New South Wales,Biogas,472.1,True,0.00012589128550175585
+2015,New South Wales,Biogas,444.606,True,0.00011690039857607455
+2016,New South Wales,Biogas,406.21,True,0.0001050897962699991
+2017,New South Wales,Biogas,424.375,True,0.00010822301067936382
+2018,New South Wales,Biogas,418.791,True,0.00010532268213444473
+2019,New South Wales,Biogas,387.435,True,9.638890229575932e-05
+2020,New South Wales,Biogas,411.044,True,0.0001021872187666254
+2021,New South Wales,Biogas,398.533,True,9.897909714695578e-05
+2022,New South Wales,Biogas,411.396,True,0.0001003205215742428
+2008,New South Wales,Wind,41.3,True,1.1880792785453306e-05
+2009,New South Wales,Wind,432.5,True,0.00012263787403488246
+2010,New South Wales,Wind,530.091,True,0.00014866985756507116
+2011,New South Wales,Wind,697.6,True,0.00019355207455306285
+2012,New South Wales,Wind,832.6,True,0.00022810740170984664
+2013,New South Wales,Wind,899.202,True,0.00024314453980563621
+2014,New South Wales,Wind,1376.0,True,0.00036692736464820174
+2015,New South Wales,Wind,1898.787,True,0.0004992486766059586
+2016,New South Wales,Wind,1872.027,True,0.0004843084513969071
+2017,New South Wales,Wind,2431.628,True,0.0006201074592335554
+2018,New South Wales,Wind,3739.737,True,0.0009405147945333637
+2019,New South Wales,Wind,4574.26,True,0.0011380177325626235
+2020,New South Wales,Wind,4805.916,True,0.0011947703644038723
+2021,New South Wales,Wind,5973.429,True,0.0014835524518457515
+2022,New South Wales,Wind,6210.924,True,0.0015145580781971198
+2008,New South Wales,Hydro,1496.977,True,0.00043063616323461346
+2009,New South Wales,Hydro,2689.526,True,0.0007626306376914249
+2010,New South Wales,Hydro,2474.878,True,0.0006941067849688604
+2011,New South Wales,Hydro,2446.925,True,0.000678909704738752
+2012,New South Wales,Hydro,3298.089,True,0.0009035773629567936
+2013,New South Wales,Hydro,2721.109,True,0.0007357888389549566
+2014,New South Wales,Hydro,1770.988,True,0.00047225578463923654
+2015,New South Wales,Hydro,3170.201,True,0.0008335419685435422
+2016,New South Wales,Hydro,3290.647,True,0.000851316862771679
+2017,New South Wales,Hydro,2915.519,True,0.0007435080857093092
+2018,New South Wales,Hydro,2160.284,True,0.0005432946387389576
+2019,New South Wales,Hydro,2110.053,True,0.0005249543599723149
+2020,New South Wales,Hydro,2964.239,True,0.000736921933344272
+2021,New South Wales,Hydro,3315.522,True,0.0008234383956431941
+2022,New South Wales,Hydro,3752.077,True,0.0009149586326233608
+2008,New South Wales,Large-scale solar PV,0.0,True,0.0
+2009,New South Wales,Large-scale solar PV,0.0,True,0.0
+2010,New South Wales,Large-scale solar PV,0.0,True,0.0
+2011,New South Wales,Large-scale solar PV,0.0,True,0.0
+2012,New South Wales,Large-scale solar PV,0.0,True,0.0
+2013,New South Wales,Large-scale solar PV,10.635,True,2.875707772928598e-06
+2014,New South Wales,Large-scale solar PV,60.176,True,1.60466723074638e-05
+2015,New South Wales,Large-scale solar PV,399.511,True,0.00010504355572242868
+2016,New South Wales,Large-scale solar PV,567.558,True,0.00014683182243521367
+2017,New South Wales,Large-scale solar PV,699.96,True,0.00017850198186775257
+2018,New South Wales,Large-scale solar PV,1348.238,True,0.00033907138003342837
+2019,New South Wales,Large-scale solar PV,2084.569,True,0.0005186142647663962
+2020,New South Wales,Large-scale solar PV,3368.02,True,0.0008373035406194219
+2021,New South Wales,Large-scale solar PV,5014.413,True,0.001245372582601586
+2022,New South Wales,Large-scale solar PV,6126.583,True,0.0014939911958985724
+2008,New South Wales,Small-scale solar PV,36.3,True,1.0442440147989225e-05
+2009,New South Wales,Small-scale solar PV,119.2,True,3.379984875134795e-05
+2010,New South Wales,Small-scale solar PV,526.3,True,0.00014760662987392154
+2011,New South Wales,Small-scale solar PV,657.7,True,0.0001824816505641477
+2012,New South Wales,Small-scale solar PV,857.6,True,0.0002349566511006059
+2013,New South Wales,Small-scale solar PV,964.898,True,0.00026090876151229513
+2014,New South Wales,Small-scale solar PV,1211.187,True,0.00032297794622540804
+2015,New South Wales,Small-scale solar PV,1461.945,True,0.00038438966904697484
+2016,New South Wales,Small-scale solar PV,1706.84,True,0.00044157324503455174
+2017,New South Wales,Small-scale solar PV,2095.805,True,0.0005344667496833321
+2018,New South Wales,Small-scale solar PV,2717.095,True,0.0006833282783395275
+2019,New South Wales,Small-scale solar PV,3417.322,True,0.0008501862670413072
+2020,New South Wales,Small-scale solar PV,4892.915,True,0.0012163986714597535
+2021,New South Wales,Small-scale solar PV,6201.341,True,0.0015401563566389731
+2022,New South Wales,Small-scale solar PV,7497.882,True,0.0018283878135473524
+2008,New South Wales,Geothermal,0.0,True,0.0
+2009,New South Wales,Geothermal,0.0,True,0.0
+2010,New South Wales,Geothermal,0.0,True,0.0
+2011,New South Wales,Geothermal,0.0,True,0.0
+2012,New South Wales,Geothermal,0.0,True,0.0
+2013,New South Wales,Geothermal,0.0,True,0.0
+2014,New South Wales,Geothermal,0.0,True,0.0
+2015,New South Wales,Geothermal,0.0,True,0.0
+2016,New South Wales,Geothermal,0.0,True,0.0
+2017,New South Wales,Geothermal,0.0,True,0.0
+2018,New South Wales,Geothermal,0.0,True,0.0
+2019,New South Wales,Geothermal,0.0,True,0.0
+2020,New South Wales,Geothermal,0.0,True,0.0
+2021,New South Wales,Geothermal,0.0,True,0.0
+2022,New South Wales,Geothermal,0.0,True,0.0
+2008,Victoria,Black coal,0.0,False,0.0
+2009,Victoria,Black coal,0.0,False,0.0
+2010,Victoria,Black coal,0.0,False,0.0
+2011,Victoria,Black coal,0.0,False,0.0
+2012,Victoria,Black coal,0.0,False,0.0
+2013,Victoria,Black coal,0.0,False,0.0
+2014,Victoria,Black coal,0.0,False,0.0
+2015,Victoria,Black coal,0.0,False,0.0
+2016,Victoria,Black coal,0.0,False,0.0
+2017,Victoria,Black coal,0.0,False,0.0
+2018,Victoria,Black coal,0.0,False,0.0
+2019,Victoria,Black coal,0.0,False,0.0
+2020,Victoria,Black coal,0.0,False,0.0
+2021,Victoria,Black coal,0.0,False,0.0
+2022,Victoria,Black coal,0.0,False,0.0
+2008,Victoria,Brown coal,52094.0,False,0.019782654348109247
+2009,Victoria,Brown coal,51541.7,False,0.01918885995721554
+2010,Victoria,Brown coal,51066.5,False,0.018767831488824344
+2011,Victoria,Brown coal,52059.7,False,0.018817804217800528
+2012,Victoria,Brown coal,45317.6,False,0.016039646783459316
+2013,Victoria,Brown coal,43977.7,False,0.015246809807421819
+2014,Victoria,Brown coal,48336.8,False,0.016408923596365355
+2015,Victoria,Brown coal,46234.132,False,0.015353158157599715
+2016,Victoria,Brown coal,43594.098,False,0.014143003829185184
+2017,Victoria,Brown coal,36021.427,False,0.011455633757353085
+2018,Victoria,Brown coal,34495.245,False,0.010755590872015146
+2019,Victoria,Brown coal,33661.55,False,0.010318538795428909
+2020,Victoria,Brown coal,34060.028,False,0.010485570807406759
+2021,Victoria,Brown coal,32515.636,False,0.010011760779174712
+2022,Victoria,Brown coal,31459.126,False,0.00947152652372072
+2008,Victoria,Natural gas,1451.9,False,0.0005513578501942607
+2009,Victoria,Natural gas,1697.9,False,0.00063212438319567
+2010,Victoria,Natural gas,1289.8,False,0.0004740240481389098
+2011,Victoria,Natural gas,1142.5,False,0.0004129747447418465
+2012,Victoria,Natural gas,3247.7,False,0.001149486311248628
+2013,Victoria,Natural gas,3239.3,False,0.0011230462486483265
+2014,Victoria,Natural gas,2390.927,False,0.0008116494775716852
+2015,Victoria,Natural gas,1892.244,False,0.0006283652390136602
+2016,Victoria,Natural gas,2658.739,False,0.0008625607039238199
+2017,Victoria,Natural gas,3829.887,False,0.0012179912473775048
+2018,Victoria,Natural gas,3334.031,False,0.0010395483026897048
+2019,Victoria,Natural gas,3117.04,False,0.0009554907057727206
+2020,Victoria,Natural gas,1956.916,False,0.0006024475752676189
+2021,Victoria,Natural gas,2224.829,False,0.0006850382911953652
+2022,Victoria,Natural gas,1693.466,False,0.0005098586698187112
+2008,Victoria,Oil products,20.4,False,7.746883493327996e-06
+2009,Victoria,Oil products,1.1,False,4.095275466842789e-07
+2010,Victoria,Oil products,38.2,False,1.4039167808114713e-05
+2011,Victoria,Oil products,4.0,False,1.4458634389211256e-06
+2012,Victoria,Oil products,10.7,False,3.787142756523176e-06
+2013,Victoria,Oil products,145.8,False,5.0548002053815944e-05
+2014,Victoria,Oil products,155.95,False,5.2940443613420356e-05
+2015,Victoria,Oil products,70.573,False,2.343546604608657e-05
+2016,Victoria,Oil products,109.281,False,3.5453459811398925e-05
+2017,Victoria,Oil products,178.023,False,5.661536641469723e-05
+2018,Victoria,Oil products,204.659,False,6.381251886385349e-05
+2019,Victoria,Oil products,201.974,False,6.19126735004169e-05
+2020,Victoria,Oil products,179.068,False,5.5127088954263744e-05
+2021,Victoria,Oil products,219.429,False,6.756351485831396e-05
+2022,Victoria,Oil products,259.086,False,7.800407172547345e-05
+2008,Victoria,Other,0.0,False,0.0
+2009,Victoria,Other,0.0,False,0.0
+2010,Victoria,Other,0.0,False,0.0
+2011,Victoria,Other,0.0,False,0.0
+2012,Victoria,Other,0.0,False,0.0
+2013,Victoria,Other,0.0,False,0.0
+2014,Victoria,Other,0.0,False,0.0
+2015,Victoria,Other,0.0,False,0.0
+2016,Victoria,Other,0.0,False,0.0
+2017,Victoria,Other,0.0,False,0.0
+2018,Victoria,Other,0.0,False,0.0
+2019,Victoria,Other,0.0,False,0.0
+2020,Victoria,Other,0.0,False,0.0
+2021,Victoria,Other,0.0,False,0.0
+2022,Victoria,Other,0.0,False,0.0
+2008,Victoria,"Bagasse, wood",0.0,True,0.0
+2009,Victoria,"Bagasse, wood",0.0,True,0.0
+2010,Victoria,"Bagasse, wood",0.0,True,0.0
+2011,Victoria,"Bagasse, wood",187.106,True,6.763243115069404e-05
+2012,Victoria,"Bagasse, wood",171.14,True,6.0573047789848255e-05
+2013,Victoria,"Bagasse, wood",188.787,True,6.545134200091735e-05
+2014,Victoria,"Bagasse, wood",251.976,True,8.553844963087662e-05
+2015,Victoria,"Bagasse, wood",235.392,True,7.816758850439135e-05
+2016,Victoria,"Bagasse, wood",263.355,True,8.543887691941842e-05
+2017,Victoria,"Bagasse, wood",241.012,True,7.66473022606012e-05
+2018,Victoria,"Bagasse, wood",235.469,True,7.341905317798248e-05
+2019,Victoria,"Bagasse, wood",243.797,True,7.473300554220412e-05
+2020,Victoria,"Bagasse, wood",229.67,True,7.07051986961699e-05
+2021,Victoria,"Bagasse, wood",258.839,True,7.969809196783983e-05
+2022,Victoria,"Bagasse, wood",192.908,True,5.8079593140569664e-05
+2008,Victoria,Biogas,292.0,True,0.00011088676372802819
+2009,Victoria,Biogas,303.4,True,0.00011295514333091835
+2010,Victoria,Biogas,339.6,True,0.00012480893684910357
+2011,Victoria,Biogas,672.241,True,0.0002429921710109441
+2012,Victoria,Biogas,673.96,True,0.0002385404422604075
+2013,Victoria,Biogas,698.103,True,0.00024202820217952722
+2014,Victoria,Biogas,420.258,True,0.0001426652449636987
+2015,Victoria,Biogas,512.312,True,0.00017012555057887159
+2016,Victoria,Biogas,431.106,True,0.0001398614511713193
+2017,Victoria,Biogas,460.192,True,0.00014635153154992527
+2018,Victoria,Biogas,497.644,True,0.00015516501662513502
+2019,Victoria,Biogas,535.728,True,0.00016422090342831918
+2020,Victoria,Biogas,499.303,True,0.00015371323126483095
+2021,Victoria,Biogas,497.999,True,0.00015333690093800498
+2022,Victoria,Biogas,484.544,True,0.00014588362524469792
+2008,Victoria,Wind,573.0,True,0.00021759628635671283
+2009,Victoria,Wind,1406.0,True,0.0005234506642164509
+2010,Victoria,Wind,1434.4,True,0.0005271670760198886
+2011,Victoria,Wind,1416.2,True,0.0005119079505500246
+2012,Victoria,Wind,2005.1,True,0.0007096822374864131
+2013,Victoria,Wind,2771.9,True,0.0009610014190190152
+2014,Victoria,Wind,3067.791,True,0.0010414249211494612
+2015,Victoria,Wind,3341.83,True,0.0011097352173889943
+2016,Victoria,Wind,3560.851,True,0.0011552281533192383
+2017,Victoria,Wind,4303.851,True,0.0013687225884254342
+2018,Victoria,Wind,4863.699,True,0.0015164976091234948
+2019,Victoria,Wind,5596.248,True,0.001715461768600716
+2020,Victoria,Wind,7080.623,True,0.0021798095358891915
+2021,Victoria,Wind,9563.573,True,0.00294468190842628
+2022,Victoria,Wind,11065.542,True,0.003331547562775445
+2008,Victoria,Hydro,2234.523,True,0.0008485583011843998
+2009,Victoria,Hydro,1974.974,True,0.0007352784154411244
+2010,Victoria,Hydro,3910.622,True,0.0014372219500551093
+2011,Victoria,Hydro,2393.275,True,0.0008650872054459893
+2012,Victoria,Hydro,3293.811,True,0.0011658067728977908
+2013,Victoria,Hydro,2594.991,True,0.0008996681097231405
+2014,Victoria,Hydro,2513.612,True,0.0008532974309202743
+2015,Victoria,Hydro,3228.452,True,0.001072085319136501
+2016,Victoria,Hydro,3673.259,True,0.0011916960892868788
+2017,Victoria,Hydro,2803.107,True,0.0008914518343393984
+2018,Victoria,Hydro,2702.802,True,0.0008427315857610022
+2019,Victoria,Hydro,2310.836,True,0.0007083586737946932
+2020,Victoria,Hydro,2851.962,True,0.0008779925104886407
+2021,Victoria,Hydro,2787.873,True,0.0008584029406258621
+2022,Victoria,Hydro,3237.202,True,0.0009746375218956105
+2008,Victoria,Large-scale solar PV,0.0,True,0.0
+2009,Victoria,Large-scale solar PV,0.0,True,0.0
+2010,Victoria,Large-scale solar PV,0.0,True,0.0
+2011,Victoria,Large-scale solar PV,0.0,True,0.0
+2012,Victoria,Large-scale solar PV,0.0,True,0.0
+2013,Victoria,Large-scale solar PV,4.41,True,1.5289210497759143e-06
+2014,Victoria,Large-scale solar PV,9.066,True,3.0776406655932606e-06
+2015,Victoria,Large-scale solar PV,11.473,True,3.809886244693456e-06
+2016,Victoria,Large-scale solar PV,13.802,True,4.477710236152011e-06
+2017,Victoria,Large-scale solar PV,39.442,True,1.2543453835338627e-05
+2018,Victoria,Large-scale solar PV,462.469,True,0.0001441974786666966
+2019,Victoria,Large-scale solar PV,872.458,True,0.00026744138996517727
+2020,Victoria,Large-scale solar PV,1455.53,True,0.00044809308076037874
+2021,Victoria,Large-scale solar PV,1897.432,True,0.0005842307768099948
+2022,Victoria,Large-scale solar PV,1957.049,True,0.0005892166715541021
+2008,Victoria,Small-scale solar PV,24.1,True,9.15195549947082e-06
+2009,Victoria,Small-scale solar PV,66.2,True,2.464611235499933e-05
+2010,Victoria,Small-scale solar PV,205.5,True,7.552484252794695e-05
+2011,Victoria,Small-scale solar PV,378.7,True,0.00013688712107985757
+2012,Victoria,Small-scale solar PV,580.1,True,0.00020531976757561633
+2013,Victoria,Small-scale solar PV,674.162,True,0.0002337279983580567
+2014,Victoria,Small-scale solar PV,874.831,True,0.0002969794243460862
+2015,Victoria,Small-scale solar PV,1056.128,True,0.0003507127638660864
+2016,Victoria,Small-scale solar PV,1231.72,True,0.0003996004384924761
+2017,Victoria,Small-scale solar PV,1481.194,True,0.00047105340906091375
+2018,Victoria,Small-scale solar PV,1899.952,True,0.0005924035729697504
+2019,Victoria,Small-scale solar PV,2457.27,True,0.0007532462357153367
+2020,Victoria,Small-scale solar PV,3176.379,True,0.0009778661049738384
+2021,Victoria,Small-scale solar PV,3941.958,True,0.001213752684940685
+2022,Victoria,Small-scale solar PV,4618.841,True,0.0013906131734349118
+2008,Victoria,Geothermal,0.0,True,0.0
+2009,Victoria,Geothermal,0.0,True,0.0
+2010,Victoria,Geothermal,0.0,True,0.0
+2011,Victoria,Geothermal,0.0,True,0.0
+2012,Victoria,Geothermal,0.0,True,0.0
+2013,Victoria,Geothermal,0.0,True,0.0
+2014,Victoria,Geothermal,0.0,True,0.0
+2015,Victoria,Geothermal,0.0,True,0.0
+2016,Victoria,Geothermal,0.0,True,0.0
+2017,Victoria,Geothermal,0.0,True,0.0
+2018,Victoria,Geothermal,0.0,True,0.0
+2019,Victoria,Geothermal,0.0,True,0.0
+2020,Victoria,Geothermal,0.0,True,0.0
+2021,Victoria,Geothermal,0.0,True,0.0
+2022,Victoria,Geothermal,0.0,True,0.0
+2008,Queensland,Black coal,50882.2,False,0.02382129929082264
+2009,Queensland,Black coal,49713.7,False,0.022788769195507676
+2010,Queensland,Black coal,45864.3,False,0.020711569438442146
+2011,Queensland,Black coal,45417.3,False,0.02015033344084958
+2012,Queensland,Black coal,44415.6,False,0.019313011354149274
+2013,Queensland,Black coal,40260.7,False,0.017251416382647416
+2014,Queensland,Black coal,44553.8,False,0.018868479071961756
+2015,Queensland,Black coal,48015.845,False,0.020129501074686407
+2016,Queensland,Black coal,51042.664,False,0.021081425647866876
+2017,Queensland,Black coal,53635.267,False,0.021817241697713423
+2018,Queensland,Black coal,52120.624,False,0.020849567292652898
+2019,Queensland,Black coal,48568.909,False,0.019116499913409007
+2020,Queensland,Black coal,46248.188,False,0.018005920189184423
+2021,Queensland,Black coal,44460.898,False,0.017051944097139657
+2022,Queensland,Black coal,43230.766,False,0.01620847182276652
+2008,Queensland,Brown coal,0.0,False,0.0
+2009,Queensland,Brown coal,0.0,False,0.0
+2010,Queensland,Brown coal,0.0,False,0.0
+2011,Queensland,Brown coal,0.0,False,0.0
+2012,Queensland,Brown coal,0.0,False,0.0
+2013,Queensland,Brown coal,0.0,False,0.0
+2014,Queensland,Brown coal,0.0,False,0.0
+2015,Queensland,Brown coal,0.0,False,0.0
+2016,Queensland,Brown coal,0.0,False,0.0
+2017,Queensland,Brown coal,0.0,False,0.0
+2018,Queensland,Brown coal,0.0,False,0.0
+2019,Queensland,Brown coal,0.0,False,0.0
+2020,Queensland,Brown coal,0.0,False,0.0
+2021,Queensland,Brown coal,0.0,False,0.0
+2022,Queensland,Brown coal,0.0,False,0.0
+2008,Queensland,Natural gas,9257.2,False,0.004333903247009826
+2009,Queensland,Natural gas,12020.6,False,0.005510245244098098
+2010,Queensland,Natural gas,14595.3,False,0.006590999305012714
+2011,Queensland,Natural gas,15303.4,False,0.006789672939137672
+2012,Queensland,Natural gas,13909.5,False,0.006048197737518785
+2013,Queensland,Natural gas,15454.3,False,0.006622054862492404
+2014,Queensland,Natural gas,18248.5,False,0.007728217129508462
+2015,Queensland,Natural gas,13816.933,False,0.005792420557679868
+2016,Queensland,Natural gas,12236.549,False,0.005053887820784193
+2017,Queensland,Natural gas,11045.527,False,0.00449299398915306
+2018,Queensland,Natural gas,9933.919,False,0.003973818745344706
+2019,Queensland,Natural gas,11214.11,False,0.004413822283798038
+2020,Queensland,Natural gas,10324.408,False,0.004019627027302716
+2021,Queensland,Natural gas,9505.386,False,0.003645569882410696
+2022,Queensland,Natural gas,9113.598,False,0.003416953018760327
+2008,Queensland,Oil products,711.4,False,0.0003330530581517943
+2009,Queensland,Oil products,370.7,False,0.00016992894797157918
+2010,Queensland,Oil products,373.7,False,0.000168756821735987
+2011,Queensland,Oil products,306.0,False,0.00013576328916293945
+2012,Queensland,Oil products,1042.6,False,0.0004533485000278288
+2013,Queensland,Oil products,959.5,False,0.0004111387536518291
+2014,Queensland,Oil products,1197.2,False,0.0005070127159737804
+2015,Queensland,Oil products,1199.072,False,0.0005026824189520434
+2016,Queensland,Oil products,1215.94,False,0.0005022024066429459
+2017,Queensland,Oil products,1047.661,False,0.0004261575365005294
+2018,Queensland,Oil products,1000.585,False,0.0004002592963875317
+2019,Queensland,Oil products,983.729,False,0.00038719122439661826
+2020,Queensland,Oil products,1034.932,False,0.0004029326077214747
+2021,Queensland,Oil products,1098.305,False,0.00042122935667221505
+2022,Queensland,Oil products,1235.302,False,0.00046315065663206443
+2008,Queensland,Other,0.0,False,0.0
+2009,Queensland,Other,0.0,False,0.0
+2010,Queensland,Other,0.0,False,0.0
+2011,Queensland,Other,0.0,False,0.0
+2012,Queensland,Other,0.0,False,0.0
+2013,Queensland,Other,0.0,False,0.0
+2014,Queensland,Other,0.0,False,0.0
+2015,Queensland,Other,0.0,False,0.0
+2016,Queensland,Other,0.0,False,0.0
+2017,Queensland,Other,0.0,False,0.0
+2018,Queensland,Other,0.0,False,0.0
+2019,Queensland,Other,0.0,False,0.0
+2020,Queensland,Other,0.0,False,0.0
+2021,Queensland,Other,0.0,False,0.0
+2022,Queensland,Other,0.0,False,0.0
+2008,Queensland,"Bagasse, wood",1472.1,True,0.0006891866838701945
+2009,Queensland,"Bagasse, wood",1466.5,True,0.0006722438688975475
+2010,Queensland,"Bagasse, wood",823.7,True,0.00037196947836214215
+2011,Queensland,"Bagasse, wood",1005.6,True,0.00044615543654330693
+2012,Queensland,"Bagasse, wood",1117.8,True,0.00048604733678410416
+2013,Queensland,"Bagasse, wood",1403.0,True,0.0006011752698004339
+2014,Queensland,"Bagasse, wood",1550.3,True,0.0006565501282777745
+2015,Queensland,"Bagasse, wood",1656.281,True,0.0006943564185839628
+2016,Queensland,"Bagasse, wood",1291.767,True,0.0005335201541374888
+2017,Queensland,"Bagasse, wood",1252.897,True,0.0005096414765930046
+2018,Queensland,"Bagasse, wood",1157.937,True,0.0004632040744975082
+2019,Queensland,"Bagasse, wood",1029.768,True,0.00040531196372624653
+2020,Queensland,"Bagasse, wood",1076.402,True,0.0004190782242858572
+2021,Queensland,"Bagasse, wood",990.274,True,0.0003797965774072057
+2022,Queensland,"Bagasse, wood",913.857,True,0.0003426315748034153
+2008,Queensland,Biogas,116.4,True,5.4494484072067556e-05
+2009,Queensland,Biogas,81.5,True,3.735961494384598e-05
+2010,Queensland,Biogas,97.0,True,4.3803617094971206e-05
+2011,Queensland,Biogas,119.2,True,5.288556885039995e-05
+2012,Queensland,Biogas,121.4,True,5.278774976345523e-05
+2013,Queensland,Biogas,82.8,True,3.54791962505174e-05
+2014,Queensland,Biogas,91.1,True,3.858073707418258e-05
+2015,Queensland,Biogas,115.483,True,4.841350126417666e-05
+2016,Queensland,Biogas,118.269,True,4.8846963198228993e-05
+2017,Queensland,Biogas,126.496,True,5.145483485323112e-05
+2018,Queensland,Biogas,175.075,True,7.00344261757343e-05
+2019,Queensland,Biogas,189.207,True,7.447100776170159e-05
+2020,Queensland,Biogas,198.522,True,7.729105598250184e-05
+2021,Queensland,Biogas,223.491,True,8.571477882011829e-05
+2022,Queensland,Biogas,256.128,True,9.602983835682076e-05
+2008,Queensland,Wind,27.3,True,1.2780922810716874e-05
+2009,Queensland,Wind,30.909,True,1.4168691267476507e-05
+2010,Queensland,Wind,27.3,True,1.2328234501986742e-05
+2011,Queensland,Wind,27.7,True,1.2289683365403343e-05
+2012,Queensland,Wind,30.7,True,1.3349126175766684e-05
+2013,Queensland,Wind,33.7,True,1.4440204271043921e-05
+2014,Queensland,Wind,32.492,True,1.3760321723538313e-05
+2015,Queensland,Wind,28.406,True,1.190853993150682e-05
+2016,Queensland,Wind,28.962,True,1.1961762999155383e-05
+2017,Queensland,Wind,30.274,True,1.2314568605700726e-05
+2018,Queensland,Wind,399.139,True,0.0001596656908716631
+2019,Queensland,Wind,927.89,True,0.000365213249996064
+2020,Queensland,Wind,1826.044,True,0.000710938178290122
+2021,Queensland,Wind,1850.128,True,0.0007095735949497196
+2022,Queensland,Wind,2124.839,True,0.0007966639559293348
+2008,Queensland,Hydro,820.2,True,0.0003839894831263729
+2009,Queensland,Hydro,572.8,True,0.00026257162502865
+2010,Queensland,Hydro,965.6,True,0.0004360492027515897
+2011,Queensland,Hydro,723.2,True,0.0003208627801393393
+2012,Queensland,Hydro,684.1,True,0.0002974637529915957
+2013,Queensland,Hydro,820.9,True,0.000351749664275963
+2014,Queensland,Hydro,649.1,True,0.0002748930453880562
+2015,Queensland,Hydro,491.722,True,0.0002061427540730971
+2016,Queensland,Hydro,672.206,True,0.0002776316849185223
+2017,Queensland,Hydro,646.115,True,0.0002628204893529869
+2018,Queensland,Hydro,1057.306,True,0.0004229491303850404
+2019,Queensland,Hydro,634.622,True,0.00024978430971236043
+2020,Queensland,Hydro,950.198,True,0.0003699429121833413
+2021,Queensland,Hydro,1118.899,True,0.00042912770674009924
+2022,Queensland,Hydro,1244.086,True,0.00046644403377211287
+2008,Queensland,Large-scale solar PV,0.0,True,0.0
+2009,Queensland,Large-scale solar PV,0.0,True,0.0
+2010,Queensland,Large-scale solar PV,0.0,True,0.0
+2011,Queensland,Large-scale solar PV,0.0,True,0.0
+2012,Queensland,Large-scale solar PV,0.0,True,0.0
+2013,Queensland,Large-scale solar PV,4.013,True,1.7195412385667433e-06
+2014,Queensland,Large-scale solar PV,5.928,True,2.5105006517645924e-06
+2015,Queensland,Large-scale solar PV,7.325,True,3.070832042465939e-06
+2016,Queensland,Large-scale solar PV,34.087,True,1.40784688679031e-05
+2017,Queensland,Large-scale solar PV,171.467,True,6.974770876374733e-05
+2018,Queensland,Large-scale solar PV,1491.654,True,0.0005966993113964802
+2019,Queensland,Large-scale solar PV,3334.52,True,0.0013124517845616134
+2020,Queensland,Large-scale solar PV,3395.78,True,0.0013220873358331072
+2021,Queensland,Large-scale solar PV,3766.083,True,0.0014443936058418797
+2022,Queensland,Large-scale solar PV,5405.558,True,0.002026700950182797
+2008,Queensland,Small-scale solar PV,50.8,True,2.3782816072689273e-05
+2009,Queensland,Small-scale solar PV,121.3,True,5.560394224157689e-05
+2010,Queensland,Small-scale solar PV,400.6,True,0.0001809044227654172
+2011,Queensland,Small-scale solar PV,760.3,True,0.00033732296977314664
+2012,Queensland,Small-scale solar PV,1310.2,True,0.0005697076584850003
+2013,Queensland,Small-scale solar PV,1460.552,True,0.0006258358821507934
+2014,Queensland,Small-scale solar PV,1788.021,True,0.0007572246771033701
+2015,Queensland,Small-scale solar PV,2055.85,True,0.0008618662190448601
+2016,Queensland,Small-scale solar PV,2335.873,True,0.0009647524073657234
+2017,Queensland,Small-scale solar PV,2760.859,True,0.0011230358580354859
+2018,Queensland,Small-scale solar PV,3330.242,True,0.0013321809938388106
+2019,Queensland,Small-scale solar PV,4120.237,True,0.0016217063935639279
+2020,Queensland,Small-scale solar PV,5160.929,True,0.002009317114781824
+2021,Queensland,Small-scale solar PV,6219.647,True,0.002385401053931533
+2022,Queensland,Small-scale solar PV,7214.829,True,0.0027050492825544366
+2008,Queensland,Geothermal,0.5,True,2.340828353611149e-07
+2009,Queensland,Geothermal,0.5,True,2.2920009168003667e-07
+2010,Queensland,Geothermal,0.5,True,2.257918406957279e-07
+2011,Queensland,Geothermal,0.5,True,2.2183543980872462e-07
+2012,Queensland,Geothermal,0.5,True,2.1741247843268214e-07
+2013,Queensland,Geothermal,0.5,True,2.142463541697911e-07
+2014,Queensland,Geothermal,0.6,True,2.5409925625147697e-07
+2015,Queensland,Geothermal,0.215,True,9.013363674132107e-08
+2016,Queensland,Geothermal,0.502,True,2.0733392119245915e-07
+2017,Queensland,Geothermal,0.0,True,0.0
+2018,Queensland,Geothermal,0.0,True,0.0
+2019,Queensland,Geothermal,0.0,True,0.0
+2020,Queensland,Geothermal,0.0,True,0.0
+2021,Queensland,Geothermal,0.0,True,0.0
+2022,Queensland,Geothermal,0.0,True,0.0
+2008,Western Australia,Black coal,8738.0,False,0.007846391046242344
+2009,Western Australia,Black coal,9612.2,False,0.008428205667789002
+2010,Western Australia,Black coal,10352.3,False,0.00886431787317337
+2011,Western Australia,Black coal,10783.3,False,0.008970623958045635
+2012,Western Australia,Black coal,10276.9,False,0.008290396615078069
+2013,Western Australia,Black coal,10885.3,False,0.00863953153361943
+2014,Western Australia,Black coal,10523.4,False,0.008276028035031205
+2015,Western Australia,Black coal,10912.688,False,0.008533591076578521
+2016,Western Australia,Black coal,11226.156,False,0.008713909693604688
+2017,Western Australia,Black coal,11031.872,False,0.008472525413263127
+2018,Western Australia,Black coal,9953.96,False,0.007541827229787988
+2019,Western Australia,Black coal,9725.243,False,0.007230319895558873
+2020,Western Australia,Black coal,9212.413,False,0.006749050178975146
+2021,Western Australia,Black coal,9656.465,False,0.006978152410656345
+2022,Western Australia,Black coal,7340.324,False,0.005166269829260207
+2008,Western Australia,Brown coal,0.0,False,0.0
+2009,Western Australia,Brown coal,0.0,False,0.0
+2010,Western Australia,Brown coal,0.0,False,0.0
+2011,Western Australia,Brown coal,0.0,False,0.0
+2012,Western Australia,Brown coal,0.0,False,0.0
+2013,Western Australia,Brown coal,0.0,False,0.0
+2014,Western Australia,Brown coal,0.0,False,0.0
+2015,Western Australia,Brown coal,0.0,False,0.0
+2016,Western Australia,Brown coal,0.0,False,0.0
+2017,Western Australia,Brown coal,0.0,False,0.0
+2018,Western Australia,Brown coal,0.0,False,0.0
+2019,Western Australia,Brown coal,0.0,False,0.0
+2020,Western Australia,Brown coal,0.0,False,0.0
+2021,Western Australia,Brown coal,0.0,False,0.0
+2022,Western Australia,Brown coal,0.0,False,0.0
+2008,Western Australia,Natural gas,14556.1,False,0.013070823152690338
+2009,Western Australia,Natural gas,16006.3,False,0.014034704685746352
+2010,Western Australia,Natural gas,18115.7,False,0.015511849858973064
+2011,Western Australia,Natural gas,17538.3,False,0.014590106383332723
+2012,Western Australia,Natural gas,17645.1,False,0.014234338887477159
+2013,Western Australia,Natural gas,20880.0,False,0.016572204571483902
+2014,Western Australia,Natural gas,20412.804,False,0.016053455934165493
+2015,Western Australia,Natural gas,21899.573,False,0.017125203316880305
+2016,Western Australia,Natural gas,22941.403,False,0.017807459114820037
+2017,Western Australia,Natural gas,24789.093,False,0.019038130646751802
+2018,Western Australia,Natural gas,25778.314,False,0.019531481989401696
+2019,Western Australia,Natural gas,26918.551,False,0.02001284028120595
+2020,Western Australia,Natural gas,25680.333,False,0.018813513465993255
+2021,Western Australia,Natural gas,25314.166,False,0.018293040827741303
+2022,Western Australia,Natural gas,27302.995,False,0.019216405068351518
+2008,Western Australia,Oil products,1464.4,False,0.0013149754003338623
+2009,Western Australia,Oil products,1373.4,False,0.0012042297979797981
+2010,Western Australia,Oil products,1413.8,False,0.0012105882373088601
+2011,Western Australia,Oil products,1171.2,False,0.0009743209202807163
+2012,Western Australia,Oil products,2045.0,False,0.001649705755415996
+2013,Western Australia,Oil products,2486.1,False,0.0019731876333891826
+2014,Western Australia,Oil products,4223.5,False,0.0033215314827863903
+2015,Western Australia,Oil products,3347.388,False,0.0026176172512808963
+2016,Western Australia,Oil products,2883.482,False,0.0022382017273886654
+2017,Western Australia,Oil products,2166.514,False,0.0016638921230404371
+2018,Western Australia,Oil products,2417.855,False,0.0018319387135048801
+2019,Western Australia,Oil products,2301.722,False,0.0017112360452736822
+2020,Western Australia,Oil products,2458.258,False,0.0018009295278953606
+2021,Western Australia,Oil products,2197.608,False,0.0015880804790239151
+2022,Western Australia,Oil products,2197.932,False,0.001546949396016517
+2008,Western Australia,Other,0.0,False,0.0
+2009,Western Australia,Other,0.0,False,0.0
+2010,Western Australia,Other,0.0,False,0.0
+2011,Western Australia,Other,0.0,False,0.0
+2012,Western Australia,Other,0.0,False,0.0
+2013,Western Australia,Other,0.0,False,0.0
+2014,Western Australia,Other,0.0,False,0.0
+2015,Western Australia,Other,0.0,False,0.0
+2016,Western Australia,Other,0.0,False,0.0
+2017,Western Australia,Other,0.0,False,0.0
+2018,Western Australia,Other,0.0,False,0.0
+2019,Western Australia,Other,0.0,False,0.0
+2020,Western Australia,Other,0.0,False,0.0
+2021,Western Australia,Other,0.0,False,0.0
+2022,Western Australia,Other,0.0,False,0.0
+2008,Western Australia,"Bagasse, wood",0.0,True,0.0
+2009,Western Australia,"Bagasse, wood",0.0,True,0.0
+2010,Western Australia,"Bagasse, wood",0.0,True,0.0
+2011,Western Australia,"Bagasse, wood",0.0,True,0.0
+2012,Western Australia,"Bagasse, wood",0.0,True,0.0
+2013,Western Australia,"Bagasse, wood",0.0,True,0.0
+2014,Western Australia,"Bagasse, wood",0.0,True,0.0
+2015,Western Australia,"Bagasse, wood",0.0,True,0.0
+2016,Western Australia,"Bagasse, wood",0.0,True,0.0
+2017,Western Australia,"Bagasse, wood",0.0,True,0.0
+2018,Western Australia,"Bagasse, wood",0.0,True,0.0
+2019,Western Australia,"Bagasse, wood",0.0,True,0.0
+2020,Western Australia,"Bagasse, wood",0.0,True,0.0
+2021,Western Australia,"Bagasse, wood",0.0,True,0.0
+2022,Western Australia,"Bagasse, wood",0.0,True,0.0
+2008,Western Australia,Biogas,119.6,True,0.00010739624274783523
+2009,Western Australia,Biogas,121.2,True,0.00010627104377104377
+2010,Western Australia,Biogas,111.7,True,9.56448621498088e-05
+2011,Western Australia,Biogas,125.7,True,0.00010456979139283302
+2012,Western Australia,Biogas,108.3,True,8.736583536017231e-05
+2013,Western Australia,Biogas,124.0,True,9.841730684214578e-05
+2014,Western Australia,Biogas,126.9,True,9.979930038252466e-05
+2015,Western Australia,Biogas,94.55,True,7.39369655112012e-05
+2016,Western Australia,Biogas,183.218,True,0.00014221654377890916
+2017,Western Australia,Biogas,141.107,True,0.00010837078634426869
+2018,Western Australia,Biogas,131.335,True,9.950872609737286e-05
+2019,Western Australia,Biogas,112.444,True,8.359750911480792e-05
+2020,Western Australia,Biogas,110.794,True,8.116812235072095e-05
+2021,Western Australia,Biogas,119.25,True,8.617487610329133e-05
+2022,Western Australia,Biogas,119.96,True,8.443029609020725e-05
+2008,Western Australia,Wind,675.1,True,0.0006062140759119027
+2009,Western Australia,Wind,664.0,True,0.0005822109988776656
+2010,Western Australia,Wind,719.3,True,0.0006159118114982763
+2011,Western Australia,Wind,1278.7,True,0.0010637501372634493
+2012,Western Australia,Wind,1300.2,True,0.0010488740455706007
+2013,Western Australia,Wind,1578.8,True,0.001253074548728869
+2014,Western Australia,Wind,1643.2,True,0.0012922790416750555
+2015,Western Australia,Wind,1476.458,True,0.001154572440240477
+2016,Western Australia,Wind,1616.678,True,0.0012548895717855195
+2017,Western Australia,Wind,1586.985,True,0.0012188113443454913
+2018,Western Australia,Wind,1851.152,True,0.0014025642618692958
+2019,Western Australia,Wind,2122.54,True,0.001578021566260044
+2020,Western Australia,Wind,3140.458,True,0.002300711944521368
+2021,Western Australia,Wind,3676.727,True,0.0026569517290618537
+2022,Western Australia,Wind,3378.649,True,0.002377962116162743
+2008,Western Australia,Hydro,0.0,True,0.0
+2009,Western Australia,Hydro,0.0,True,0.0
+2010,Western Australia,Hydro,0.0,True,0.0
+2011,Western Australia,Hydro,0.0,True,0.0
+2012,Western Australia,Hydro,221.3,True,0.0001785231705005183
+2013,Western Australia,Hydro,205.4,True,0.00016302350665626408
+2014,Western Australia,Hydro,206.1,True,0.00016208538856452587
+2015,Western Australia,Hydro,217.028,True,0.00016971329191924878
+2016,Western Australia,Hydro,212.622,True,0.00016504036705650767
+2017,Western Australia,Hydro,220.787,True,0.00016956537099216943
+2018,Western Australia,Hydro,217.009,True,0.0001644214348168027
+2019,Western Australia,Hydro,205.525,True,0.00015279942069671034
+2020,Western Australia,Hydro,127.962,True,9.374546701304182e-05
+2021,Western Australia,Hydro,76.475,True,5.526392997902897e-05
+2022,Western Australia,Hydro,71.316,True,5.019365618513855e-05
+2008,Western Australia,Large-scale solar PV,0.0,True,0.0
+2009,Western Australia,Large-scale solar PV,0.0,True,0.0
+2010,Western Australia,Large-scale solar PV,0.0,True,0.0
+2011,Western Australia,Large-scale solar PV,0.0,True,0.0
+2012,Western Australia,Large-scale solar PV,0.0,True,0.0
+2013,Western Australia,Large-scale solar PV,24.137,True,1.915724625200704e-05
+2014,Western Australia,Large-scale solar PV,23.884,True,1.8783345077511575e-05
+2015,Western Australia,Large-scale solar PV,28.349,True,2.216857784534154e-05
+2016,Western Australia,Large-scale solar PV,34.261,True,2.659389910603329e-05
+2017,Western Australia,Large-scale solar PV,45.608,True,3.5027141272859644e-05
+2018,Western Australia,Large-scale solar PV,74.523,True,5.646391894738277e-05
+2019,Western Australia,Large-scale solar PV,174.72,True,0.0001298971647445772
+2020,Western Australia,Large-scale solar PV,486.59,True,0.00035647775741138785
+2021,Western Australia,Large-scale solar PV,745.489,True,0.0005387205216886085
+2022,Western Australia,Large-scale solar PV,907.67,True,0.0006388366693247617
+2008,Western Australia,Small-scale solar PV,18.7,True,1.6791887453047815e-05
+2009,Western Australia,Small-scale solar PV,57.5,True,5.041736812570146e-05
+2010,Western Australia,Small-scale solar PV,198.1,True,0.00016962620583596349
+2011,Western Australia,Small-scale solar PV,331.4,True,0.0002756915582146767
+2012,Western Australia,Small-scale solar PV,449.5,True,0.0003626125853591639
+2013,Western Australia,Small-scale solar PV,495.849,True,0.00039354938048686406
+2014,Western Australia,Small-scale solar PV,622.13,True,0.0004892682328367224
+2015,Western Australia,Small-scale solar PV,760.766,True,0.0005949098837027445
+2016,Western Australia,Small-scale solar PV,941.132,True,0.0007305206927252361
+2017,Western Australia,Small-scale solar PV,1196.428,True,0.0009188618790301028
+2018,Western Australia,Small-scale solar PV,1486.69,True,0.0011264219591251628
+2019,Western Australia,Small-scale solar PV,1835.292,True,0.0013644644418406855
+2020,Western Australia,Small-scale solar PV,2298.474,True,0.0016838711378951118
+2021,Western Australia,Small-scale solar PV,2763.104,True,0.0019967307745116032
+2022,Western Australia,Small-scale solar PV,3159.368,True,0.0022236276733738404
+2008,Western Australia,Geothermal,0.0,True,0.0
+2009,Western Australia,Geothermal,0.0,True,0.0
+2010,Western Australia,Geothermal,0.0,True,0.0
+2011,Western Australia,Geothermal,0.0,True,0.0
+2012,Western Australia,Geothermal,0.0,True,0.0
+2013,Western Australia,Geothermal,0.0,True,0.0
+2014,Western Australia,Geothermal,0.0,True,0.0
+2015,Western Australia,Geothermal,0.0,True,0.0
+2016,Western Australia,Geothermal,0.0,True,0.0
+2017,Western Australia,Geothermal,0.0,True,0.0
+2018,Western Australia,Geothermal,0.0,True,0.0
+2019,Western Australia,Geothermal,0.0,True,0.0
+2020,Western Australia,Geothermal,0.0,True,0.0
+2021,Western Australia,Geothermal,0.0,True,0.0
+2022,Western Australia,Geothermal,0.0,True,0.0
+2008,South Australia,Black coal,0.0,False,0.0
+2009,South Australia,Black coal,0.0,False,0.0
+2010,South Australia,Black coal,0.0,False,0.0
+2011,South Australia,Black coal,0.0,False,0.0
+2012,South Australia,Black coal,0.0,False,0.0
+2013,South Australia,Black coal,0.0,False,0.0
+2014,South Australia,Black coal,0.0,False,0.0
+2015,South Australia,Black coal,0.0,False,0.0
+2016,South Australia,Black coal,0.0,False,0.0
+2017,South Australia,Black coal,0.0,False,0.0
+2018,South Australia,Black coal,0.0,False,0.0
+2019,South Australia,Black coal,0.0,False,0.0
+2020,South Australia,Black coal,0.0,False,0.0
+2021,South Australia,Black coal,0.0,False,0.0
+2022,South Australia,Black coal,0.0,False,0.0
+2008,South Australia,Brown coal,4887.4,False,0.006188963854445255
+2009,South Australia,Brown coal,4526.6,False,0.0056517081478189
+2010,South Australia,Brown coal,4231.6,False,0.005236888904839754
+2011,South Australia,Brown coal,3008.0,False,0.0036880462182813313
+2012,South Australia,Brown coal,2237.5,False,0.0027164411767562477
+2013,South Australia,Brown coal,2098.5,False,0.002525574678059935
+2014,South Australia,Brown coal,2633.6,False,0.003142368278498593
+2015,South Australia,Brown coal,2593.675,False,0.003074160070735876
+2016,South Australia,Brown coal,0.0,False,0.0
+2017,South Australia,Brown coal,0.0,False,0.0
+2018,South Australia,Brown coal,0.0,False,0.0
+2019,South Australia,Brown coal,0.0,False,0.0
+2020,South Australia,Brown coal,0.0,False,0.0
+2021,South Australia,Brown coal,0.0,False,0.0
+2022,South Australia,Brown coal,0.0,False,0.0
+2008,South Australia,Natural gas,7371.4,False,0.009334478077640002
+2009,South Australia,Natural gas,6937.0,False,0.008661224632487896
+2010,South Australia,Natural gas,6693.1,False,0.008283160300827808
+2011,South Australia,Natural gas,6703.2,False,0.008218654059302999
+2012,South Australia,Natural gas,7060.9,False,0.008572299220093045
+2013,South Australia,Natural gas,5998.1,False,0.00721879889276688
+2014,South Australia,Natural gas,5003.849,False,0.005970510467799555
+2015,South Australia,Natural gas,4956.027,False,0.005874143951300341
+2016,South Australia,Natural gas,6028.202,False,0.007092719969314543
+2017,South Australia,Natural gas,7753.197,False,0.009038393251628862
+2018,South Australia,Natural gas,7245.797,False,0.008351512154752806
+2019,South Australia,Natural gas,6614.008,False,0.0075264552191249565
+2020,South Australia,Natural gas,5588.962,False,0.006304703460334471
+2021,South Australia,Natural gas,4288.888,False,0.004806742391554078
+2022,South Australia,Natural gas,3903.827,False,0.0043014059521579604
+2008,South Australia,Oil products,63.2,False,8.003079666099361e-05
+2009,South Australia,Oil products,163.9,False,0.0002046381313629474
+2010,South Australia,Oil products,89.3,False,0.00011051474128041167
+2011,South Australia,Oil products,97.8,False,0.00011991054526193956
+2012,South Australia,Oil products,141.0,False,0.00017118132108274005
+2013,South Australia,Oil products,106.9,False,0.00012865567456974366
+2014,South Australia,Oil products,197.3,False,0.00023541512049960985
+2015,South Australia,Oil products,136.165,False,0.00016138992203408313
+2016,South Australia,Oil products,183.118,False,0.0002154547401266481
+2017,South Australia,Oil products,132.837,False,0.0001548565120126089
+2018,South Australia,Oil products,163.034,False,0.00018791313538565448
+2019,South Australia,Oil products,159.398,False,0.00018138803415691058
+2020,South Australia,Oil products,126.725,False,0.0001429538340054711
+2021,South Australia,Oil products,217.975,False,0.0002442940157912728
+2022,South Australia,Oil products,242.628,False,0.0002673380565686393
+2008,South Australia,Other,0.0,False,0.0
+2009,South Australia,Other,0.0,False,0.0
+2010,South Australia,Other,0.0,False,0.0
+2011,South Australia,Other,0.0,False,0.0
+2012,South Australia,Other,0.0,False,0.0
+2013,South Australia,Other,0.0,False,0.0
+2014,South Australia,Other,0.0,False,0.0
+2015,South Australia,Other,0.0,False,0.0
+2016,South Australia,Other,0.0,False,0.0
+2017,South Australia,Other,0.0,False,0.0
+2018,South Australia,Other,0.0,False,0.0
+2019,South Australia,Other,0.0,False,0.0
+2020,South Australia,Other,0.0,False,0.0
+2021,South Australia,Other,0.0,False,0.0
+2022,South Australia,Other,0.0,False,0.0
+2008,South Australia,"Bagasse, wood",0.0,True,0.0
+2009,South Australia,"Bagasse, wood",0.0,True,0.0
+2010,South Australia,"Bagasse, wood",0.0,True,0.0
+2011,South Australia,"Bagasse, wood",0.0,True,0.0
+2012,South Australia,"Bagasse, wood",0.0,True,0.0
+2013,South Australia,"Bagasse, wood",0.0,True,0.0
+2014,South Australia,"Bagasse, wood",0.0,True,0.0
+2015,South Australia,"Bagasse, wood",0.0,True,0.0
+2016,South Australia,"Bagasse, wood",0.0,True,0.0
+2017,South Australia,"Bagasse, wood",0.0,True,0.0
+2018,South Australia,"Bagasse, wood",0.0,True,0.0
+2019,South Australia,"Bagasse, wood",0.0,True,0.0
+2020,South Australia,"Bagasse, wood",0.0,True,0.0
+2021,South Australia,"Bagasse, wood",0.0,True,0.0
+2022,South Australia,"Bagasse, wood",0.0,True,0.0
+2008,South Australia,Biogas,86.1,True,0.00010902929734986628
+2009,South Australia,Biogas,85.5,True,0.0001067514352137401
+2010,South Australia,Biogas,77.8,True,9.628271972694319e-05
+2011,South Australia,Biogas,70.6,True,8.656119116045942e-05
+2012,South Australia,Biogas,72.6,True,8.814016957877254e-05
+2013,South Australia,Biogas,80.9,True,9.736430376699964e-05
+2014,South Australia,Biogas,84.9,True,0.00010130128601326343
+2015,South Australia,Biogas,94.596,True,0.00011212015616888428
+2016,South Australia,Biogas,78.024,True,9.180222940203362e-05
+2017,South Australia,Biogas,73.952,True,8.62105345374892e-05
+2018,South Australia,Biogas,85.01,True,9.79826026419918e-05
+2019,South Australia,Biogas,97.446,True,0.00011088933597946215
+2020,South Australia,Biogas,94.595,True,0.00010670915705462646
+2021,South Australia,Biogas,94.582,True,0.00010600214061965895
+2022,South Australia,Biogas,92.24,True,0.00010163403373844441
+2008,South Australia,Wind,2020.2,True,0.0025581996109895456
+2009,South Australia,Wind,2029.0,True,0.002533317684779867
+2010,South Australia,Wind,2890.3,True,0.003576940164868688
+2011,South Australia,Wind,3126.528,True,0.0038333709330953102
+2012,South Australia,Wind,3313.5,True,0.004022761045444392
+2013,South Australia,Wind,4150.337,True,0.004994989770128777
+2014,South Australia,Wind,4291.901,True,0.005121025803788119
+2015,South Australia,Wind,4398.022,True,0.005212767067044999
+2016,South Australia,Wind,4413.692,True,0.005193104243488165
+2017,South Australia,Wind,5673.898,True,0.006614422591561971
+2018,South Australia,Wind,5711.02,True,0.006582526800852464
+2019,South Australia,Wind,5812.912,True,0.006614842597818765
+2020,South Australia,Wind,5867.068,True,0.0066184246594658625
+2021,South Australia,Wind,6254.756,True,0.007009975735908055
+2022,South Australia,Wind,6799.644,True,0.007492142754828829
+2008,South Australia,Hydro,4.1,True,5.191871302374584e-06
+2009,South Australia,Hydro,4.2,True,5.243930150850391e-06
+2010,South Australia,Hydro,4.1,True,5.07402507558441e-06
+2011,South Australia,Hydro,4.4,True,5.3947484575923735e-06
+2012,South Australia,Hydro,5.9,True,7.162906343178485e-06
+2013,South Australia,Hydro,5.9,True,7.100734143699603e-06
+2014,South Australia,Hydro,10.8,True,1.2886382673065314e-05
+2015,South Australia,Hydro,6.481,True,7.681622184136104e-06
+2016,South Australia,Hydro,3.451,True,4.060410818035707e-06
+2017,South Australia,Hydro,6.352,True,7.404929080783907e-06
+2018,South Australia,Hydro,8.803,True,1.0146345736471635e-05
+2019,South Australia,Hydro,10.264,True,1.1679988347322615e-05
+2020,South Australia,Hydro,3.455,True,3.8974590371978905e-06
+2021,South Australia,Hydro,2.496,True,2.7973752192454038e-06
+2022,South Australia,Hydro,1.548,True,1.7056535584032086e-06
+2008,South Australia,Large-scale solar PV,0.0,True,0.0
+2009,South Australia,Large-scale solar PV,0.0,True,0.0
+2010,South Australia,Large-scale solar PV,0.0,True,0.0
+2011,South Australia,Large-scale solar PV,0.0,True,0.0
+2012,South Australia,Large-scale solar PV,0.0,True,0.0
+2013,South Australia,Large-scale solar PV,1.385,True,1.6668672523769408e-06
+2014,South Australia,Large-scale solar PV,1.722,True,2.0546621262054136e-06
+2015,South Australia,Large-scale solar PV,2.0,True,2.3705052257787704e-06
+2016,South Australia,Large-scale solar PV,3.925,True,4.618114303329513e-06
+2017,South Australia,Large-scale solar PV,20.045,True,2.336772723934405e-05
+2018,South Australia,Large-scale solar PV,321.329,True,0.0003703640950987952
+2019,South Australia,Large-scale solar PV,627.836,True,0.0007144502303224515
+2020,South Australia,Large-scale solar PV,884.33,True,0.0009975803040130856
+2021,South Australia,Large-scale solar PV,1096.66,True,0.0012290743220904105
+2022,South Australia,Large-scale solar PV,1608.431,True,0.0017722390559405886
+2008,South Australia,Small-scale solar PV,23.4,True,2.9631655725747627e-05
+2009,South Australia,Small-scale solar PV,50.7,True,6.330172824955115e-05
+2010,South Australia,Small-scale solar PV,182.8,True,0.00022622726434556834
+2011,South Australia,Small-scale solar PV,398.1,True,0.000488102127492619
+2012,South Australia,Small-scale solar PV,558.6,True,0.0006781694039490682
+2013,South Australia,Small-scale solar PV,677.943,True,0.0008159140690817186
+2014,South Australia,Small-scale solar PV,802.239,True,0.0009572184027090041
+2015,South Australia,Small-scale solar PV,895.45,True,0.0010613344522118
+2016,South Australia,Small-scale solar PV,1000.833,True,0.0011775697305845061
+2017,South Australia,Small-scale solar PV,1163.369,True,0.0013562129942982512
+2018,South Australia,Small-scale solar PV,1402.512,True,0.0016165365956549251
+2019,South Australia,Small-scale solar PV,1717.581,True,0.00195453293702092
+2020,South Australia,Small-scale solar PV,2128.182,True,0.0024007242167009783
+2021,South Australia,Small-scale solar PV,2505.006,True,0.0028074686331975365
+2022,South Australia,Small-scale solar PV,2860.547,True,0.0031518747865178446
+2008,South Australia,Geothermal,0.0,True,0.0
+2009,South Australia,Geothermal,0.0,True,0.0
+2010,South Australia,Geothermal,0.0,True,0.0
+2011,South Australia,Geothermal,0.0,True,0.0
+2012,South Australia,Geothermal,0.0,True,0.0
+2013,South Australia,Geothermal,0.0,True,0.0
+2014,South Australia,Geothermal,0.0,True,0.0
+2015,South Australia,Geothermal,0.0,True,0.0
+2016,South Australia,Geothermal,0.0,True,0.0
+2017,South Australia,Geothermal,0.0,True,0.0
+2018,South Australia,Geothermal,0.0,True,0.0
+2019,South Australia,Geothermal,0.0,True,0.0
+2020,South Australia,Geothermal,0.0,True,0.0
+2021,South Australia,Geothermal,0.0,True,0.0
+2022,South Australia,Geothermal,0.0,True,0.0
+2008,Tasmania,Black coal,0.0,False,0.0
+2009,Tasmania,Black coal,0.0,False,0.0
+2010,Tasmania,Black coal,0.0,False,0.0
+2011,Tasmania,Black coal,0.0,False,0.0
+2012,Tasmania,Black coal,0.0,False,0.0
+2013,Tasmania,Black coal,0.0,False,0.0
+2014,Tasmania,Black coal,0.0,False,0.0
+2015,Tasmania,Black coal,0.0,False,0.0
+2016,Tasmania,Black coal,0.0,False,0.0
+2017,Tasmania,Black coal,0.0,False,0.0
+2018,Tasmania,Black coal,0.0,False,0.0
+2019,Tasmania,Black coal,0.0,False,0.0
+2020,Tasmania,Black coal,0.0,False,0.0
+2021,Tasmania,Black coal,0.0,False,0.0
+2022,Tasmania,Black coal,0.0,False,0.0
+2008,Tasmania,Brown coal,0.0,False,0.0
+2009,Tasmania,Brown coal,0.0,False,0.0
+2010,Tasmania,Brown coal,0.0,False,0.0
+2011,Tasmania,Brown coal,0.0,False,0.0
+2012,Tasmania,Brown coal,0.0,False,0.0
+2013,Tasmania,Brown coal,0.0,False,0.0
+2014,Tasmania,Brown coal,0.0,False,0.0
+2015,Tasmania,Brown coal,0.0,False,0.0
+2016,Tasmania,Brown coal,0.0,False,0.0
+2017,Tasmania,Brown coal,0.0,False,0.0
+2018,Tasmania,Brown coal,0.0,False,0.0
+2019,Tasmania,Brown coal,0.0,False,0.0
+2020,Tasmania,Brown coal,0.0,False,0.0
+2021,Tasmania,Brown coal,0.0,False,0.0
+2022,Tasmania,Brown coal,0.0,False,0.0
+2008,Tasmania,Natural gas,705.3,False,0.002835787289818828
+2009,Tasmania,Natural gas,1109.8,False,0.004413881973002855
+2010,Tasmania,Natural gas,1506.0,False,0.005933034711798703
+2011,Tasmania,Natural gas,1562.7,False,0.006132708563893664
+2012,Tasmania,Natural gas,1752.5,False,0.0068806438947781705
+2013,Tasmania,Natural gas,985.0,False,0.00386459404107063
+2014,Tasmania,Natural gas,131.042,False,0.000513944613743416
+2015,Tasmania,Natural gas,858.027,False,0.0033588580242080706
+2016,Tasmania,Natural gas,897.553,False,0.003472749713684341
+2017,Tasmania,Natural gas,980.373,False,0.003723336055145174
+2018,Tasmania,Natural gas,619.786,False,0.002305408421365868
+2019,Tasmania,Natural gas,196.631,False,0.0007179117392558408
+2020,Tasmania,Natural gas,186.131,False,0.0006686868832022647
+2021,Tasmania,Natural gas,174.762,False,0.0006193763777741549
+2022,Tasmania,Natural gas,193.567,False,0.0006819028897742925
+2008,Tasmania,Oil products,64.5,False,0.00025933401416888477
+2009,Tasmania,Oil products,73.9,False,0.00029391410867265366
+2010,Tasmania,Oil products,94.9,False,0.00037386785800112675
+2011,Tasmania,Oil products,60.5,False,0.00023742808479910836
+2012,Tasmania,Oil products,12.1,False,4.75068708284256e-05
+2013,Tasmania,Oil products,19.7,False,7.72918808214126e-05
+2014,Tasmania,Oil products,18.9,False,7.41254956407149e-05
+2015,Tasmania,Oil products,90.255,False,0.0003533149084759563
+2016,Tasmania,Oil products,21.817,False,8.441282075092086e-05
+2017,Tasmania,Oil products,24.3,False,9.228841077837489e-05
+2018,Tasmania,Oil products,19.27,False,7.167832167832168e-05
+2019,Tasmania,Oil products,20.682,False,7.551123979072119e-05
+2020,Tasmania,Oil products,19.835,False,7.125843802653465e-05
+2021,Tasmania,Oil products,10.676,False,3.783695659878508e-05
+2022,Tasmania,Oil products,12.669,False,4.463068452034961e-05
+2008,Tasmania,Other,0.0,False,0.0
+2009,Tasmania,Other,0.0,False,0.0
+2010,Tasmania,Other,0.0,False,0.0
+2011,Tasmania,Other,0.0,False,0.0
+2012,Tasmania,Other,0.0,False,0.0
+2013,Tasmania,Other,0.0,False,0.0
+2014,Tasmania,Other,0.0,False,0.0
+2015,Tasmania,Other,0.0,False,0.0
+2016,Tasmania,Other,0.0,False,0.0
+2017,Tasmania,Other,0.0,False,0.0
+2018,Tasmania,Other,0.0,False,0.0
+2019,Tasmania,Other,0.0,False,0.0
+2020,Tasmania,Other,0.0,False,0.0
+2021,Tasmania,Other,0.0,False,0.0
+2022,Tasmania,Other,0.0,False,0.0
+2008,Tasmania,"Bagasse, wood",0.0,True,0.0
+2009,Tasmania,"Bagasse, wood",0.0,True,0.0
+2010,Tasmania,"Bagasse, wood",0.0,True,0.0
+2011,Tasmania,"Bagasse, wood",0.0,True,0.0
+2012,Tasmania,"Bagasse, wood",0.0,True,0.0
+2013,Tasmania,"Bagasse, wood",0.0,True,0.0
+2014,Tasmania,"Bagasse, wood",0.0,True,0.0
+2015,Tasmania,"Bagasse, wood",0.0,True,0.0
+2016,Tasmania,"Bagasse, wood",0.0,True,0.0
+2017,Tasmania,"Bagasse, wood",0.0,True,0.0
+2018,Tasmania,"Bagasse, wood",0.0,True,0.0
+2019,Tasmania,"Bagasse, wood",0.0,True,0.0
+2020,Tasmania,"Bagasse, wood",0.0,True,0.0
+2021,Tasmania,"Bagasse, wood",0.0,True,0.0
+2022,Tasmania,"Bagasse, wood",0.0,True,0.0
+2008,Tasmania,Biogas,25.1,True,0.00010091912799440322
+2009,Tasmania,Biogas,29.0,True,0.00011533841882959346
+2010,Tasmania,Biogas,29.9,True,0.00011779398265788924
+2011,Tasmania,Biogas,33.3,True,0.0001306835574183522
+2012,Tasmania,Biogas,33.0,True,0.00012956419316843346
+2013,Tasmania,Biogas,30.6,True,0.00012005743924544292
+2014,Tasmania,Biogas,34.6,True,0.0001357006428131606
+2015,Tasmania,Biogas,27.252,True,0.00010668149006466968
+2016,Tasmania,Biogas,24.517,True,9.485947317918717e-05
+2017,Tasmania,Biogas,24.062,True,9.138451605552496e-05
+2018,Tasmania,Biogas,27.004,True,0.00010044636214848982
+2019,Tasmania,Biogas,30.883,True,0.00011275571117188099
+2020,Tasmania,Biogas,31.774,True,0.00011415001814243066
+2021,Tasmania,Biogas,32.976,True,0.00011687068947185619
+2022,Tasmania,Biogas,31.817,True,0.00011208575967984555
+2008,Tasmania,Wind,486.897,True,0.001957658193748643
+2009,Tasmania,Wind,489.3,True,0.001946037528735175
+2010,Tasmania,Wind,483.5,True,0.0019047956727454665
+2011,Tasmania,Wind,423.1,True,0.001660426821132277
+2012,Tasmania,Wind,477.5,True,0.0018747546132705144
+2013,Tasmania,Wind,818.0,True,0.0032093786046657616
+2014,Tasmania,Wind,1055.1,True,0.004138085209022132
+2015,Tasmania,Wind,1055.996,True,0.004133833362040619
+2016,Tasmania,Wind,1104.776,True,0.0042745225492927235
+2017,Tasmania,Wind,1147.79,True,0.004359165226638309
+2018,Tasmania,Wind,1147.203,True,0.004267233298616277
+2019,Tasmania,Wind,1362.035,True,0.004972872618139201
+2020,Tasmania,Wind,1815.259,True,0.00652142782725532
+2021,Tasmania,Wind,1789.181,True,0.006341060682312747
+2022,Tasmania,Wind,1805.276,True,0.0063596735044722285
+2008,Tasmania,Hydro,7313.6,True,0.02940566272907838
+2009,Tasmania,Hydro,8307.2,True,0.033039286651765476
+2010,Tasmania,Hydro,9451.5,True,0.03723511127394783
+2011,Tasmania,Hydro,8515.5,True,0.03341849348936871
+2012,Tasmania,Hydro,10766.4,True,0.04227090694935218
+2013,Tasmania,Hydro,12072.6,True,0.04736619088348151
+2014,Tasmania,Hydro,8294.4,True,0.03253050322975374
+2015,Tasmania,Hydro,8204.296,True,0.03211678123483081
+2016,Tasmania,Hydro,8432.701,True,0.03262722088092364
+2017,Tasmania,Hydro,9428.909,True,0.03580983650139572
+2018,Tasmania,Hydro,9821.078,True,0.03653131230471656
+2019,Tasmania,Hydro,9878.333,True,0.03606639454093387
+2020,Tasmania,Hydro,8301.873,True,0.029824981228871252
+2021,Tasmania,Hydro,9709.625,True,0.034412013836219425
+2022,Tasmania,Hydro,8359.825,True,0.029450210136579974
+2008,Tasmania,Large-scale solar PV,0.0,True,0.0
+2009,Tasmania,Large-scale solar PV,0.0,True,0.0
+2010,Tasmania,Large-scale solar PV,0.0,True,0.0
+2011,Tasmania,Large-scale solar PV,0.0,True,0.0
+2012,Tasmania,Large-scale solar PV,0.0,True,0.0
+2013,Tasmania,Large-scale solar PV,0.04,True,1.5693782907901035e-07
+2014,Tasmania,Large-scale solar PV,0.04,True,1.5687935585336486e-07
+2015,Tasmania,Large-scale solar PV,0.039,True,1.5267056041839563e-07
+2016,Tasmania,Large-scale solar PV,0.296,True,1.1452626365803076e-06
+2017,Tasmania,Large-scale solar PV,0.556,True,2.111619604641006e-06
+2018,Tasmania,Large-scale solar PV,1.495,True,5.560928433268859e-06
+2019,Tasmania,Large-scale solar PV,2.754,True,1.00550214864929e-05
+2020,Tasmania,Large-scale solar PV,3.03,True,1.0885458392760271e-05
+2021,Tasmania,Large-scale solar PV,2.973,True,1.0536649678548898e-05
+2022,Tasmania,Large-scale solar PV,3.713,True,1.3080253502569902e-05
+2008,Tasmania,Small-scale solar PV,1.8,True,7.2372283023874815e-06
+2009,Tasmania,Small-scale solar PV,5.6,True,2.2272246394680114e-05
+2010,Tasmania,Small-scale solar PV,11.6,True,4.569933775356238e-05
+2011,Tasmania,Small-scale solar PV,22.7,True,8.908458718908693e-05
+2012,Tasmania,Small-scale solar PV,53.3,True,0.00020926580290537886
+2013,Tasmania,Small-scale solar PV,73.516,True,0.00028843603606431314
+2014,Tasmania,Small-scale solar PV,96.806,True,0.00037967157306852096
+2015,Tasmania,Small-scale solar PV,108.462,True,0.0004245885724128212
+2016,Tasmania,Small-scale solar PV,121.61,True,0.00047052496363017305
+2017,Tasmania,Small-scale solar PV,138.931,True,0.0005276428476481647
+2018,Tasmania,Small-scale solar PV,161.79,True,0.0006018077667013837
+2019,Tasmania,Small-scale solar PV,187.173,True,0.000683380006060761
+2020,Tasmania,Small-scale solar PV,218.629,True,0.0007854379151652758
+2021,Tasmania,Small-scale solar PV,255.501,True,0.0009055245642512351
+2022,Tasmania,Small-scale solar PV,297.825,True,0.0010491856987349531
+2008,Tasmania,Geothermal,0.0,True,0.0
+2009,Tasmania,Geothermal,0.0,True,0.0
+2010,Tasmania,Geothermal,0.0,True,0.0
+2011,Tasmania,Geothermal,0.0,True,0.0
+2012,Tasmania,Geothermal,0.0,True,0.0
+2013,Tasmania,Geothermal,0.0,True,0.0
+2014,Tasmania,Geothermal,0.0,True,0.0
+2015,Tasmania,Geothermal,0.0,True,0.0
+2016,Tasmania,Geothermal,0.0,True,0.0
+2017,Tasmania,Geothermal,0.0,True,0.0
+2018,Tasmania,Geothermal,0.0,True,0.0
+2019,Tasmania,Geothermal,0.0,True,0.0
+2020,Tasmania,Geothermal,0.0,True,0.0
+2021,Tasmania,Geothermal,0.0,True,0.0
+2022,Tasmania,Geothermal,0.0,True,0.0
+2008,Northern Territory,Black coal,0.0,False,0.0
+2009,Northern Territory,Black coal,0.0,False,0.0
+2010,Northern Territory,Black coal,0.0,False,0.0
+2011,Northern Territory,Black coal,0.0,False,0.0
+2012,Northern Territory,Black coal,0.0,False,0.0
+2013,Northern Territory,Black coal,0.0,False,0.0
+2014,Northern Territory,Black coal,0.0,False,0.0
+2015,Northern Territory,Black coal,0.0,False,0.0
+2016,Northern Territory,Black coal,0.0,False,0.0
+2017,Northern Territory,Black coal,0.0,False,0.0
+2018,Northern Territory,Black coal,0.0,False,0.0
+2019,Northern Territory,Black coal,0.0,False,0.0
+2020,Northern Territory,Black coal,0.0,False,0.0
+2021,Northern Territory,Black coal,0.0,False,0.0
+2022,Northern Territory,Black coal,0.0,False,0.0
+2008,Northern Territory,Brown coal,0.0,False,0.0
+2009,Northern Territory,Brown coal,0.0,False,0.0
+2010,Northern Territory,Brown coal,0.0,False,0.0
+2011,Northern Territory,Brown coal,0.0,False,0.0
+2012,Northern Territory,Brown coal,0.0,False,0.0
+2013,Northern Territory,Brown coal,0.0,False,0.0
+2014,Northern Territory,Brown coal,0.0,False,0.0
+2015,Northern Territory,Brown coal,0.0,False,0.0
+2016,Northern Territory,Brown coal,0.0,False,0.0
+2017,Northern Territory,Brown coal,0.0,False,0.0
+2018,Northern Territory,Brown coal,0.0,False,0.0
+2019,Northern Territory,Brown coal,0.0,False,0.0
+2020,Northern Territory,Brown coal,0.0,False,0.0
+2021,Northern Territory,Brown coal,0.0,False,0.0
+2022,Northern Territory,Brown coal,0.0,False,0.0
+2008,Northern Territory,Natural gas,1873.4,False,0.016119012587869873
+2009,Northern Territory,Natural gas,2134.9,False,0.017895672145988584
+2010,Northern Territory,Natural gas,2054.1,False,0.016978979822944478
+2011,Northern Territory,Natural gas,2109.3,False,0.017270092356062097
+2012,Northern Territory,Natural gas,2269.0,False,0.018145757859296403
+2013,Northern Territory,Natural gas,2308.9,False,0.018201239219890582
+2014,Northern Territory,Natural gas,2201.4,False,0.017369143614587114
+2015,Northern Territory,Natural gas,2484.714,False,0.019569762221679648
+2016,Northern Territory,Natural gas,2366.493,False,0.018556945250380315
+2017,Northern Territory,Natural gas,2437.758,False,0.019151966060415603
+2018,Northern Territory,Natural gas,3503.228,False,0.0277795857518952
+2019,Northern Territory,Natural gas,4285.007,False,0.03414729133130389
+2020,Northern Territory,Natural gas,4142.973,False,0.03286847763135973
+2021,Northern Territory,Natural gas,4561.489,False,0.0361991334089881
+2022,Northern Territory,Natural gas,4160.223,False,0.03267866653051285
+2008,Northern Territory,Oil products,1039.3,False,0.008942291973189471
+2009,Northern Territory,Oil products,1118.2,False,0.00937324492652791
+2010,Northern Territory,Oil products,1022.5,False,0.008451880078360707
+2011,Northern Territory,Oil products,1020.9,False,0.008358714875221065
+2012,Northern Territory,Oil products,1022.0,False,0.008173188423182425
+2013,Northern Territory,Oil products,1123.6,False,0.008857426647957493
+2014,Northern Territory,Oil products,751.3,False,0.005927790314181565
+2015,Northern Territory,Oil products,522.63,False,0.004116266431434939
+2016,Northern Territory,Oil products,537.402,False,0.004214058309678027
+2017,Northern Territory,Oil products,947.176,False,0.007441379581254665
+2018,Northern Territory,Oil products,794.978,False,0.006303945824214165
+2019,Northern Territory,Oil products,504.397,False,0.004019547997386162
+2020,Northern Territory,Oil products,502.491,False,0.003986536768030973
+2021,Northern Territory,Oil products,461.921,False,0.003665719659394815
+2022,Northern Territory,Oil products,527.223,False,0.0041413512218495445
+2008,Northern Territory,Other,0.0,False,0.0
+2009,Northern Territory,Other,0.0,False,0.0
+2010,Northern Territory,Other,0.0,False,0.0
+2011,Northern Territory,Other,0.0,False,0.0
+2012,Northern Territory,Other,0.0,False,0.0
+2013,Northern Territory,Other,0.0,False,0.0
+2014,Northern Territory,Other,0.0,False,0.0
+2015,Northern Territory,Other,0.0,False,0.0
+2016,Northern Territory,Other,0.0,False,0.0
+2017,Northern Territory,Other,0.0,False,0.0
+2018,Northern Territory,Other,0.0,False,0.0
+2019,Northern Territory,Other,0.0,False,0.0
+2020,Northern Territory,Other,0.0,False,0.0
+2021,Northern Territory,Other,0.0,False,0.0
+2022,Northern Territory,Other,0.0,False,0.0
+2008,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2009,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2010,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2011,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2012,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2013,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2014,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2015,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2016,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2017,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2018,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2019,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2020,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2021,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2022,Northern Territory,"Bagasse, wood",0.0,True,0.0
+2008,Northern Territory,Biogas,9.2,True,7.915817006960756e-05
+2009,Northern Territory,Biogas,9.2,True,7.711845226619277e-05
+2010,Northern Territory,Biogas,8.7,True,7.191330726820357e-05
+2011,Northern Territory,Biogas,7.7,True,6.304447501146263e-05
+2012,Northern Territory,Biogas,6.5,True,5.198211815135593e-05
+2013,Northern Territory,Biogas,8.9,True,7.015939584088796e-05
+2014,Northern Territory,Biogas,9.0,True,7.101039907844282e-05
+2015,Northern Territory,Biogas,7.688,True,6.0551166838627356e-05
+2016,Northern Territory,Biogas,7.612,True,5.9689788748961e-05
+2017,Northern Territory,Biogas,8.608,True,6.76277644655694e-05
+2018,Northern Territory,Biogas,8.785,True,6.966251149808102e-05
+2019,Northern Territory,Biogas,8.722,True,6.950576159890346e-05
+2020,Northern Territory,Biogas,7.98,True,6.330971780367642e-05
+2021,Northern Territory,Biogas,5.976,True,4.742443120045075e-05
+2022,Northern Territory,Biogas,8.988,True,7.060098816247339e-05
+2008,Northern Territory,Wind,0.0,True,0.0
+2009,Northern Territory,Wind,0.0,True,0.0
+2010,Northern Territory,Wind,0.0,True,0.0
+2011,Northern Territory,Wind,0.0,True,0.0
+2012,Northern Territory,Wind,0.0,True,0.0
+2013,Northern Territory,Wind,0.0,True,0.0
+2014,Northern Territory,Wind,0.0,True,0.0
+2015,Northern Territory,Wind,0.0,True,0.0
+2016,Northern Territory,Wind,0.0,True,0.0
+2017,Northern Territory,Wind,0.0,True,0.0
+2018,Northern Territory,Wind,0.0,True,0.0
+2019,Northern Territory,Wind,0.0,True,0.0
+2020,Northern Territory,Wind,0.0,True,0.0
+2021,Northern Territory,Wind,0.0,True,0.0
+2022,Northern Territory,Wind,0.0,True,0.0
+2008,Northern Territory,Hydro,0.0,True,0.0
+2009,Northern Territory,Hydro,0.0,True,0.0
+2010,Northern Territory,Hydro,0.0,True,0.0
+2011,Northern Territory,Hydro,0.0,True,0.0
+2012,Northern Territory,Hydro,0.0,True,0.0
+2013,Northern Territory,Hydro,0.0,True,0.0
+2014,Northern Territory,Hydro,0.0,True,0.0
+2015,Northern Territory,Hydro,0.0,True,0.0
+2016,Northern Territory,Hydro,0.0,True,0.0
+2017,Northern Territory,Hydro,0.0,True,0.0
+2018,Northern Territory,Hydro,0.0,True,0.0
+2019,Northern Territory,Hydro,0.0,True,0.0
+2020,Northern Territory,Hydro,0.0,True,0.0
+2021,Northern Territory,Hydro,0.0,True,0.0
+2022,Northern Territory,Hydro,0.0,True,0.0
+2008,Northern Territory,Large-scale solar PV,0.0,True,0.0
+2009,Northern Territory,Large-scale solar PV,0.0,True,0.0
+2010,Northern Territory,Large-scale solar PV,0.0,True,0.0
+2011,Northern Territory,Large-scale solar PV,0.0,True,0.0
+2012,Northern Territory,Large-scale solar PV,0.0,True,0.0
+2013,Northern Territory,Large-scale solar PV,5.058,True,3.987260945654059e-05
+2014,Northern Territory,Large-scale solar PV,6.405,True,5.053573401082514e-05
+2015,Northern Territory,Large-scale solar PV,8.515,True,6.706467034741311e-05
+2016,Northern Territory,Large-scale solar PV,18.468,True,0.000144817527406176
+2017,Northern Territory,Large-scale solar PV,30.504,True,0.00023965117649369527
+2018,Northern Territory,Large-scale solar PV,32.652,True,0.0002589209249214959
+2019,Northern Territory,Large-scale solar PV,39.25,True,0.0003127838962115296
+2020,Northern Territory,Large-scale solar PV,44.607,True,0.00035389180226423476
+2021,Northern Territory,Large-scale solar PV,46.126,True,0.00036604740855957017
+2022,Northern Territory,Large-scale solar PV,50.817,True,0.00039916893807881735
+2008,Northern Territory,Small-scale solar PV,0.5,True,4.302074460304759e-06
+2009,Northern Territory,Small-scale solar PV,4.3,True,3.6044493993981404e-05
+2010,Northern Territory,Small-scale solar PV,5.6,True,4.628902536803908e-05
+2011,Northern Territory,Small-scale solar PV,9.7,True,7.941966332612824e-05
+2012,Northern Territory,Small-scale solar PV,16.9,True,0.0001351535071935254
+2013,Northern Territory,Small-scale solar PV,19.357,True,0.0001525927444148391
+2014,Northern Territory,Small-scale solar PV,28.899,True,0.00022801439144087992
+2015,Northern Territory,Small-scale solar PV,42.448,True,0.00033432309182701017
+2016,Northern Territory,Small-scale solar PV,61.251,True,0.000480302056051315
+2017,Northern Territory,Small-scale solar PV,85.773,True,0.0006738657343756138
+2018,Northern Territory,Small-scale solar PV,117.882,True,0.0009347701969740223
+2019,Northern Territory,Small-scale solar PV,162.212,True,0.0012926700986564236
+2020,Northern Territory,Small-scale solar PV,203.556,True,0.0016149214182011474
+2021,Northern Territory,Small-scale solar PV,230.893,True,0.001832324162176318
+2022,Northern Territory,Small-scale solar PV,259.389,True,0.0020375077568397654
+2008,Northern Territory,Geothermal,0.0,True,0.0
+2009,Northern Territory,Geothermal,0.0,True,0.0
+2010,Northern Territory,Geothermal,0.0,True,0.0
+2011,Northern Territory,Geothermal,0.0,True,0.0
+2012,Northern Territory,Geothermal,0.0,True,0.0
+2013,Northern Territory,Geothermal,0.0,True,0.0
+2014,Northern Territory,Geothermal,0.0,True,0.0
+2015,Northern Territory,Geothermal,0.0,True,0.0
+2016,Northern Territory,Geothermal,0.0,True,0.0
+2017,Northern Territory,Geothermal,0.0,True,0.0
+2018,Northern Territory,Geothermal,0.0,True,0.0
+2019,Northern Territory,Geothermal,0.0,True,0.0
+2020,Northern Territory,Geothermal,0.0,True,0.0
+2021,Northern Territory,Geothermal,0.0,True,0.0
+2022,Northern Territory,Geothermal,0.0,True,0.0
+2008,New South Wales,non_renewable_total,70120.1,False,0.020171486154849018
+2009,New South Wales,non_renewable_total,69085.5,False,0.01958959270898699
+2010,New South Wales,non_renewable_total,65536.3,False,0.018380376928379794
+2011,New South Wales,non_renewable_total,64707.9,False,0.01795348091309079
+2012,New South Wales,non_renewable_total,62158.2,False,0.017029480539227704
+2013,New South Wales,non_renewable_total,61518.495,False,0.01663462287262521
+2014,New South Wales,non_renewable_total,57374.89,False,0.015299721791192196
+2015,New South Wales,non_renewable_total,60252.593,False,0.015842233656185475
+2016,New South Wales,non_renewable_total,59619.497,False,0.015424043705102836
+2017,New South Wales,non_renewable_total,60392.35,False,0.015401100298089842
+2018,New South Wales,non_renewable_total,60417.819,False,0.015194611980184425
+2019,New South Wales,non_renewable_total,56774.898,False,0.014124872807499841
+2020,New South Wales,non_renewable_total,53034.595,False,0.013184617124844
+2021,New South Wales,non_renewable_total,50627.581,False,0.012573795038589958
+2022,New South Wales,non_renewable_total,48489.888,False,0.011824448597547414
+2008,New South Wales,renewable_total,2249.277,True,0.000647050701067459
+2009,New South Wales,renewable_total,3922.326,True,0.0011121982009520102
+2010,New South Wales,renewable_total,4144.569,True,0.0011623900102031718
+2011,New South Wales,renewable_total,4624.525,True,0.0012830940475523265
+2012,New South Wales,renewable_total,5827.089,True,0.001596447431326001
+2013,New South Wales,renewable_total,5478.144,True,0.0014812920810552104
+2014,New South Wales,renewable_total,5441.551,True,0.0014510566628116184
+2015,New South Wales,renewable_total,7976.784,True,0.0020973383826472297
+2016,New South Wales,renewable_total,8539.75,True,0.0022093020548404146
+2017,New South Wales,renewable_total,9332.271,True,0.00237989152069683
+2018,New South Wales,renewable_total,11142.976,True,0.0028023718735114807
+2019,New South Wales,renewable_total,13289.838,True,0.0033063427323511544
+2020,New South Wales,renewable_total,17128.232,True,0.004258148496193871
+2021,New South Wales,renewable_total,21471.577,True,0.00533265076111976
+2022,New South Wales,renewable_total,24579.818,True,0.005993884631741585
+2008,New South Wales,total,72369.377,0,0.020818536855916475
+2009,New South Wales,total,73007.826,0,0.020701790909939
+2010,New South Wales,total,69680.869,0,0.019542766938582968
+2011,New South Wales,total,69332.425,0,0.019236574960643116
+2012,New South Wales,total,67985.289,0,0.018625927970553707
+2013,New South Wales,total,66996.639,0,0.01811591495368042
+2014,New South Wales,total,62816.441,0,0.016750778454003815
+2015,New South Wales,total,68229.377,0,0.017939572038832702
+2016,New South Wales,total,68159.247,0,0.01763334575994325
+2017,New South Wales,total,69724.621,0,0.017780991818786673
+2018,New South Wales,total,71560.795,0,0.017996983853695903
+2019,New South Wales,total,70064.736,0,0.017431215539850997
+2020,New South Wales,total,70162.827,0,0.017442765621037873
+2021,New South Wales,total,72099.158,0,0.01790644579970972
+2022,New South Wales,total,73069.706,0,0.017818333229289
+2008,Victoria,non_renewable_total,53566.3,False,0.020341759081796838
+2009,Victoria,non_renewable_total,53240.7,False,0.019821393867957893
+2010,Victoria,non_renewable_total,52394.5,False,0.01925589470477137
+2011,Victoria,non_renewable_total,53206.2,False,0.019232224825981296
+2012,Victoria,non_renewable_total,48576.0,False,0.01719292023746447
+2013,Victoria,non_renewable_total,47362.8,False,0.016420404058123964
+2014,Victoria,non_renewable_total,50883.677,False,0.01727351351755046
+2015,Victoria,non_renewable_total,48196.949,False,0.01600495886265946
+2016,Victoria,non_renewable_total,46362.117,False,0.015041017668495665
+2017,Victoria,non_renewable_total,40029.336,False,0.012730240053122524
+2018,Victoria,non_renewable_total,38033.936,False,0.011858952005367936
+2019,Victoria,non_renewable_total,36980.565,False,0.011335942481239885
+2020,Victoria,non_renewable_total,36196.013,False,0.011143145779484255
+2021,Victoria,non_renewable_total,34959.893,False,0.010764362277322349
+2022,Victoria,non_renewable_total,33411.677,False,0.010059388964190855
+2008,Victoria,renewable_total,3123.623,True,0.0011861933067686117
+2009,Victoria,renewable_total,3750.574,True,0.001396330335343493
+2010,Victoria,renewable_total,5890.122,True,0.0021647228054520484
+2011,Victoria,renewable_total,5047.522,True,0.0018245068792375094
+2012,Victoria,renewable_total,6724.111,True,0.002379922268010076
+2013,Victoria,renewable_total,6932.353,True,0.0024034059923304326
+2014,Victoria,renewable_total,7137.534,True,0.00242298311167599
+2015,Victoria,renewable_total,8385.587,True,0.002784636325719538
+2016,Victoria,renewable_total,9174.092,True,0.002976302395000745
+2017,Victoria,renewable_total,9328.798,True,0.002966770119471612
+2018,Victoria,renewable_total,10662.034,True,0.0033244140045248305
+2019,Victoria,renewable_total,12016.336,True,0.0036834616705086073
+2020,Victoria,renewable_total,15293.467,True,0.004708179662073051
+2021,Victoria,renewable_total,18947.673,True,0.005834102995802624
+2022,Victoria,renewable_total,21556.086,True,0.006489978148045337
+2008,Victoria,total,56689.923,0,0.02152795238856545
+2009,Victoria,total,56991.274,0,0.021217724203301386
+2010,Victoria,total,58284.622,0,0.02142061751022342
+2011,Victoria,total,58253.722,0,0.02105673170521881
+2012,Victoria,total,55300.111,0,0.019572842505474544
+2013,Victoria,total,54295.153,0,0.018823810050454394
+2014,Victoria,total,58021.211,0,0.019696496629226453
+2015,Victoria,total,56582.536,0,0.018789595188379
+2016,Victoria,total,55536.21,0,0.018017320387921146
+2017,Victoria,total,49358.134,0,0.015697010172594134
+2018,Victoria,total,48695.97,0,0.015183366009892766
+2019,Victoria,total,48996.901,0,0.01501940415174849
+2020,Victoria,total,51489.48,0,0.015851325441557308
+2021,Victoria,total,53907.566,0,0.016598465273124974
+2022,Victoria,total,54967.763,0,0.01654936711223619
+2008,Queensland,non_renewable_total,60850.8,False,0.028488255595984262
+2009,Queensland,non_renewable_total,62105.0,False,0.028468943387577356
+2010,Queensland,non_renewable_total,60833.3,False,0.027471325565190847
+2011,Queensland,non_renewable_total,61026.7,False,0.027075769669150186
+2012,Queensland,non_renewable_total,59367.7,False,0.025814557591695885
+2013,Queensland,non_renewable_total,56674.5,False,0.024284609998791652
+2014,Queensland,non_renewable_total,63999.5,False,0.027103708917444
+2015,Queensland,non_renewable_total,63031.85,False,0.02642460405131832
+2016,Queensland,non_renewable_total,64495.152,False,0.026637515462278237
+2017,Queensland,non_renewable_total,65728.454,False,0.02673639281659656
+2018,Queensland,non_renewable_total,63055.128,False,0.025223645334385134
+2019,Queensland,non_renewable_total,60766.749,False,0.023917513815199083
+2020,Queensland,non_renewable_total,57607.528,False,0.022428479824208612
+2021,Queensland,non_renewable_total,55064.589,False,0.02111874333622257
+2022,Queensland,non_renewable_total,53579.665,False,0.02008857512322982
+2008,Queensland,renewable_total,2487.3,True,0.0011644684727874022
+2009,Queensland,renewable_total,2273.509,True,0.001042176942470777
+2010,Queensland,renewable_total,2314.7,True,0.0010452807473168026
+2011,Queensland,renewable_total,2636.5,True,0.0011697382741114048
+2012,Queensland,renewable_total,3264.7,True,0.0014195730366783547
+2013,Queensland,renewable_total,3805.465,True,0.0016306140043414882
+2014,Queensland,renewable_total,4117.542,True,0.0017437739329736984
+2015,Queensland,renewable_total,4355.282,True,0.0018258483985768108
+2016,Queensland,renewable_total,4481.666,True,0.0018509987754082146
+2017,Queensland,renewable_total,4988.108,True,0.0020290149362041567
+2018,Queensland,renewable_total,7611.352,True,0.0030447332271399553
+2019,Queensland,renewable_total,10236.245,True,0.00402893910291733
+2020,Queensland,renewable_total,12607.874,True,0.004908654432024307
+2021,Queensland,renewable_total,14168.523,True,0.005434007701217314
+2022,Queensland,renewable_total,17159.297,True,0.006433519635598917
+2008,Queensland,total,63338.1,0,0.029652724068771664
+2009,Queensland,total,64378.509,0,0.02951112033004813
+2010,Queensland,total,63148.0,0,0.028516606312507648
+2011,Queensland,total,63663.2,0,0.028245507943261593
+2012,Queensland,total,62632.4,0,0.027234130628374244
+2013,Queensland,total,60479.965,0,0.025915224003133137
+2014,Queensland,total,68117.042,0,0.0288474828504177
+2015,Queensland,total,67387.132,0,0.02825045244989513
+2016,Queensland,total,68976.818,0,0.02848851423768645
+2017,Queensland,total,70716.563,0,0.028765408159571165
+2018,Queensland,total,70666.48,0,0.028268378561525087
+2019,Queensland,total,71002.994,0,0.027946452918116413
+2020,Queensland,total,70215.402,0,0.027337134256232923
+2021,Queensland,total,69233.112,0,0.02655275103743988
+2022,Queensland,total,70738.962,0,0.026522094758828735
+2008,Western Australia,non_renewable_total,24758.5,False,0.022232189599266546
+2009,Western Australia,non_renewable_total,26991.9,False,0.023667140151515154
+2010,Western Australia,non_renewable_total,29881.8,False,0.025586755969455293
+2011,Western Australia,non_renewable_total,29492.8,False,0.024535051261659075
+2012,Western Australia,non_renewable_total,29967.0,False,0.024174441257971226
+2013,Western Australia,non_renewable_total,34251.4,False,0.027184923738492517
+2014,Western Australia,non_renewable_total,35159.704,False,0.027651015451983087
+2015,Western Australia,non_renewable_total,36159.649,False,0.02827641164473972
+2016,Western Australia,non_renewable_total,37051.041,False,0.02875957053581339
+2017,Western Australia,non_renewable_total,37987.48,False,0.029174548951059694
+2018,Western Australia,non_renewable_total,38150.129,False,0.028905247932694566
+2019,Western Australia,non_renewable_total,38945.516,False,0.028954396222038506
+2020,Western Australia,non_renewable_total,37351.004,False,0.027363493172863764
+2021,Western Australia,non_renewable_total,37168.239,False,0.026859273717421563
+2022,Western Australia,non_renewable_total,36841.251,False,0.02592962429362824
+2008,Western Australia,renewable_total,813.4,True,0.0007304022061127858
+2009,Western Australia,renewable_total,842.7,True,0.0007388994107744108
+2010,Western Australia,renewable_total,1029.1,True,0.0008811828794840485
+2011,Western Australia,renewable_total,1735.8,True,0.001444011486870959
+2012,Western Australia,renewable_total,2079.3,True,0.0016773756367904553
+2013,Western Australia,renewable_total,2428.186,True,0.00192722198896615
+2014,Western Australia,renewable_total,2622.214,True,0.0020622153085363398
+2015,Western Australia,renewable_total,2577.151,True,0.0020153011592190127
+2016,Western Australia,renewable_total,2987.911,True,0.0023192610744522057
+2017,Western Australia,renewable_total,3190.915,True,0.002450636521984892
+2018,Western Australia,renewable_total,3760.71,True,0.002849381058527057
+2019,Western Australia,renewable_total,4450.522,True,0.0033087808461158726
+2020,Western Australia,renewable_total,6164.277,True,0.004515973696587678
+2021,Western Australia,renewable_total,7381.045,True,0.005333841831344386
+2022,Western Australia,renewable_total,7636.963,True,0.005375050411136691
+2008,Western Australia,total,25571.9,0,0.02296259180537933
+2009,Western Australia,total,27834.6,0,0.02440603956228956
+2010,Western Australia,total,30910.9,0,0.026467938848939346
+2011,Western Australia,total,31228.6,0,0.02597906274853003
+2012,Western Australia,total,32046.3,0,0.02585181689476168
+2013,Western Australia,total,36679.586,0,0.02911214572745867
+2014,Western Australia,total,37781.918,0,0.029713230760519425
+2015,Western Australia,total,38736.8,0,0.03029171280395874
+2016,Western Australia,total,40038.952,0,0.031078831610265596
+2017,Western Australia,total,41178.395,0,0.03162518547304458
+2018,Western Australia,total,41910.839,0,0.031754628991221626
+2019,Western Australia,total,43396.038,0,0.032263177068154375
+2020,Western Australia,total,43515.282,0,0.03187946760205539
+2021,Western Australia,total,44549.284,0,0.032193115548765944
+2022,Western Australia,total,44478.213,0,0.03130467400094453
+2008,South Australia,non_renewable_total,12322.0,False,0.015603472728746251
+2009,South Australia,non_renewable_total,11627.5,False,0.014517570911669742
+2010,South Australia,non_renewable_total,11014.0,False,0.013630563946947973
+2011,South Australia,non_renewable_total,9809.0,False,0.012026610822846269
+2012,South Australia,non_renewable_total,9439.4,False,0.011459921717932033
+2013,South Australia,non_renewable_total,8203.5,False,0.009873029245396557
+2014,South Australia,non_renewable_total,7834.749,False,0.009348293866797757
+2015,South Australia,non_renewable_total,7685.867,False,0.0091096939440703
+2016,South Australia,non_renewable_total,6211.32,False,0.0073081747094411904
+2017,South Australia,non_renewable_total,7886.034,False,0.009193249763641472
+2018,South Australia,non_renewable_total,7408.831,False,0.008539425290138462
+2019,South Australia,non_renewable_total,6773.406,False,0.0077078432532818675
+2020,South Australia,non_renewable_total,5715.687,False,0.006447657294339942
+2021,South Australia,non_renewable_total,4506.864,False,0.005051037528088628
+2022,South Australia,non_renewable_total,4146.455,False,0.0045687440087266
+2008,South Australia,renewable_total,2133.8,True,0.002702052435367534
+2009,South Australia,renewable_total,2169.4,True,0.0027086147783940092
+2010,South Australia,renewable_total,3155.0,True,0.003904524174016784
+2011,South Australia,renewable_total,3599.628,True,0.004413429000205982
+2012,South Australia,renewable_total,3950.6,True,0.0047962335253154105
+2013,South Australia,renewable_total,4916.465,True,0.005917035744373571
+2014,South Australia,renewable_total,5191.562,True,0.006194486537309658
+2015,South Australia,renewable_total,5396.549,True,0.006396273802835598
+2016,South Australia,renewable_total,5499.925,True,0.0064711547285960696
+2017,South Australia,renewable_total,6937.615,True,0.008087617610954445
+2018,South Australia,renewable_total,7528.675,True,0.008677557592585549
+2019,South Australia,renewable_total,8266.039,True,0.009406395089488921
+2020,South Australia,renewable_total,8977.631,True,0.010127336924335147
+2021,South Australia,renewable_total,9953.499,True,0.011155317086291628
+2022,South Australia,renewable_total,11362.41,True,0.012519596284584109
+2008,South Australia,total,14455.8,0,0.018305525164113785
+2009,South Australia,total,13796.9,0,0.01722618569006375
+2010,South Australia,total,14169.0,0,0.017535088120964756
+2011,South Australia,total,13408.628,0,0.01644003982305225
+2012,South Australia,total,13390.0,0,0.016256155243247444
+2013,South Australia,total,13119.965,0,0.01579006498977013
+2014,South Australia,total,13026.311,0,0.015542780404107415
+2015,South Australia,total,13082.416,0,0.015505967746905897
+2016,South Australia,total,11711.245,0,0.01377932943803726
+2017,South Australia,total,14823.649,0,0.017280867374595915
+2018,South Australia,total,14937.506,0,0.01721698288272401
+2019,South Australia,total,15039.445,0,0.017114238342770788
+2020,South Australia,total,14693.318,0,0.016574994218675088
+2021,South Australia,total,14460.363,0,0.016206354614380258
+2022,South Australia,total,15508.865,0,0.01708834029331071
+2008,Tasmania,non_renewable_total,769.8,False,0.0030951213039877128
+2009,Tasmania,non_renewable_total,1183.7,False,0.0047077960816755094
+2010,Tasmania,non_renewable_total,1600.9,False,0.006306902569799829
+2011,Tasmania,non_renewable_total,1623.2,False,0.0063701366486927724
+2012,Tasmania,non_renewable_total,1764.6,False,0.006928150765606596
+2013,Tasmania,non_renewable_total,1004.7,False,0.003941885921892043
+2014,Tasmania,non_renewable_total,149.942,False,0.0005880701093841309
+2015,Tasmania,non_renewable_total,948.282,False,0.003712172932684027
+2016,Tasmania,non_renewable_total,919.37,False,0.0035571625344352617
+2017,Tasmania,non_renewable_total,1004.673,False,0.0038156244659235485
+2018,Tasmania,non_renewable_total,639.056,False,0.00237708674304419
+2019,Tasmania,non_renewable_total,217.312,False,0.0007934193279857463
+2020,Tasmania,non_renewable_total,205.966,False,0.0007399453212287994
+2021,Tasmania,non_renewable_total,185.438,False,0.00065721333437294
+2022,Tasmania,non_renewable_total,206.236,False,0.0007265335742946421
+2008,Tasmania,renewable_total,7827.397,True,0.03147147727912381
+2009,Tasmania,renewable_total,8831.1,True,0.03512293484572492
+2010,Tasmania,renewable_total,9976.5,True,0.03930340026710475
+2011,Tasmania,renewable_total,8994.6,True,0.03529868845510843
+2012,Tasmania,renewable_total,11330.2,True,0.04448449155869651
+2013,Tasmania,renewable_total,12994.756,True,0.050984219901286106
+2014,Tasmania,renewable_total,9480.946,True,0.037184117534013406
+2015,Tasmania,renewable_total,9396.045,True,0.03678203732990934
+2016,Tasmania,renewable_total,9683.9,True,0.0374682731296623
+2017,Tasmania,renewable_total,10740.248,True,0.040790140711342356
+2018,Tasmania,renewable_total,11158.569,True,0.04150635694093141
+2019,Tasmania,renewable_total,11461.179,True,0.04184546154885302
+2020,Tasmania,renewable_total,10370.566,True,0.03725688604038757
+2021,Tasmania,renewable_total,11790.255,True,0.04178600287782023
+2022,Tasmania,renewable_total,10498.456,True,0.03698423535296957
+2008,Tasmania,total,8597.197,0,0.03456659858311153
+2009,Tasmania,total,10014.8,0,0.03983073092740043
+2010,Tasmania,total,11577.4,0,0.04561030283690458
+2011,Tasmania,total,10617.8,0,0.0416688251038012
+2012,Tasmania,total,13094.8,0,0.0514126423243031
+2013,Tasmania,total,13999.456,0,0.05492610582317815
+2014,Tasmania,total,9630.888,0,0.03777218764339754
+2015,Tasmania,total,10344.327,0,0.04049421026259336
+2016,Tasmania,total,10603.27,0,0.04102543566409757
+2017,Tasmania,total,11744.921,0,0.04460576517726591
+2018,Tasmania,total,11797.625,0,0.0438834436839756
+2019,Tasmania,total,11678.491,0,0.042638880876838765
+2020,Tasmania,total,10576.532,0,0.037996831361616364
+2021,Tasmania,total,11975.694,0,0.04244321975630675
+2022,Tasmania,total,10704.692,0,0.03771076892726421
+2008,Northern Territory,non_renewable_total,2912.7,False,0.02506130456105934
+2009,Northern Territory,non_renewable_total,3253.1,False,0.027268917072516493
+2010,Northern Territory,non_renewable_total,3076.6,False,0.025430859901305183
+2011,Northern Territory,non_renewable_total,3130.2,False,0.02562880723128316
+2012,Northern Territory,non_renewable_total,3291.0,False,0.026318946282478828
+2013,Northern Territory,non_renewable_total,3432.5,False,0.027058665867848077
+2014,Northern Territory,non_renewable_total,2952.7,False,0.02329693392876868
+2015,Northern Territory,non_renewable_total,3007.344,False,0.023686028653114588
+2016,Northern Territory,non_renewable_total,2903.895,False,0.02277100356005834
+2017,Northern Territory,non_renewable_total,3384.935,False,0.026593353498055545
+2018,Northern Territory,non_renewable_total,4298.205,False,0.03408352364639832
+2019,Northern Territory,non_renewable_total,4789.404,False,0.038166839328690055
+2020,Northern Territory,non_renewable_total,4645.465,False,0.0368550223329393
+2021,Northern Territory,non_renewable_total,5023.411,False,0.039864861004198046
+2022,Northern Territory,non_renewable_total,4687.446,False,0.0368200177523624
+2008,Northern Territory,renewable_total,9.7,True,8.346024452991231e-05
+2009,Northern Territory,renewable_total,13.5,True,0.00011316294626017419
+2010,Northern Territory,renewable_total,14.3,True,0.00011820233263624266
+2011,Northern Territory,renewable_total,17.4,True,0.00014246413833759086
+2012,Northern Territory,renewable_total,23.4,True,0.00018713562534488135
+2013,Northern Territory,renewable_total,33.315,True,0.0002626247497122676
+2014,Northern Territory,renewable_total,44.304,True,0.0003495605245301479
+2015,Northern Territory,renewable_total,58.651,True,0.0004619389290130507
+2016,Northern Territory,renewable_total,87.331,True,0.0006848093722064521
+2017,Northern Territory,renewable_total,124.884,True,0.0009811368189496013
+2018,Northern Territory,renewable_total,159.319,True,0.0012633536333935991
+2019,Northern Territory,renewable_total,210.183,True,0.001674951787450393
+2020,Northern Territory,renewable_total,256.144,True,0.0020321308718176554
+2021,Northern Territory,renewable_total,282.994,True,0.0022457880661212117
+2022,Northern Territory,renewable_total,319.194,True,0.002507277683081056
+2008,Northern Territory,total,2922.4,0,0.025144764805589255
+2009,Northern Territory,total,3266.6,0,0.027382080018776667
+2010,Northern Territory,total,3090.9,0,0.02554906223394143
+2011,Northern Territory,total,3147.6,0,0.02577127136962075
+2012,Northern Territory,total,3314.4,0,0.02650608190782371
+2013,Northern Territory,total,3465.815,0,0.027321290617560345
+2014,Northern Territory,total,2997.004,0,0.023646494453298826
+2015,Northern Territory,total,3065.995,0,0.024147967582127637
+2016,Northern Territory,total,2991.226,0,0.023455812932264793
+2017,Northern Territory,total,3509.819,0,0.027574490317005144
+2018,Northern Territory,total,4457.524,0,0.035346877279791925
+2019,Northern Territory,total,4999.587,0,0.03984179111614045
+2020,Northern Territory,total,4901.608,0,0.03888714527120836
+2021,Northern Territory,total,5306.405,0,0.04211064907031926
+2022,Northern Territory,total,5006.64,0,0.03932729543544346
