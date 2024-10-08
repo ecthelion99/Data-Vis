@@ -42,13 +42,13 @@
     var renewable_percentage_chart_spec = "js/renewable_percentage.vg.json";
     vegaEmbed('#renewable_percentage_chart', renewable_percentage_chart_spec).catch(console.error);
 
-    // Embed the third chart (fossil fuel consumption map)
-    var fossil_map_spec = "js/fossil_fuel_map.vg.json";
-    vegaEmbed('#fossil_map', fossil_map_spec).catch(console.error);
-
-    // Embed the fourth chart (energy generation map)
-    var energy_generation_map_spec = "js/energy_generation_map.vg.json";
+    // Embed the third chart (australian states energy map)
+    var energy_generation_map_spec = "js/aus_states_energy_map.vg.json";
     vegaEmbed('#energy_generation_map', energy_generation_map_spec).catch(console.error);
+
+    // Embed the fourth chart (world energy map)
+    var fossil_map_spec = "js/world_energy_map.vg.json";
+    vegaEmbed('#fossil_map', fossil_map_spec).catch(console.error);
   </script>
 
 </body>
