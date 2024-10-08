@@ -1,62 +1,53 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Fossil Fuel Consumption Per Capita (2020)",
   "width": 800,
-  "height": 600,
-  "title": "Energy Generation Per Capita",
-  "projection": {"type": "equirectangular"},
+  "height": 400,
+  "projection": {"type": "equalEarth"},
   "data": {
-    "url": "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/data/australian_energy_states.csv"
+    "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
   },
-  "params": [
-    {
-      "name": "selectedYear",
-      "value": 2022,
-      "bind": {
-        "input": "range",
-        "min": 2008,
-        "max": 2022,
-        "step": 1,
-        "name": "Year: "
-      }
-    }
-  ],
   "transform": [
     {
-      "lookup": "State",
+      "lookup": "properties.ISO_A3",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/data/Australianstates.topojson",
-          "format": {
-            "type": "topojson",
-            "feature": "STE_2016_AUST"
-          }
+          "url": "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/data/owid-energy-data-2020.csv"
         },
-        "key": "properties.STE_NAME16"
-      },
-      "as": "geo"
+        "key": "iso_code",
+        "fields": ["energy_per_capita"]
+      }
     },
     {
-      "filter": "datum.Energy_Source === 'total' && datum.Year == selectedYear"
+      "calculate": "datum.energy_per_capita == 0 ? null : datum.energy_per_capita / 1000000",
+      "as": "energy_per_capita_gwh"
     }
   ],
   "mark": {
     "type": "geoshape",
     "stroke": "black",
-    "strokeWidth": 1
+    "strokeWidth": 0.5
   },
   "encoding": {
-    "shape": {"field": "geo", "type": "geojson"},
     "color": {
-      "field": "Value_Normalized",
+      "condition": {
+        "test": "datum.energy_per_capita_gwh === null",
+        "value": "#f0f0f0"
+      },
+      "field": "energy_per_capita_gwh",
       "type": "quantitative",
-      "legend": {
-        "title": "Energy Value"
-      }
+      "scale": {"type": "linear"},
+      "legend": {"title": "Energy Per Capita (GWh)"}
     },
     "tooltip": [
-      {"field": "geo.properties.STE_NAME16", "type": "nominal", "title": "State"},
-      {"field": "Value_Normalized", "type": "quantitative", "title":"GWh Per Capita"},
-      {"field": "Value", "type": "quantitative", "title": "Total GWh"}
+      {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+      {
+        "field": "energy_per_capita_gwh",
+        "type": "quantitative",
+        "title": "Energy Per Capita (GWh)",
+        "format": ".2f"
+      }
     ]
   }
 }
