@@ -11,26 +11,44 @@
 </head>
 <body>
 
-  <div class="chart-container">
-    <!-- First chart (barchart) -->
+  <div class="observations">
+    <h2>Observations</h2>
+    <p><strong>Sources Bar Chart:</strong> This bar chart provides a breakdown of energy sources consumed across different regions. By comparing the bars, you can see the relative dependency on various energy sources, such as coal, natural gas, and renewables. Regions with higher bars for renewable sources indicate a stronger reliance on sustainable energy, while those with a predominant fossil fuel presence may be more susceptible to regulatory changes and environmental impacts.</p>
+    <p><strong>Renewable Percentage Chart:</strong> This visualization shows the renewable energy consumption as a percentage of total energy per capita. Regions with higher percentages reflect a significant investment in renewable energy infrastructure. Observing the differences across regions can help identify leaders in renewable energy adoption and those who are lagging behind. This chart provides insights into the effectiveness of regional policies in supporting renewable energy.</p>
+    <p><strong>Fossil Fuel Consumption Map:</strong> The map highlights regions with high fossil fuel consumption per capita, which may correlate with industrialization levels, population density, and local energy policies. Regions with higher values could face more challenges related to emissions and environmental policies in the future, especially as global pressure for cleaner energy sources increases.</p>
+    <p><strong>Energy Generation Map:</strong> This map illustrates the total energy generation per capita across regions. Major energy-producing regions stand out, revealing the areas that may contribute significantly to the national or regional energy supply. By comparing this map with the fossil fuel consumption map, one can observe patterns, such as whether regions with high energy production also have high fossil fuel reliance, or if they are investing in cleaner energy alternatives.</p>
+  </div>
+
+  <div class="chart-grid">
+    <!-- First chart (barchart - sources) -->
     <div id="barchart" class="chart"></div>
 
     <!-- Second chart (renewable percentage) -->
     <div id="renewable_percentage_chart" class="chart"></div>
+
+    <!-- Third chart (fossil fuel consumption map) -->
+    <div id="fossil_map" class="chart"></div>
+
+    <!-- Fourth chart (energy generation map) -->
+    <div id="energy_generation_map" class="chart"></div>
   </div>
 
   <script type="text/javascript">
     // Embed the first chart
     var barchart_spec = "js/sources_barchart.vg.json";
-    vegaEmbed('#barchart', barchart_spec).then(function(result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
+    vegaEmbed('#barchart', barchart_spec).catch(console.error);
 
     // Embed the second chart (renewable percentage)
-    var renewable_spec = "js/renewable_percentage.vg.json";
-    vegaEmbed('#renewable_percentage_chart', renewable_spec).then(function(result) {
-      // Access the Vega view instance
-    }).catch(console.error);
+    var renewable_percentage_chart_spec = "js/renewable_percentage.vg.json";
+    vegaEmbed('#renewable_percentage_chart', renewable_percentage_chart_spec).catch(console.error);
+
+    // Embed the third chart (fossil fuel consumption map)
+    var fossil_map_spec = "js/fossil_fuel_map.vg.json";
+    vegaEmbed('#fossil_map', fossil_map_spec).catch(console.error);
+
+    // Embed the fourth chart (energy generation map)
+    var energy_generation_map_spec = "js/energy_generation_map.vg.json";
+    vegaEmbed('#energy_generation_map', energy_generation_map_spec).catch(console.error);
   </script>
 
 </body>
