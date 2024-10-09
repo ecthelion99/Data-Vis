@@ -1,53 +1,111 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>Australian Energy Generation</title>
   <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
   <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.5.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.21.0"></script>
+
+    <!-- Import pure.css -->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
 
   <!-- Link to the external CSS file -->
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-  <div class="observations">
-    <h2>Observations</h2>
-    <p><strong>Sources Bar Chart:</strong> This bar chart provides a breakdown of energy sources consumed across different regions. By comparing the bars, you can see the relative dependency on various energy sources, such as coal, natural gas, and renewables. Regions with higher bars for renewable sources indicate a stronger reliance on sustainable energy, while those with a predominant fossil fuel presence may be more susceptible to regulatory changes and environmental impacts.</p>
-    <p><strong>Renewable Percentage Chart:</strong> This visualization shows the renewable energy consumption as a percentage of total energy per capita. Regions with higher percentages reflect a significant investment in renewable energy infrastructure. Observing the differences across regions can help identify leaders in renewable energy adoption and those who are lagging behind. This chart provides insights into the effectiveness of regional policies in supporting renewable energy.</p>
-    <p><strong>Fossil Fuel Consumption Map:</strong> The map highlights regions with high fossil fuel consumption per capita, which may correlate with industrialization levels, population density, and local energy policies. Regions with higher values could face more challenges related to emissions and environmental policies in the future, especially as global pressure for cleaner energy sources increases.</p>
-    <p><strong>Energy Generation Map:</strong> This map illustrates the total energy generation per capita across regions. Major energy-producing regions stand out, revealing the areas that may contribute significantly to the national or regional energy supply. By comparing this map with the fossil fuel consumption map, one can observe patterns, such as whether regions with high energy production also have high fossil fuel reliance, or if they are investing in cleaner energy alternatives.</p>
-  </div>
-
-  <div class="chart-grid">
-    <!-- First chart (barchart - sources) -->
-    <div id="barchart" class="chart"></div>
-
-    <!-- Second chart (renewable percentage) -->
-    <div id="renewable_percentage_chart" class="chart"></div>
-
-    <!-- Third chart (australian states energy map) -->
-    <div id="aus_states_energy_map" class="chart"></div>
-
-    <!-- Fourth chart (world energy map) -->
-    <div id="world_energy_map" class="chart"></div>
+  <div class="page">
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1>Australian Energy Generation</h1>
+      </div>
+    </div>
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="barchart" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <p>Energy generation throughout the Australian states have somewhat
+             diverse sources. Over-time generation has become more diverse.
+             Most states still have a significant reliance on either coal or
+             natural gas. The two exceptions are Tasmania, which has almost 
+             no reliance on coal or gas, and South Australia, who's major
+             generation source is wind and solar (a significant shift from
+             2019).
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <p>Australia's 2030 renewable goal is 82% renewable generation.
+             Only Tasmania has achieved this (although Tasmania imports
+             from the National Electricity Market). and South Australian
+             is making good progress whilst the other states are lagging.
+          </p>
+        </div>
+      </div>
+      <div class="pure-u-1-2">
+        <div id="renewable_percentage_chart" class="vis-container"></div>
+      </div>
+    </div>
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <p>This map illustrates the total energy generation per capita across
+            regions. Major energy-producing regions stand out, revealing the areas
+            that may contribute significantly to the national or regional energy
+            supply. By comparing this map with the fossil fuel consumption
+            map, one can observe patterns, such as whether regions with
+            high energy production also have high fossil fuel reliance, or
+            if they are investing in cleaner energy alternatives.</p>
+        </div>
+      </div>
+      <div class="pure-u-1-2">
+        <div id="aus_states_energy_map" class="vis-container"></div>
+      </div>
+    </div>
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="world_energy_map" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <p>This map allows us to compare the energy generation of Australia
+             with the rest of the world. Being a developed country our
+             our per-capita energy generation is relatively high, near that
+             of the United States.
+          </p>
+        </div>
+      </div>
+    </div>
   </div>
 
   <script type="text/javascript">
     // Embed the first chart
-    var barchart_spec = "js/sources_barchart.vg.json";
+    var barchart_spec = "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/js/sources_barchart.vg.json";
     vegaEmbed('#barchart', barchart_spec).catch(console.error);
 
     // Embed the second chart (renewable percentage)
-    var renewable_percentage_chart_spec = "js/renewable_percentage.vg.json";
+    var renewable_percentage_chart_spec = "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/js/renewable_percentage.vg.json";
     vegaEmbed('#renewable_percentage_chart', renewable_percentage_chart_spec).catch(console.error);
 
     // Embed the third chart (australian states energy map)
-    var aus_states_energy_map_spec = "js/aus_states_energy_map.vg.json";
+    var aus_states_energy_map_spec = "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/js/aus_states_energy_map.vg.json";
     vegaEmbed('#aus_states_energy_map', aus_states_energy_map_spec).catch(console.error);
 
     // Embed the fourth chart (world energy map)
-    var world_energy_map_spec = "js/world_energy_map.vg.json";
+    var world_energy_map_spec = "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/js/world_energy_map.vg.json";
     vegaEmbed('#world_energy_map', world_energy_map_spec).catch(console.error);
   </script>
 

@@ -36,14 +36,14 @@
       "field": "fossil_energy_per_capita",
       "type": "quantitative",
       "scale": {"type": "linear"},
-      "legend": {"title": "Fossil Share of Electricity"}
+      "legend": {"title": "Energy Per Capita"}
     },
     "tooltip": [
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},
       {
         "field": "fossil_energy_per_capita_adjusted",
         "type": "quantitative",
-        "title": "Fossil Share of Electricity",
+        "title": "Energy Per Capita (kWh)",
         "format": ".2f"
       }
     ]
