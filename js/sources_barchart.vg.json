@@ -42,12 +42,12 @@
   "mark": "bar",
   "encoding": {
   "y": { "field": "Value", "type": "quantitative", "title": "Generated Energy (GWh)" },
-  "x": { "field": "Energy_Source", "type": "nominal", "title": "Energy Source"},
+  "x": { "field": "Energy_Source", "type": "nominal", "title": "Energy Source", "sort": "-y"},
   "tooltip": [
     { "field": "State", "type": "nominal", "title": "State" },
     { "field": "Year", "type": "ordinal", "title": "Year" },
     { "field": "Energy_Source", "type": "nominal", "title": "Energy Source" },
-    { "field": "Value", "type": "quantitative", "title": "Generated Energy (GWh)" }
+    { "field": "Value", "type": "quantitative", "title": "Generated Energy (GWh)", "format": ",.0f" }
   ]
   }
   }

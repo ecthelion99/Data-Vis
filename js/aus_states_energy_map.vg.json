@@ -1,6 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Energy Generation Per Capita",
+  "width": "container",
+  "height": 200,
   "projection": {"type": "equirectangular"},
   "data": {
     "url": "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/data/australian_energy_states.csv"
@@ -34,6 +36,10 @@
       "as": "geo"
     },
     {
+      "calculate": "datum.Value_Normalized * 1000000",
+      "as": "Value_Normalized_kWh"
+    },
+    {
       "filter": "datum.Energy_Source === 'total' && datum.Year == selectedYear"
     }
   ],
@@ -45,16 +51,18 @@
   "encoding": {
     "shape": {"field": "geo", "type": "geojson"},
     "color": {
-      "field": "Value_Normalized",
+      "field": "Value_Normalized_kWh",
       "type": "quantitative",
+      "scale": {"type": "linear", "scheme": "yellowgreenblue"},
       "legend": {
-        "title": "Energy Value"
+        "title": "Energy Per Capita (GWh)",
+        "orient": "right"
       }
     },
     "tooltip": [
       {"field": "geo.properties.STE_NAME16", "type": "nominal", "title": "State"},
-      {"field": "Value_Normalized", "type": "quantitative", "title":"GWh Per Capita"},
-      {"field": "Value", "type": "quantitative", "title": "Total GWh"}
+      {"field": "Value_Normalized_kWh", "type": "quantitative", "title":"kWh Per Capita", "format": ",.0f"},
+      {"field": "Value", "type": "quantitative", "title": "Total GWh", "format":",.0f"}
     ]
   }
 }

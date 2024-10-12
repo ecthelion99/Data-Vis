@@ -61,8 +61,11 @@
     </div>
     <div class="pure-g">
       <div class="pure-u-1-2">
-        <div class="description description-left">
-          <p>This map illustrates the total energy generation per capita across
+        <div id="aus_states_energy_map" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <p>The map to the left illustrates the total energy generation per capita across
             regions. Major energy-producing regions stand out, revealing the areas
             that may contribute significantly to the national or regional energy
             supply. By comparing this map with the fossil fuel consumption
@@ -70,18 +73,8 @@
             high energy production also have high fossil fuel reliance, or
             if they are investing in cleaner energy alternatives.</p>
         </div>
-      </div>
-      <div class="pure-u-1-2">
-        <div id="aus_states_energy_map" class="vis-container"></div>
-      </div>
-    </div>
-    <div class="pure-g">
-      <div class="pure-u-1-2">
-        <div id="world_energy_map" class="vis-container"></div>
-      </div>
-      <div class="pure-u-1-2">
-        <div class="description description-left">
-          <p>This map allows us to compare the energy generation of Australia
+        <div class="description description-right">
+          <p>The map below allows us to compare the energy generation of Australia
              with the rest of the world. Being a developed country our
              our per-capita energy generation is relatively high, near that
              of the United States.
@@ -89,23 +82,28 @@
         </div>
       </div>
     </div>
+    <div class="pure-g">
+      <div class="pure-u-1">
+        <div id="world_energy_map" class="vis-container"></div>
+      </div>
+    </div>
   </div>
 
   <script type="text/javascript">
     // Embed the first chart
-    var barchart_spec = "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/js/sources_barchart.vg.json";
+    var barchart_spec = "js/sources_barchart.vg.json";
     vegaEmbed('#barchart', barchart_spec).catch(console.error);
 
     // Embed the second chart (renewable percentage)
-    var renewable_percentage_chart_spec = "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/js/renewable_percentage.vg.json";
+    var renewable_percentage_chart_spec = "js/renewable_percentage.vg.json";
     vegaEmbed('#renewable_percentage_chart', renewable_percentage_chart_spec).catch(console.error);
 
     // Embed the third chart (australian states energy map)
-    var aus_states_energy_map_spec = "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/js/aus_states_energy_map.vg.json";
+    var aus_states_energy_map_spec = "js/aus_states_energy_map.vg.json";
     vegaEmbed('#aus_states_energy_map', aus_states_energy_map_spec).catch(console.error);
 
     // Embed the fourth chart (world energy map)
-    var world_energy_map_spec = "https://raw.githubusercontent.com/ecthelion99/Data-Vis/refs/heads/master/js/world_energy_map.vg.json";
+    var world_energy_map_spec = "js/world_energy_map.vg.json";
     vegaEmbed('#world_energy_map', world_energy_map_spec).catch(console.error);
   </script>
 
